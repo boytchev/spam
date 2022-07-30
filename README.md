@@ -4,9 +4,10 @@
 
 This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic business, however they are included because of utilizing unwanted practices:
 
-- Using a fake sender domain or IP address
-- Using services for mass emailing
-- Hiding links or using tracking
+- Using a fake sender email, domain or IP address [FAK]
+- Using services for mass emailing [MAS]
+- Hiding links or using tracking [TRK]
+- Unrelated, unvisited, unknown conferences [UNK]
 - Known to follow predatory activities
 - Mimiking actual academic institutions, events and publications
 - Anything that make me feel abused, forced, or cheated
@@ -16,7 +17,34 @@ This list does not contain non-academic spam sources like enlargement pills, cat
 
 ## Spam sites
 
-This list contains sites that have sent me academic spam. They are blocked in my email filters. The web sites are extracted from the email headers (the first domain in `Received:` that appears not to be faked).
+This list contains sites that have sent me academic spam. They are blocked in my email filters. The web sites are extracted from the email headers (the earliest domain in the `Received` element that appears not to be faked).
+
+
+
+## Spam events
+
+This is a list of events that have been promoted via spam emails. This does not mean the events are not legit, but it raises concerns. Click on links at your own discretion.
+
+- Blacksea Coastline Countries Scientific Research Conference (www.blackseacountries.org/conference) [ FAK | MAS | TRK | UKN ]
+
+
+
+## Spam journals
+
+This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legit, but it raises concerns. Click on links at your own discretion.
+
+- EJ-EDU: European Journal of Education and Pedagogy (www.ej-edu.org) [ MAS | TRK | UKN ]
+
+
+
+## Spam mailing services
+
+This is a list of servises used to sent academic spam messages. They are all blocked in my email client.
+
+- mailjet.com [ MAS | TRK ]
+- mjt.lu [ MAS | TRK ]
+- sendinbx.com [ FAK | MAS | TRK ]
+
 
 
 
