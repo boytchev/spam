@@ -2,12 +2,12 @@
 
 This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic business, however they are included because of utilizing unwanted practices:
 
-- Using a fake sender email, domain or IP address [FAK]
-- Using services for mass emailing [MAS]
-- Hiding links or using tracking [TRK]
-- Unrelated, unvisited, unknown conferences [UNK]
-- Known to follow predatory activities or included in Beall's list [BEA]
-- Using misleading or custom ranking, e.g. IF which is not from Web of Science [RAN]
+- Using a fake sender email, domain or IP address <img src="images/fak.png">
+- Using services for mass emailing <img src="images/mas.png">
+- Hiding links or using tracking <img src="images/trk.png">
+- Unrelated, unvisited, unknown conferences <img src="images/unk.png">
+- Known to follow predatory activities or included in Beall's list <img src="images/bea.png">
+- Using misleading or custom ranking, e.g. IF which is not from Web of Science <img src="images/rnk.png">
 - Mimiking actual academic institutions, events and publications
 - Anything that make me feel abused, forced, or cheated
 
@@ -26,8 +26,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | Event | URL | Tags |
 |---|---|---|
-| Blacksea Coastline Countries Scientific Research Conference | www.blackseacountries.org/conference | FAK : MAS : TRK : UKN |
-| European Congress on Interdisciplinary Scientific Research | www.eucongress.org | MAS : TRK : UNK |
+| Blacksea Coastline Countries Scientific Research Conference | www.blackseacountries.org/conference | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
+| European Congress on Interdisciplinary Scientific Research | www.eucongress.org | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
 
 
 
@@ -37,8 +37,8 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 | Journal | Full name | URL | Tags |
 |---|---|---|---|
-| EJ-EDU | European Journal of Education and Pedagogy | www.ej-edu.org | MAS : TRK : UKN |
-| IJES | International Journal of Engineering and Science | www.theijes.com |  MAS : TRK : BEA : RAN |
+| EJ-EDU | European Journal of Education and Pedagogy | www.ej-edu.org | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
+| IJES | International Journal of Engineering and Science | www.theijes.com |  <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/bea.png"> <img src="images/rnk.png"> |
 
 
 
@@ -48,12 +48,12 @@ This is a list of services used to sent academic spam messages. They are all blo
 
 | Site | Tags |
 |---|---|
-| mailjet.com | MAS : TRK |
-| mjt.lu | MAS : TRK |
-| point4web.com | MAS : TRK |
-| replitest.com | MAS : TRK |
-| sendinbx.com | FAK : MAS : TRK |
-| euromsg.net | MAS : TRK |
+| mailjet.com | <img src="images/mas.png"> <img src="images/trk.png"> |
+| mjt.lu | <img src="images/mas.png"> <img src="images/trk.png"> |
+| point4web.com | <img src="images/mas.png"> <img src="images/trk.png"> |
+| replitest.com | <img src="images/mas.png"> <img src="images/trk.png"> |
+| sendinbx.com | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> |
+| euromsg.net | <img src="images/mas.png"> <img src="images/trk.png"> |
 
 
 
