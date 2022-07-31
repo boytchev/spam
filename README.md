@@ -15,11 +15,11 @@ This projects lists academic events, publications and websites that spam me. Som
 
 This list does not contain non-academic spam sources like enlargement pills, cat food, financing opportunities and deseased rich people with no relatives.
 
-
+<!--
 ## Spam sites
 
 This list contains sites that have sent me academic spam. They are blocked in my email filters. The web sites are extracted from the email headers (the earliest domain in the `Received` element that appears not to be faked).
-
+-->
 
 
 ## Spam events
@@ -51,9 +51,9 @@ This is a list of servises used to sent academic spam messages. They are all blo
 
 
 
-
+<!--
 ## Spam IP addresses
 
 This list contains sites that have sent me academic spam. They are blocked in my email filters. The web sites try to hide their domains, but the IP address or origin is found in the email header.
-
+-->
 
