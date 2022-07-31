@@ -8,7 +8,8 @@ This projects lists academic events, publications and websites that spam me. Som
 - Using services for mass emailing [MAS]
 - Hiding links or using tracking [TRK]
 - Unrelated, unvisited, unknown conferences [UNK]
-- Known to follow predatory activities
+- Known to follow predatory activities or included in Beall's list [BEA]
+- Using misleading or custom ranking, e.g. IF which is not from Web of Science [RAN]
 - Mimiking actual academic institutions, events and publications
 - Anything that make me feel abused, forced, or cheated
 
@@ -34,6 +35,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legit, but it raises concerns. Click on links at your own discretion.
 
 - EJ-EDU: European Journal of Education and Pedagogy (www.ej-edu.org) [ MAS | TRK | UKN ]
+- IJES: International Journal of Engineering and Science (www.theijes.com) [ MAS | TRK | BEA | RAN ]
 
 
 
@@ -43,6 +45,8 @@ This is a list of servises used to sent academic spam messages. They are all blo
 
 - mailjet.com [ MAS | TRK ]
 - mjt.lu [ MAS | TRK ]
+- point4web.com [ MAS | TRK ]
+- replitest.com [ MAS | TRK ]
 - sendinbx.com [ FAK | MAS | TRK ]
 
 
