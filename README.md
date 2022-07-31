@@ -43,7 +43,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 ## Spam mailing services
 
-This is a list of servises used to sent academic spam messages. They are all blocked in my email client.
+This is a list of services used to sent academic spam messages. They are all blocked in my email client.
 
 | Site | Tags |
 |---|---|
