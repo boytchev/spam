@@ -13,10 +13,10 @@ This list contains sites that have sent me academic spam. They are blocked in my
 
 This is a list of events that have been promoted via spam emails. This does not mean the events are not legit, but it raises concerns. Click on links at your own discretion.
 
-| Event | URL | Tags |
-|---|---|---|
-| Blacksea Coastline Countries Scientific Research Conference | www.blackseacountries.org/conference | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| European Congress on Interdisciplinary Scientific Research | www.eucongress.org | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
+| Event | Tags |
+|---|---|
+| Blacksea Coastline Countries Scientific Research Conference <br> *www.blackseacountries.org/conference* | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
+| European Congress on Interdisciplinary Scientific Research <br> *www.eucongress.org* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
 
 
 
