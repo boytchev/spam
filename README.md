@@ -27,6 +27,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event | URL | Tags |
 |---|---|---|
 | Blacksea Coastline Countries Scientific Research Conference | www.blackseacountries.org/conference | FAK : MAS : TRK : UKN |
+| European Congress on Interdisciplinary Scientific Research | www.eucongress.org | MAS : TRK : UNK |
 
 
 
@@ -52,6 +53,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | point4web.com | MAS : TRK |
 | replitest.com | MAS : TRK |
 | sendinbx.com | FAK : MAS : TRK |
+| euromsg.net | MAS : TRK |
 
 
 
