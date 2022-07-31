@@ -1,5 +1,3 @@
-# Spam
-
 > Academic spam is the practice of sending unwanted email messages, promoting academic conferences, publishing opportunities, invitations to joining editorial boards and program committes.
 
 This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic business, however they are included because of utilizing unwanted practices:
