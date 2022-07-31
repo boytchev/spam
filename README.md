@@ -1,17 +1,6 @@
 > Academic spam is the practice of sending unwanted email messages, promoting academic conferences, publishing opportunities, invitations to joining editorial boards and program committes.
 
-This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic business, however they are included because of utilizing unwanted practices:
-
-- Using a fake sender email, domain or IP address <img src="images/fak.png">
-- Using services for mass emailing <img src="images/mas.png">
-- Hiding links or using tracking <img src="images/trk.png">
-- Unrelated, unvisited, unknown conferences <img src="images/unk.png">
-- Known to follow predatory activities or included in Beall's list <img src="images/bea.png">
-- Using misleading or custom ranking, e.g. IF which is not from Web of Science <img src="images/rnk.png">
-- Mimiking actual academic institutions, events and publications
-- Anything that make me feel abused, forced, or cheated
-
-This list does not contain non-academic spam sources like enlargement pills, cat food, financing opportunities and deseased rich people with no relatives.
+This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic businesses, however they are included because of utilizing unwanted practices. This list does not contain non-academic spam sources like enlargement pills, cat food, financing opportunities and deseased rich people with no relatives.
 
 <!--
 ## Spam sites
@@ -62,4 +51,18 @@ This is a list of services used to sent academic spam messages. They are all blo
 
 This list contains sites that have sent me academic spam. They are blocked in my email filters. The web sites try to hide their domains, but the IP address or origin is found in the email header.
 -->
+
+
+## Tags
+
+| Tag | Description |
+|---|---|
+| <img src="images/fak.png"> | Using a fake sender email, domain or IP address |
+| <img src="images/mas.png"> | Using services for mass emailing |
+| <img src="images/trk.png"> | Hiding links or using tracking |
+| <img src="images/unk.png"> | Unrelated, unvisited, unknown conferences |
+| <img src="images/bea.png"> | Known to follow predatory activities or included in Beall's list |
+| <img src="images/rnk.png"> | Using misleading or custom ranking, e.g. IF which is not from Web of Science |
+|  | Mimiking actual academic institutions, events and publications |
+|  | Anything that make me feel abused, forced, or cheated |
 
