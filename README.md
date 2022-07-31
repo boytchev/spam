@@ -24,7 +24,9 @@ This list contains sites that have sent me academic spam. They are blocked in my
 
 This is a list of events that have been promoted via spam emails. This does not mean the events are not legit, but it raises concerns. Click on links at your own discretion.
 
-- Blacksea Coastline Countries Scientific Research Conference (www.blackseacountries.org/conference) [ FAK | MAS | TRK | UKN ]
+| Event | URL | Tags |
+|---|---|---|
+| Blacksea Coastline Countries Scientific Research Conference | www.blackseacountries.org/conference | FAK : MAS : TRK : UKN |
 
 
 
@@ -32,8 +34,10 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legit, but it raises concerns. Click on links at your own discretion.
 
-- EJ-EDU: European Journal of Education and Pedagogy (www.ej-edu.org) [ MAS | TRK | UKN ]
-- IJES: International Journal of Engineering and Science (www.theijes.com) [ MAS | TRK | BEA | RAN ]
+| Journal | Full name | URL | Tags |
+|---|---|---|---|
+| EJ-EDU | European Journal of Education and Pedagogy | www.ej-edu.org | MAS : TRK : UKN |
+| IJES | International Journal of Engineering and Science | www.theijes.com |  MAS : TRK : BEA : RAN |
 
 
 
@@ -41,11 +45,13 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 This is a list of servises used to sent academic spam messages. They are all blocked in my email client.
 
-- mailjet.com [ MAS | TRK ]
-- mjt.lu [ MAS | TRK ]
-- point4web.com [ MAS | TRK ]
-- replitest.com [ MAS | TRK ]
-- sendinbx.com [ FAK | MAS | TRK ]
+| Site | Tags |
+|---|---|
+| mailjet.com | MAS : TRK |
+| mjt.lu | MAS : TRK |
+| point4web.com | MAS : TRK |
+| replitest.com | MAS : TRK |
+| sendinbx.com | FAK : MAS : TRK |
 
 
 
