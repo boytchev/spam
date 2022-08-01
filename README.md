@@ -23,9 +23,11 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event | Full name | Tags |
 |---|---|---|
 | | Blacksea Coastline Countries Scientific Research Conference <br> *www.blackseacountries.org/conference* | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| | Eurasia Conferences <br> *[eurasiaconferences.com](eurasiaconferences.com)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
+| | Eurasia Conferences <br> *[eurasiaconferences.com](http://eurasiaconferences.com)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
 | | European Congress on Interdisciplinary Scientific Research <br> *www.eucongress.org* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| WorldCIST | World Conference on Information Systems and Technologies <br> *[worldcist.org](worldcist.org)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/com.png"> |
+| ICAMEST | International Conference on Advanced Materials and Engineering Structural Technology <br> *[icamest.org](http://icamest.org)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/oth.png"> |
+| EMENA | International Conference Europe Middle East & North Africa <br> *[emena.org](http://emena.org)* | <img src="images/mas.png"> <img src="images/unk.png"> <img src="images/oth.png"> |
+| WorldCIST | World Conference on Information Systems and Technologies <br> *[worldcist.org](http://worldcist.org)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/com.png"> |
 
 
 
@@ -49,8 +51,10 @@ This is a list of services used to sent academic spam messages. They are all blo
 | Site | Tags |
 |---|---|
 | acaademiaa.com | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/mim.png"> |
+| directsend08.com | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/oth.png"> |
 | eurasiatalk.com | <img src="images/mas.png"> <img src="images/trk.png"> |
 | euromsg.net | <img src="images/mas.png"> <img src="images/trk.png"> |
+| heberjahiz.com | <img src="images/mas.png"> <img src="images/oth.png"> |
 | mailjet.com | <img src="images/mas.png"> <img src="images/trk.png"> |
 | mjt.lu | <img src="images/mas.png"> <img src="images/trk.png"> |
 | point4web.com | <img src="images/mas.png"> <img src="images/trk.png"> |
@@ -79,5 +83,5 @@ This list contains sites that have sent me academic spam. They are blocked in my
 | <img src="images/unk.png"> | Unrelated, unvisited, unknown conferences |
 | <img src="images/bea.png"> | Known to follow predatory activities or included in Beall's list |
 | <img src="images/rnk.png"> | Using misleading or custom ranking, e.g. IF which is not from Web of Science |
-|  | Anything that make me feel abused, forced, or cheated |
+| <img src="images/oth.png"> | Other things that make me feel abused, forced, or cheated, like being added to lists, using text in images, etc. |
 
