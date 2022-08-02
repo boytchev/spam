@@ -22,28 +22,28 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | |
 |---|
-| Blacksea Coastline Countries Scientific Research Conference <br> *https://www.blackseacountries.org/conference |
-| Eurasia Conferences <br> https://eurasiaconferences.com |
-| European Congress on Interdisciplinary Scientific Research <br> https://www.eucongress.org |
-| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST) <br> https://icamest.org |
-| International Conference on Systems and Informatics (ICSAI) <br> http://icsai.sei.ynu.edu.cn |
-| International Conference Europe Middle East & North Africa (EMENA) <br> https://emena.org |
-| International Scientific and Practical Internet Conference  <br> http://wayscience.com |
-| World Conference on Information Systems and Technologies (WorldCIST) <br> http://worldcist.org |
-| World Symposium on Smart Materials and Applications (WSSMA) <br> https://wssma-conf.org |
+| Blacksea Coastline Countries Scientific Research Conference *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
+| Eurasia Conferences *[eurasiaconferences.com](https://eurasiaconferences.com)* |
+| European Congress on Interdisciplinary Scientific Research *[www.eucongress.org](https://www.eucongress.org)* |
+| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST) *[icamest.org]https://icamest.org)* |
+| International Conference on Systems and Informatics (ICSAI) *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
+| International Conference Europe Middle East & North Africa (EMENA) *[emena.org](https://emena.org)* |
+| International Scientific and Practical Internet Conference *[wayscience.com](http://wayscience.com)* |
+| World Conference on Information Systems and Technologies (WorldCIST) *[worldcist.org](http://worldcist.org)* |
+| World Symposium on Smart Materials and Applications (WSSMA) *[wssma-conf.org](https://wssma-conf.org)* |
 | |
 
 
 
 # Spam journals
 
-This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legit, but it raises concerns. Click on links at your own discretion.
+This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legitimate, but it raises concerns. Click on links at your own discretion.
 
 | |
 |---|
-| European Journal of Education and Pedagogy (EJ-EDU) <br> https://www.ej-edu.org |
-| International Journal of Engineering and Science (IJES) <br> https://www.theijes.com |
-| International Scientific and Practical Internet Journal  <br> https://wayscience.com |
+| European Journal of Education and Pedagogy (EJ-EDU) *[www.ej-edu.org](https://www.ej-edu.org)* |
+| International Journal of Engineering and Science (IJES) *[www.theijes.com](https://www.theijes.com)* |
+| International Scientific and Practical Internet Journal *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | |
 
