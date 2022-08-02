@@ -22,12 +22,15 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | |
 |---|
-| Blacksea Coastline Countries Scientific Research Conference <br> *www.blackseacountries.org/conference* |
-| Eurasia Conferences <br> *[eurasiaconferences.com](http://eurasiaconferences.com)* |
-| European Congress on Interdisciplinary Scientific Research <br> *www.eucongress.org* |
-| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST) <br> *[icamest.org](http://icamest.org)* |
-| International Conference Europe Middle East & North Africa (EMENA) <br> *[emena.org](http://emena.org)* |
-| World Conference on Information Systems and Technologies (WorldCIST) <br> *[worldcist.org](http://worldcist.org)* |
+| Blacksea Coastline Countries Scientific Research Conference <br> *https://www.blackseacountries.org/conference |
+| Eurasia Conferences <br> https://eurasiaconferences.com |
+| European Congress on Interdisciplinary Scientific Research <br> https://www.eucongress.org |
+| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST) <br> https://icamest.org |
+| International Conference on Systems and Informatics (ICSAI) <br> http://icsai.sei.ynu.edu.cn |
+| International Conference Europe Middle East & North Africa (EMENA) <br> https://emena.org |
+| International Scientific and Practical Internet Conference  <br> http://wayscience.com |
+| World Conference on Information Systems and Technologies (WorldCIST) <br> http://worldcist.org |
+| World Symposium on Smart Materials and Applications (WSSMA) <br> https://wssma-conf.org |
 | |
 
 
@@ -38,8 +41,9 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 | |
 |---|
-| European Journal of Education and Pedagogy (EJ-EDU) <br> www.ej-edu.org |
-| International Journal of Engineering and Science (IJES) <br> www.theijes.com |
+| European Journal of Education and Pedagogy (EJ-EDU) <br> https://www.ej-edu.org |
+| International Journal of Engineering and Science (IJES) <br> https://www.theijes.com |
+| International Scientific and Practical Internet Journal  <br> https://wayscience.com |
 | Journal of Business & Economic Management (JBEM) |
 | |
 
@@ -49,20 +53,22 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 This is a list of services used to sent academic spam messages. They are all blocked in my email client.
 
-| |
-|---|
-| acaademiaa.com |
-| directsend08.com |
-| eurasiatalk.com |
-| euromsg.net |
-| heberjahiz.com |
-| mailjet.com |
-| mjt.lu |
-| point4web.com |
-| replitest.com |
-| sendinbx.com |
-| techinhosting.com |
-| |
+| | |
+|---|---|
+| acaademiaa.com ||
+| crismtorc.online | 198.91.86.63 |
+| directsend08.com ||
+| directsend27.com | 223.130.117.12 |
+| eurasiatalk.com ||
+| euromsg.net ||
+| heberjahiz.com ||
+| mailjet.com ||
+| mjt.lu ||
+| point4web.com ||
+| replitest.com ||
+| sendinbx.com ||
+| techinhosting.com ||
+| | |
 
 
 <!--
