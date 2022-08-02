@@ -9,11 +9,6 @@ This projects lists academic events, publications and websites that spam me. Som
 - [Spam mailing services](#spam-mailing-services)
 - [Criteria](#criteria)
 
-<!--
-## Spam sites
-
-This list contains sites that have sent me academic spam. They are blocked in my email filters. The web sites are extracted from the email headers (the earliest domain in the `Received` element that appears not to be faked).
--->
 
 
 # Spam events
@@ -26,6 +21,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
+| International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
