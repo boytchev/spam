@@ -20,18 +20,17 @@ This list contains sites that have sent me academic spam. They are blocked in my
 
 This is a list of events that have been promoted via spam emails. This does not mean the events are not legit, but it raises concerns. Click on links at your own discretion.
 
-| |
+| Event name and site |
 |---|
-| Blacksea Coastline Countries Scientific Research Conference *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
-| Eurasia Conferences *[eurasiaconferences.com](https://eurasiaconferences.com)* |
-| European Congress on Interdisciplinary Scientific Research *[www.eucongress.org](https://www.eucongress.org)* |
-| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST) *[icamest.org]https://icamest.org)* |
-| International Conference on Systems and Informatics (ICSAI) *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
-| International Conference Europe Middle East & North Africa (EMENA) *[emena.org](https://emena.org)* |
-| International Scientific and Practical Internet Conference *[wayscience.com](http://wayscience.com)* |
-| World Conference on Information Systems and Technologies (WorldCIST) *[worldcist.org](http://worldcist.org)* |
-| World Symposium on Smart Materials and Applications (WSSMA) *[wssma-conf.org](https://wssma-conf.org)* |
-| |
+| Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
+| Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
+| European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
+| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
+| International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
+| International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
+| International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
+| World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
+| World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
 
 
 
@@ -39,13 +38,12 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legitimate, but it raises concerns. Click on links at your own discretion.
 
-| |
+| Journal name and site |
 |---|
-| European Journal of Education and Pedagogy (EJ-EDU) *[www.ej-edu.org](https://www.ej-edu.org)* |
-| International Journal of Engineering and Science (IJES) *[www.theijes.com](https://www.theijes.com)* |
-| International Scientific and Practical Internet Journal *[https://wayscience.com](https://wayscience.com)* |
+| European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
+| International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
+| International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
-| |
 
 
 
@@ -53,8 +51,8 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 This is a list of services used to sent academic spam messages. They are all blocked in my email client.
 
-| | |
-|---|---|
+| Servise domain | IP address |
+|---|:---|
 | acaademiaa.com ||
 | crismtorc.online | 198.91.86.63 |
 | directsend08.com ||
@@ -68,7 +66,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | replitest.com ||
 | sendinbx.com ||
 | techinhosting.com ||
-| | |
+
 
 
 <!--
