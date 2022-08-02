@@ -1,13 +1,13 @@
 > Academic spam is the practice of sending unwanted email messages, promoting academic conferences, publishing opportunities, invitations to joining editorial boards and program committees.
 
-This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic businesses, however they are included because of utilizing unwanted practices. This list does not contain non-academic spam sources promoting enlargement pills, cat food, financing opportunities and deseased rich people with no relatives.
+This projects lists academic events, publications and websites that spam me. Some of the entries might be legitimate academic businesses, however they are included because of utilizing unwanted practices (see: [Criteria](#criteria)). This list does not contain non-academic spam sources promoting enlargement pills, cat food, financing opportunities, winning free stuff and deseased rich people with no relatives.
 
 # Table of contents
 
 - [Spam events](#spam-events)
 - [Spam journals](#spam-journals)
 - [Spam mailing services](#spam-mailing-services)
-- [Tags](#tags)
+- [Criteria](#criteria)
 
 <!--
 ## Spam sites
@@ -20,15 +20,15 @@ This list contains sites that have sent me academic spam. They are blocked in my
 
 This is a list of events that have been promoted via spam emails. This does not mean the events are not legit, but it raises concerns. Click on links at your own discretion.
 
-| Event | Full name | Tags |
-|---|---|---|
-| | Blacksea Coastline Countries Scientific Research Conference <br> *www.blackseacountries.org/conference* | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| | Eurasia Conferences <br> *[eurasiaconferences.com](http://eurasiaconferences.com)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| | European Congress on Interdisciplinary Scientific Research <br> *www.eucongress.org* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| ICAMEST | International Conference on Advanced Materials and Engineering Structural Technology <br> *[icamest.org](http://icamest.org)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/oth.png"> |
-| EMENA | International Conference Europe Middle East & North Africa <br> *[emena.org](http://emena.org)* | <img src="images/mas.png"> <img src="images/unk.png"> <img src="images/oth.png"> |
-| WorldCIST | World Conference on Information Systems and Technologies <br> *[worldcist.org](http://worldcist.org)* | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/com.png"> |
-
+| |
+|---|
+| Blacksea Coastline Countries Scientific Research Conference <br> *www.blackseacountries.org/conference* |
+| Eurasia Conferences <br> *[eurasiaconferences.com](http://eurasiaconferences.com)* |
+| European Congress on Interdisciplinary Scientific Research <br> *www.eucongress.org* |
+| International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST) <br> *[icamest.org](http://icamest.org)* |
+| International Conference Europe Middle East & North Africa (EMENA) <br> *[emena.org](http://emena.org)* |
+| World Conference on Information Systems and Technologies (WorldCIST) <br> *[worldcist.org](http://worldcist.org)* |
+| |
 
 
 
@@ -36,11 +36,12 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legit, but it raises concerns. Click on links at your own discretion.
 
-| Journal | Full name | Tags |
-|---|---|---|
-| EJ-EDU | European Journal of Education and Pedagogy <br> www.ej-edu.org | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> |
-| IJES | International Journal of Engineering and Science <br> www.theijes.com |  <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/bea.png"> <img src="images/rnk.png"> |
-| JBEM | Journal of Business & Economic Management | <img src="images/com.png"> <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/mim.png"> <img src="images/rnk.png"> |
+| |
+|---|
+| European Journal of Education and Pedagogy (EJ-EDU) <br> www.ej-edu.org |
+| International Journal of Engineering and Science (IJES) <br> www.theijes.com |
+| Journal of Business & Economic Management (JBEM) |
+| |
 
 
 
@@ -48,20 +49,20 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 This is a list of services used to sent academic spam messages. They are all blocked in my email client.
 
-| Site | Tags |
-|---|---|
-| acaademiaa.com | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/mim.png"> |
-| directsend08.com | <img src="images/mas.png"> <img src="images/trk.png"> <img src="images/unk.png"> <img src="images/oth.png"> |
-| eurasiatalk.com | <img src="images/mas.png"> <img src="images/trk.png"> |
-| euromsg.net | <img src="images/mas.png"> <img src="images/trk.png"> |
-| heberjahiz.com | <img src="images/mas.png"> <img src="images/oth.png"> |
-| mailjet.com | <img src="images/mas.png"> <img src="images/trk.png"> |
-| mjt.lu | <img src="images/mas.png"> <img src="images/trk.png"> |
-| point4web.com | <img src="images/mas.png"> <img src="images/trk.png"> |
-| replitest.com | <img src="images/mas.png"> <img src="images/trk.png"> |
-| sendinbx.com | <img src="images/fak.png"> <img src="images/mas.png"> <img src="images/trk.png"> |
-| techinhosting.com | <img src="images/mas.png"> <img src="images/trk.png"> |
-
+| |
+|---|
+| acaademiaa.com |
+| directsend08.com |
+| eurasiatalk.com |
+| euromsg.net |
+| heberjahiz.com |
+| mailjet.com |
+| mjt.lu |
+| point4web.com |
+| replitest.com |
+| sendinbx.com |
+| techinhosting.com |
+| |
 
 
 <!--
@@ -71,17 +72,20 @@ This list contains sites that have sent me academic spam. They are blocked in my
 -->
 
 
-# Tags
+# Criteria
 
-| Tag | Description |
-|---|---|
-| <img src="images/fak.png"> | Using a fake sender email, domain or IP address |
-| <img src="images/mim.png"> | Mimiking legitimate sites, using different submission methods, typos in domain names |
-| <img src="images/com.png"> | Using common email (e.g. gmail.com, yahoo.com, etc) instead of dedicated email |
-| <img src="images/mas.png"> | Using services for mass emailing |
-| <img src="images/trk.png"> | Hiding links or using tracking |
-| <img src="images/unk.png"> | Unrelated, unvisited, unknown conferences |
-| <img src="images/bea.png"> | Known to follow predatory activities or included in Beall's list |
-| <img src="images/rnk.png"> | Using misleading or custom ranking, e.g. IF which is not from Web of Science |
-| <img src="images/oth.png"> | Other things that make me feel abused, forced, or cheated, like being added to lists, using text in images, etc. |
+Anything that makes me feel abused, forced, or cheated is included in this page. The criteria:
 
+- Being added to **email lists** without my consent. The provision of [Unsubscribe] link does not change my mood. I never use such links.
+- Using **texts embedded in images**. This technique is used to bypass anti-spam filter. My email client filters out all images, unless they are from trusted sources. 
+- Using **fake email address, domain or IP address**, especially if the public sender differes from the mail delivery route in the message header.
+- **Mimiking legitimate sites**. This approach is used to diverge academic trafic (both papers and financial resources) to predators.
+- Using **common emails**, like from gmail.com, yahoo.com, etc. Serious academic events and publishers must have their own institutional email.
+- Using servises for **mass emailing**. It doesn't matter whether some one does this honestry and in good faith. If it is done, I block the whole mail service.
+- **Hiding links** in the text &ndash; i.e. the text link visible on the screen is different from the actual link.
+- Using **trackers in links**. This is easily seen by some extra data attached to the link itself. I never click on such links. 
+- Email from organization, publisher or event that I **do not know** and I **have never agreed** to get emails from them.
+- **Beall's list**. If the sender is in this list, it will be blocked.
+- Showing **misleading or custom ranking**, e.g. Impact Factors that are fake (yes, I check Web of Science), claims that something is indexed by Scopus, but it is not found there, using own ranking systems that mimik IF and SJR, but are not.
+
+Is it possible that some legitimate event or publication is wrongly included in this list? Yes, it is possible, but I do prefer to be on the safe side. If I cannot make myself sure within **2-3 minutes** that the message is trustful, this message is dropped out. I do not have the time to do a full scale research.
