@@ -37,6 +37,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | Journal name and site |
 |---|
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
+| Frontiers in Psychology, *[www.frontiersin.org/](https://www.frontiersin.org/)* |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
@@ -87,5 +88,6 @@ Anything that makes me feel abused, forced, or cheated is included in this page.
 - Email from organization, publisher or event that I **do not know** and I **have never agreed** to get emails from them.
 - **Beall's list**. If the sender is in this list, it will be blocked.
 - Showing **misleading or custom ranking**, e.g. Impact Factors that are fake (yes, I check Web of Science), claims that something is indexed by Scopus, but it is not found there, using own ranking systems that mimik IF and SJR, but are not.
+- Asking me to **review a paper** for a journal or to **join program committee** of a conference, without establishing a proper contact with me and having my agreement.
 
 Is it possible that some legitimate event or publication is wrongly included in this list? Yes, it is possible, but I do prefer to be on the safe side. If I cannot make myself sure within **2-3 minutes** that the message is trustful, this message is dropped out. I do not have the time to do a full scale research.
