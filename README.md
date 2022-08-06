@@ -40,6 +40,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
+| International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
 | International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 
