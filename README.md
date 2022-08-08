@@ -40,6 +40,8 @@ This is a list of journals that have been promoted via spam emails. This does no
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
+| International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
+| International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
 | International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
@@ -56,6 +58,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | crismtorc.online | 198.91.86.63 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
+| easycomdns.com | 104.223.40.181 |
 | eurasiatalk.com ||
 | euromsg.net ||
 | heberjahiz.com ||
@@ -65,6 +68,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | replitest.com ||
 | sendinbx.com ||
 | techinhosting.com ||
+| webhoxton.com | 104.223.40.188 |
 
 
 
