@@ -52,7 +52,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 This is a list of services used to sent academic spam messages. They are all blocked in my email client.
 
-| Servise domain | IP address |
+| Service domain | IP address |
 |---|:---|
 | acaademiaa.com ||
 | crismtorc.online | 198.91.86.63 |
@@ -88,7 +88,7 @@ Anything that makes me feel abused, forced, or cheated is included in this page.
 - Using **fake email address, domain or IP address**, especially if the public sender differes from the mail delivery route in the message header.
 - **Mimiking legitimate sites**. This approach is used to diverge academic trafic (both papers and financial resources) to predators.
 - Using **common emails**, like from gmail.com, yahoo.com, etc. Serious academic events and publishers must have their own institutional email.
-- Using servises for **mass emailing**. It doesn't matter whether some one does this honestry and in good faith. If it is done, I block the whole mail service.
+- Using services for **mass emailing**. It doesn't matter whether some one does this honestry and in good faith. If it is done, I block the whole mail service.
 - **Hiding links** in the text &ndash; i.e. the text link visible on the screen is different from the actual link.
 - Using **trackers in links**. This is easily seen by some extra data attached to the link itself. I never click on such links. 
 - Email from organization, publisher or event that I **do not know** and I **have never agreed** to get emails from them.
