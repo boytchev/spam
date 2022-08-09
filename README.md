@@ -45,6 +45,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
 | International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
+| Journal of Statistics and Mathematical Sciences |
 
 
 
@@ -66,6 +67,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | mjt.lu ||
 | point4web.com ||
 | replitest.com ||
+| rdnsdomain.in | 103.35.70.71 |
 | sendinbx.com ||
 | techinhosting.com ||
 | webhoxton.com | 104.223.40.188 |
