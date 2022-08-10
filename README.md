@@ -18,7 +18,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event name and site |
 |---|
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
-| Conference on Computer Science and Application Engineering (CSAE), *[](http://www.csaeconf.org)* |
+| Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
