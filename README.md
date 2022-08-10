@@ -37,6 +37,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 | Journal name and site |
 |---|
+| Communications (COM), *[www.communj.com](http://www.communj.com)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
@@ -69,6 +70,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | point4web.com ||
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
+| secureserver.net | 173.201.193.184 |
 | sendinbx.com ||
 | techinhosting.com ||
 | webhoxton.com | 104.223.40.188 |
