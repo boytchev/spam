@@ -18,6 +18,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event name and site |
 |---|
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
+| Conference on Computer Science and Application Engineering (CSAE), *[](http://www.csaeconf.org)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
@@ -28,7 +29,6 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
-
 
 
 # Spam journals
@@ -63,6 +63,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | eurasiatalk.com ||
 | euromsg.net ||
 | heberjahiz.com ||
+| mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | mjt.lu ||
 | point4web.com ||
