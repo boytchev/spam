@@ -29,6 +29,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
+| Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
 
 
 # Spam journals
@@ -72,6 +73,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | rdnsdomain.in | 103.35.70.71 |
 | secureserver.net | 173.201.193.184 |
 | sendinbx.com ||
+| sendpulse.email | 195.191.65.104 |
 | techinhosting.com ||
 | webhoxton.com | 104.223.40.188 |
 
