@@ -21,6 +21,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
+| Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
