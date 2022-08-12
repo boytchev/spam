@@ -38,7 +38,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 
 | Journal name and site |
 |---|
-| Communications (COM), *[www.communj.com](http://www.communj.com)* |
+| Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communicationj.org](http://www.communicationj.org)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
