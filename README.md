@@ -17,6 +17,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | Event name and site |
 |---|
+| African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
@@ -59,6 +60,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | Service domain | IP address |
 |---|:---|
 | acaademiaa.com ||
+| academicjournals.org | 108.178.4.84 |
 | crismtorc.online | 198.91.86.63 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
