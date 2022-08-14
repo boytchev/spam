@@ -30,6 +30,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
+| World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
 | Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
 
@@ -59,6 +60,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 
 | Service domain | IP address |
 |---|:---|
+| 263.net | 211.157.147.132 |
 | acaademiaa.com ||
 | academicjournals.org | 108.178.4.84 |
 | crismtorc.online | 198.91.86.63 |
