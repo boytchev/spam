@@ -24,8 +24,12 @@ This is a list of events that have been promoted via spam emails. This does not 
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
+| International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
+| International Conference on Humanities, Social and Education Sciences (iHSES) |
+| International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
+| International Conference on Social and Education Sciences (IConSES) |
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
@@ -44,10 +48,17 @@ This is a list of journals that have been promoted via spam emails. This does no
 | Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communicationj.org](http://www.communicationj.org)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
+| International Journal of Education in Mathematics, Science and Technology (IJEMST) |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
+| International Journal on Engineering, Science and Technology (IJonEST) |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
+| International Journal of Research in Education and Science (IJRES) |
+| International Journal on Studies in Education (IJonSE) |
+| International Journal on Social and Education Sciences (IJonSES) |
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
+| International Journal of Technology in Education (IJTE) |
+| International Journal of Technology in Education and Science (IJTES) |
 | International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Statistics and Mathematical Sciences |
@@ -70,6 +81,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | eurasiatalk.com ||
 | euromsg.net ||
 | heberjahiz.com ||
+| istes.org ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | mjt.lu ||
