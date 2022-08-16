@@ -48,6 +48,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communicationj.org](http://www.communicationj.org)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
+| International Journal of Computational Engineering Research (IJCER) *[www.ijceronline.com](https://www.ijceronline.com/)* |
 | International Journal of Education in Mathematics, Science and Technology (IJEMST) |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
@@ -85,6 +86,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | mjt.lu ||
+| nexonjet.com | 104.223.40.182 |
 | point4web.com ||
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
@@ -93,6 +95,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | sendpulse.email | 195.191.65.104 |
 | techinhosting.com ||
 | webhoxton.com | 104.223.40.188 |
+| webtechxpress.com ||
 
 
 
