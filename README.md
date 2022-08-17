@@ -23,6 +23,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
+| International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
@@ -85,6 +86,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | istes.org ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
+| mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | nexonjet.com | 104.223.40.182 |
 | point4web.com ||
