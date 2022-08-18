@@ -25,6 +25,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
+| International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
@@ -77,6 +78,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | acaademiaa.com ||
 | academicjournals.org | 108.178.4.84 |
 | crismtorc.online | 198.91.86.63 |
+| directsend04.com | 223.130.76.104 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
 | easycomdns.com | 104.223.40.181 |
