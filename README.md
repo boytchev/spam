@@ -63,7 +63,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
 | International Journal of Technology in Education (IJTE) |
 | International Journal of Technology in Education and Science (IJTES) |
-| International Scientific and Practical Internet Journal, *[https://wayscience.com](https://wayscience.com)* |
+| International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Statistics and Mathematical Sciences |
 
