@@ -86,6 +86,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | eurasiatalk.com ||
 | euromsg.net ||
 | heberjahiz.com ||
+| hostbycenter.com | 104.223.40.186 |
 | istes.org ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
