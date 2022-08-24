@@ -65,6 +65,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Journal of Technology in Education and Science (IJTES) |
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
+| Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Statistics and Mathematical Sciences |
 
 
@@ -78,6 +79,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | 263.net | 211.157.147.132 |
 | acaademiaa.com ||
 | academicjournals.org | 108.178.4.84 |
+| aripd.net ||
 | crismtorc.online | 198.91.86.63 |
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
