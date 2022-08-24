@@ -56,6 +56,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | International Journal on Engineering, Science and Technology (IJonEST) |
+| International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
 | International Journal of Research in Education and Science (IJRES) |
 | International Journal on Studies in Education (IJonSE) |
@@ -96,6 +97,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | mjt.lu ||
 | nexonjet.com | 104.223.40.182 |
 | point4web.com ||
+| rajpub.com ||
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
 | secureserver.net | 173.201.193.184 |
