@@ -82,6 +82,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | academicjournals.org | 108.178.4.84 |
 | aripd.net ||
 | crismtorc.online | 198.91.86.63 |
+| cse-researchcenter.com | 116.203.158.202 |
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
