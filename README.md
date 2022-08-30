@@ -36,6 +36,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
+| International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
@@ -55,6 +56,8 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Journal of Education in Mathematics, Science and Technology (IJEMST) |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
+| International Journal of Engineering and Science Invention (IJESI), *[www.ijesi.org](www.ijesi.org)* |
+| International Journal of Engineering Research and Applications (IJERA), *[www.ijera.com](http://www.ijera.com)* |
 | International Journal on Engineering, Science and Technology (IJonEST) |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
@@ -81,6 +84,8 @@ This is a list of services used to sent academic spam messages. They are all blo
 | acaademiaa.com ||
 | academicjournals.org | 108.178.4.84 |
 | aripd.net ||
+| auseocompany.com | 96.44.174.233 |
+| confinvite.com | 188.68.53.62 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
 | directsend04.com | 223.130.76.104 |
@@ -89,6 +94,8 @@ This is a list of services used to sent academic spam messages. They are all blo
 | easycomdns.com | 104.223.40.181 |
 | eurasiatalk.com ||
 | euromsg.net ||
+| greatcote.com ||
+| growdigitalcamp.com | 104.223.32.102 |
 | heberjahiz.com ||
 | hostbycenter.com | 104.223.40.186 |
 | istes.org ||
