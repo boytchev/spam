@@ -111,6 +111,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | secureserver.net | 173.201.193.184 |
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
+| spsndr.com | 213.109.77.166 |
 | techinhosting.com ||
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
