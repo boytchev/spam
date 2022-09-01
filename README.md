@@ -30,6 +30,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
+| International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
 | International Conference on Social and Education Sciences (IConSES) |
@@ -101,6 +102,7 @@ This is a list of services used to sent academic spam messages. They are all blo
 | istes.org ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
+| marketing.tittu.in ||
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | nexonjet.com | 104.223.40.182 |
