@@ -124,6 +124,12 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 
+The table above provides some ideas for a more broad anti-spam filters, based on IP address ranges.
+
+| IP address | Used by |
+|---|:---|
+| 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
 
 
 <!--
