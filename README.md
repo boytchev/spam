@@ -71,7 +71,9 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
+| Journal of Operating System Development & Trends |
 | Journal of Statistics and Mathematical Sciences |
+| Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
 
 
 
@@ -100,12 +102,14 @@ This is a list of services used to sent academic spam messages. They are all blo
 | heberjahiz.com ||
 | hostbycenter.com | 104.223.40.186 |
 | istes.org ||
+| juniper-publisher.org ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | marketing.tittu.in ||
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | nexonjet.com | 104.223.40.182 |
+| oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
 | rajpub.com ||
 | replitest.com ||
@@ -113,6 +117,8 @@ This is a list of services used to sent academic spam messages. They are all blo
 | secureserver.net | 173.201.193.184 |
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
+| sendy.co ||
+| sendyemail.nanoconnect.in |
 | spsndr.com | 213.109.77.166 |
 | techinhosting.com ||
 | webhoxton.com | 104.223.40.188 |
