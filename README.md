@@ -72,6 +72,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Operating System Development & Trends |
+| Journal of Radiology and Oncology |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
 
@@ -121,6 +122,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendyemail.nanoconnect.in |
 | spsndr.com | 213.109.77.166 |
 | techinhosting.com ||
+| thehspc.co.uk | 51.79.224.244 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 
