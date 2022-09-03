@@ -99,7 +99,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | eurasiatalk.com ||
 | euromsg.net ||
 | greatcote.com ||
-| growdigitalcamp.com | 104.223.32.102 |
+| growdigitalcamp.com | 104.223.32.xxx |
 | heberjahiz.com ||
 | hostbycenter.com | 104.223.40.186 |
 | istes.org ||
