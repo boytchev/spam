@@ -38,6 +38,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
+| Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
@@ -71,6 +72,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
+| Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
 | Journal of Statistics and Mathematical Sciences |
@@ -89,6 +91,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | academicjournals.org | 108.178.4.84 |
 | aripd.net ||
 | auseocompany.com | 96.44.174.233 |
+| buzzolad.online | 198.91.86.65 |
 | confinvite.com | 188.68.53.62 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
@@ -109,6 +112,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | marketing.tittu.in ||
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
+| montashydro.in ||
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
@@ -125,6 +129,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | thehspc.co.uk | 51.79.224.244 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
+| | 40.92.52.103 |
 
 The table above provides some ideas for a more broad anti-spam filters, based on IP address ranges.
 
