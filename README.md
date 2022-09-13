@@ -119,6 +119,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | rajpub.com ||
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
+| science-university-notifications.website | 46.41.138.140 |
 | secureserver.net | 173.201.193.184 |
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
