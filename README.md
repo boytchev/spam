@@ -52,6 +52,7 @@ This is a list of journals that have been promoted via spam emails. This does no
 | Journal name and site |
 |---|
 | Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communicationj.org](http://www.communicationj.org)* |
+| Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | International Journal of Computational Engineering Research (IJCER) *[www.ijceronline.com](https://www.ijceronline.com/)* |
@@ -107,9 +108,11 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hostbycenter.com | 104.223.40.186 |
 | istes.org ||
 | juniper-publisher.org ||
+| mailchimp.com ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | marketing.tittu.in ||
+| mcdlv.net | 205.201.130.183 |
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | montashydro.in ||
