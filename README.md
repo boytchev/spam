@@ -47,11 +47,12 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 # Spam journals
 
-This is a list of journals that have been promoted via spam emails. This does not mean the journal are not legitimate, but it raises concerns. Click on links at your own discretion.
+This is a list of journals (and books) that have been promoted via spam emails. This does not mean the journal are not legitimate, but it raises concerns. Click on links at your own discretion.
 
 | Journal name and site |
 |---|
 | Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communicationj.org](http://www.communicationj.org)* |
+| Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
@@ -109,6 +110,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | istes.org ||
 | juniper-publisher.org ||
 | mailchimp.com ||
+| mailersend.net | 212.11.79.135 |
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | marketing.tittu.in ||
