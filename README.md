@@ -145,6 +145,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | IP address | Used by |
 |---|:---|
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
 
 
