@@ -19,11 +19,13 @@ This is a list of events that have been promoted via spam emails. This does not 
 |---|
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
+| Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* | |
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
+| Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
@@ -51,7 +53,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 | Journal name and site |
 |---|
-| Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communicationj.org](http://www.communicationj.org)* |
+| Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
@@ -111,6 +113,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | juniper-publisher.org ||
 | mailchimp.com ||
 | mailersend.net | 212.11.79.135 |
+| mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
 | mailjet.com ||
 | marketing.tittu.in ||
