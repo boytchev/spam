@@ -42,6 +42,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
+| Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
@@ -123,9 +124,11 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | montashydro.in ||
+| nbscraft.com ||
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
+| productvideobeta.online | 173.254.223.4 |
 | rajpub.com ||
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
