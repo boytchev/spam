@@ -73,6 +73,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
 | International Journal of Networks and Systems (IJNS) , *[warse.org/IJNS](http://warse.org/IJNS/)* |
+| International Journal of Precious Engineering Research and Applications (IJPERA), *[www.ijpera.com]( https://www.ijpera.com)* |
 | International Journal of Research in Education and Science (IJRES) |
 | International Journal on Studies in Education (IJonSE) |
 | International Journal on Social and Education Sciences (IJonSES) |
