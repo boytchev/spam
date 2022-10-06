@@ -60,8 +60,11 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
+| International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
+| International Journal of Bio-Medical Informatics and e-Health (IJBMeH), *[warse.org/IJBMIeH](http://warse.org/IJBMIeH/)* |
 | International Journal of Computational Engineering Research (IJCER) *[www.ijceronline.com](https://www.ijceronline.com/)* |
 | International Journal of Education in Mathematics, Science and Technology (IJEMST) |
+| International Journal of Emerging Trends in Engineering Research (IJETER), *[warse.org/IJETER](http://warse.org/IJETER/)* |
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | International Journal of Engineering and Science Invention (IJESI), *[www.ijesi.org](www.ijesi.org)* |
@@ -69,12 +72,14 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal on Engineering, Science and Technology (IJonEST) |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
+| International Journal of Networks and Systems (IJNS) , *[warse.org/IJNS](http://warse.org/IJNS/)* |
 | International Journal of Research in Education and Science (IJRES) |
 | International Journal on Studies in Education (IJonSE) |
 | International Journal on Social and Education Sciences (IJonSES) |
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
 | International Journal of Technology in Education (IJTE) |
 | International Journal of Technology in Education and Science (IJTES) |
+| International Journal of Wireless Communications and Network Technologies (IJWCNT), *[warse.org/IJWCNT](http://warse.org/IJWCNT/)* |
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
@@ -118,6 +123,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailersend.net | 212.11.79.135 |
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
+| mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
 | marketing.tittu.in ||
 | mcdlv.net | 205.201.130.183 |
