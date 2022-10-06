@@ -128,7 +128,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
+| polytechnicpositions.com ||
 | productvideobeta.online | 173.254.223.4 |
+| professorpositions.com ||
 | rajpub.com ||
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
@@ -140,6 +142,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendy.co ||
 | sendyemail.nanoconnect.in |
 | spsndr.com | 213.109.77.166 |
+| support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
 | thehspc.co.uk | 51.79.224.244 |
 | webhoxton.com | 104.223.40.188 |
