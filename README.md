@@ -19,7 +19,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 |---|
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
-| Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* | |
+| Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
+| Computing Conference, *[saiconference.com/Computing](https://saiconference.com/Computing)* |
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
@@ -29,14 +30,33 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
+| International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
+| International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
+| International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
+| International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
+| International Conference on Medical, Health and Life Sciences (ICMeHeLS), *[www.icmehels.net](https://www.icmehels.net)* |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
+| International Conference on Management Economics and Business (IConMEB), *[www.iconmeb.net](https://www.iconmeb.net)* |
+| International Conference on Neuroscience (IConNeS), *[www.iconne.net](https://www.iconne.net)* |
+| International Conference on Psychomotic Medicine, Obstetrics and Gynecology (ICPOG), *[www.icpog.net](https://www.icpog.net)* |
+| International Conference on Research in Education and Social Sciences (ICGeHeS), *[www.icgehes.net](https://www.icgehes.net)* |
+| International Conference on Research in Education and Social Sciences (ICRESS), *[www.icress.net](https://www.icress.net)* |
+| International Conference on Research in Engineering, Technology and Science (IConPeD), *[www.iconped.net](https://www.iconped.net)* |
+| International Conference on Research in Engineering, Technology and Science (ICRETS), *[www.icrets.net](https://www.icrets.net)* |
+| (), *[]()* |
+| International Conference on Science and Education (IConSE), *[www.iconse.net](https://www.iconse.net)* |
 | International Conference on Social and Education Sciences (IConSES) |
+| International Conference on Social Science Studies (IConSoS), *[www.iconsos.net](https://www.iconsos.net)* |
+| International Conference on Special Education and Diversity (IConSED), *[www.iconsed.net](https://www.iconsed.net)* |
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
+| International Conference on Technology (IConTech), *[www.icontechno.net](https://www.icontechno.net)* |
+| International Conference on Technology, Engineering and Science (IConTES), *[www.icontes.net](https://www.icontes.net)* |
+| International Conference on Veterinary, Agriculture and Life Sciences (ICVALS), *[www.icvals.net](https://www.icvals.net)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
@@ -152,6 +172,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
 | thehspc.co.uk | 51.79.224.244 |
+| thesai.org | |
+| uebad.org ||
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 | | 40.92.52.103 |
