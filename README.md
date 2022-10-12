@@ -176,12 +176,14 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | uebad.org ||
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
-| | 40.92.52.103 |
+| (anonymous) | 40.92.52.103 |
+| (anonymous) | 103.35.70.8 |
 
 The table above provides some ideas for a more broad anti-spam filters, based on IP address ranges.
 
 | IP address | Used by |
 |---|:---|
+| 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
