@@ -104,6 +104,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
+| Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
@@ -144,6 +145,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailersend.net | 212.11.79.135 |
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
+| mailin.fr | 185.41.28.8 |
 | mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
 | marketing.tittu.in ||
@@ -164,6 +166,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | science-university-notifications.website | 46.41.138.140 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
+| sendibm3.com ||
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
 | sendy.co ||
