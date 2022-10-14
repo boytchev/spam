@@ -48,7 +48,6 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Research in Education and Social Sciences (ICRESS), *[www.icress.net](https://www.icress.net)* |
 | International Conference on Research in Engineering, Technology and Science (IConPeD), *[www.iconped.net](https://www.iconped.net)* |
 | International Conference on Research in Engineering, Technology and Science (ICRETS), *[www.icrets.net](https://www.icrets.net)* |
-| (), *[]()* |
 | International Conference on Science and Education (IConSE), *[www.iconse.net](https://www.iconse.net)* |
 | International Conference on Social and Education Sciences (IConSES) |
 | International Conference on Social Science Studies (IConSoS), *[www.iconsos.net](https://www.iconsos.net)* |
@@ -75,7 +74,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 | Journal name and site |
 |---|
-| Communications (COM), *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
+| Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
