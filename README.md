@@ -87,6 +87,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Engineering and Science (IJES), *[www.theijes.com](https://www.theijes.com)* |
 | International Journal of Engineering and Science (IJES) Research Inventy, *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | International Journal of Engineering and Science Invention (IJESI), *[www.ijesi.org](www.ijesi.org)* |
+| International Journal of Engineering, Management and Humanities (IJEMH), *[www.ijemh.com](http://www.ijemh.com)* |
 | International Journal of Engineering Research and Applications (IJERA), *[www.ijera.com](http://www.ijera.com)* |
 | International Journal on Engineering, Science and Technology (IJonEST) |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
@@ -147,6 +148,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailin.fr | 185.41.28.8 |
 | mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
+| mailzbox.com | 96.44.174.197 |
 | marketing.tittu.in ||
 | mcdlv.net | 205.201.130.183 |
 | mimecast.com | 103.96.21.123 |
@@ -185,6 +187,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 
 | IP address | Used by |
 |---|:---|
+| 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
