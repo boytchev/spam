@@ -60,6 +60,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
+| JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
@@ -140,6 +141,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hostbycenter.com | 104.223.40.186 |
 | icente.net | 38.242.244.185 |
 | istes.org ||
+| jscimedcentral.com ||
 | juniper-publisher.org ||
 | mailchimp.com ||
 | mailersend.net | 212.11.79.135 |
@@ -165,6 +167,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | replitest.com ||
 | rdnsdomain.in | 103.35.70.71 |
 | science-university-notifications.website | 46.41.138.140 |
+| scimedcentral.com | 15.235.102.134 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
 | sendibm3.com ||
