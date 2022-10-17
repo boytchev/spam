@@ -32,6 +32,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
+| International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
@@ -170,6 +171,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | scimedcentral.com | 15.235.102.134 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
+| sendgrid.net | 149.72.112.193 |
 | sendibm3.com ||
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
