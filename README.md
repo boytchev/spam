@@ -26,6 +26,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
+| Geosciences and Green Technology (Geo) |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
@@ -117,7 +118,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 # Spam services
 
-This is a list of mail and mailing-lists services used to send academic spam messages. They are all blocked in my email client.
+This is a list of mail and mailing-lists services used to send academic spam messages or involved in distributing such messages. They are all blocked in my email client.
 
 | Service domain | IP address |
 |---|:---|
@@ -145,6 +146,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | jscimedcentral.com ||
 | juniper-publisher.org ||
 | mailchimp.com ||
+| maildirectdelta.com | 150.129.233.46 |
 | mailersend.net | 212.11.79.135 |
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
@@ -166,11 +168,14 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | professorpositions.com ||
 | rajpub.com ||
 | replitest.com ||
+| researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
 | science-university-notifications.website | 46.41.138.140 |
+| scientificgroup.org | 35.214.83.162 |
 | scimedcentral.com | 15.235.102.134 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
+| sendergrid.co.in | 150.129.233.68 |
 | sendgrid.net | 149.72.112.193 |
 | sendibm3.com ||
 | sendinbx.com ||
@@ -192,6 +197,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 
 | IP address | Used by |
 |---|:---|
+| 35.214.83.162 | researchexplore.org scientificgroup.org |
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
