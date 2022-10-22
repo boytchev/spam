@@ -23,6 +23,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Computing Conference, *[saiconference.com/Computing](https://saiconference.com/Computing)* |
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
+| Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* | |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
