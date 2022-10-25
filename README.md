@@ -29,6 +29,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | Geosciences and Green Technology (Geo) |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
+| Global Journal of Ecology |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
@@ -169,6 +170,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | polytechnicpositions.com ||
 | productvideobeta.online | 173.254.223.4 |
 | professorpositions.com ||
+| ptzdatares.com | 51.89.237.47 |
 | rajpub.com ||
 | replitest.com ||
 | researchexplore.org | 35.214.83.162 |
