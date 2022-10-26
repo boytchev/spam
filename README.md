@@ -114,6 +114,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
+| Journal of Science and Technology Innovation Research (JCTIR) |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
 
@@ -193,6 +194,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | thehspc.co.uk | 51.79.224.244 |
 | thesai.org | |
 | uebad.org ||
+| urgicw.com | 149.28.143.163 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 | (anonymous) | 40.92.52.103 |
