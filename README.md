@@ -80,6 +80,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 | Journal name and site |
 |---|
+| Advances in Computer and Communication (ACC) |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
@@ -147,7 +148,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | heberjahiz.com ||
 | hostbycenter.com | 104.223.40.186 |
 | icente.net | 38.242.244.185 |
-| iprpd.org |Ю
+| iitast.com | 23.229.9.199 |
+| iprpd.org ||
 | istes.org ||
 | jscimedcentral.com ||
 | juniper-publisher.org ||
