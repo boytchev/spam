@@ -17,6 +17,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | Event name and site |
 |---|
+| Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
@@ -150,6 +151,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | istes.org ||
 | jscimedcentral.com ||
 | juniper-publisher.org ||
+| mailchi.mp ||
 | mailchimp.com ||
 | maildirectdelta.com | 150.129.233.46 |
 | mailersend.net | 212.11.79.135 |
@@ -161,6 +163,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailzbox.com | 96.44.174.197 |
 | marketing.tittu.in ||
 | mcdlv.net | 205.201.130.183 |
+| mcsv.net | 198.2.130.31 |
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | montashydro.in ||
