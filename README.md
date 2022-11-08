@@ -141,6 +141,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
 | easycomdns.com | 104.223.40.181 |
+| embarcadero.com ||
 | eurasiatalk.com ||
 | euromsg.net ||
 | greatcote.com ||
@@ -153,6 +154,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | istes.org ||
 | jscimedcentral.com ||
 | juniper-publisher.org ||
+| learndelphi.org ||
 | mailchi.mp ||
 | mailchimp.com ||
 | maildirectdelta.com | 150.129.233.46 |
