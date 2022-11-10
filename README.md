@@ -18,6 +18,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event name and site |
 |---|
 | Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
+| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit) |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
@@ -62,6 +63,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Technology, Engineering and Science (IConTES), *[www.icontes.net](https://www.icontes.net)* |
 | International Conference on Veterinary, Agriculture and Life Sciences (ICVALS), *[www.icvals.net](https://www.icvals.net)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
+| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit) |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
@@ -122,7 +124,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 
 
-# Spam services
+# Spam services and sites
 
 This is a list of mail and mailing-lists services used to send academic spam messages or involved in distributing such messages. They are all blocked in my email client.
 
@@ -134,6 +136,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aripd.net ||
 | auseocompany.com | 96.44.174.233 |
 | buzzolad.online | 198.91.86.65 |
+| conferenceinterests.biz ||
 | confinvite.com | 188.68.53.62 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
@@ -183,8 +186,10 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | replitest.com ||
 | researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
+| sciconferenceleague.biz | 172.107.180.114 |
 | science-university-notifications.website | 46.41.138.140 |
 | scientificgroup.org | 35.214.83.162 |
+| scientificresearch.uk ||
 | scimedcentral.com | 15.235.102.134 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
