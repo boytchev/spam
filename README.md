@@ -85,6 +85,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal name and site |
 |---|
 | Advances in Computer and Communication (ACC) |
+| Annals of Systems Biology |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
@@ -183,6 +184,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | polytechnicpositions.com ||
 | productvideobeta.online | 173.254.223.4 |
 | professorpositions.com ||
+| ptechz.net | 43.227.16.122 |
 | ptzdatares.com | 51.89.237.47 |
 | rajpub.com ||
 | replitest.com ||
