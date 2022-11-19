@@ -122,6 +122,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
 | Journal of Science and Technology Innovation Research (JCTIR) |
+| Journal of Social Computing (JSC) |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
 
@@ -136,6 +137,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | 263.net | 211.157.147.132 |
 | acaademiaa.com ||
 | academicjournals.org | 108.178.4.84 |
+| aminer.cn ||
+| aminer.org ||
 | aripd.net ||
 | auseocompany.com | 96.44.174.233 |
 | buzzolad.online | 198.91.86.65 |
@@ -167,6 +170,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailersend.net | 212.11.79.135 |
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
+| mailgun.us | 209.61.151.240 |
 | mailin.fr | 185.41.28.8 |
 | mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
