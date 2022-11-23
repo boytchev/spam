@@ -40,6 +40,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
+| International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
@@ -59,7 +60,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Social and Education Sciences (IConSES) |
 | International Conference on Social Science Studies (IConSoS), *[www.iconsos.net](https://www.iconsos.net)* |
 | International Conference on Special Education and Diversity (IConSED), *[www.iconsed.net](https://www.iconsed.net)* |
-| International Conference on  Sustainable Finance and Green Fintech |
+| International Conference on Sustainable Finance and Green Fintech |
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
 | International Conference on Technology (IConTech), *[www.icontechno.net](https://www.icontechno.net)* |
 | International Conference on Technology, Engineering and Science (IConTES), *[www.icontes.net](https://www.icontes.net)* |
@@ -69,6 +70,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
+| International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
+
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
@@ -142,6 +145,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aripd.net ||
 | auseocompany.com | 96.44.174.233 |
 | buzzolad.online | 198.91.86.65 |
+| comsoc.org ||
 | conferenceinterests.biz ||
 | confinvite.com | 188.68.53.62 |
 | crismtorc.online | 198.91.86.63 |
