@@ -18,7 +18,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event name and site |
 |---|
 | Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
-| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit) |
+| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
@@ -90,6 +90,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Advances in Computer and Communication (ACC) |
 | Annals of Systems Biology |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
+| Computational Biology and Bioinformatics, *[www.compubio.org/](http://www.compubio.org/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
@@ -106,6 +107,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Engineering, Management and Humanities (IJEMH), *[www.ijemh.com](http://www.ijemh.com)* |
 | International Journal of Engineering Research and Applications (IJERA), *[www.ijera.com](http://www.ijera.com)* |
 | International Journal on Engineering, Science and Technology (IJonEST) |
+| International Journal of Humanities and Social Science (IJHSS), *(www.ijhssnet.com)[https://www.ijhssnet.com/]* | |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
 | International Journal of Networks and Systems (IJNS) , *[warse.org/IJNS](http://warse.org/IJNS/)* |
@@ -145,6 +147,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aripd.net ||
 | auseocompany.com | 96.44.174.233 |
 | buzzolad.online | 198.91.86.65 |
+| compubio.org ||
 | comsoc.org ||
 | conferenceinterests.biz ||
 | confinvite.com | 188.68.53.62 |
@@ -220,6 +223,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | thesai.org | |
 | uebad.org ||
 | urgicw.com | 149.28.143.163 |
+| urfresearch.com | 43.227.16.12 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 | (anonymous) | 40.92.52.103 |
