@@ -18,7 +18,6 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event name and site |
 |---|
 | Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
-| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
@@ -34,6 +33,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Journal of Ecology |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
+| International Conference on Advanced Materials, Devices and Structures (ICAMDS), *[erg.org.in/icamds.html](http://erg.org.in/icamds.html)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
@@ -66,7 +66,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Technology, Engineering and Science (IConTES), *[www.icontes.net](https://www.icontes.net)* |
 | International Conference on Veterinary, Agriculture and Life Sciences (ICVALS), *[www.icvals.net](https://www.icvals.net)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
-| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit) |
+| International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
