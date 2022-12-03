@@ -141,7 +141,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 |---|:---|
 | 263.net | 211.157.147.132 |
 | acaademiaa.com ||
+| academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
+| ajeboxes.com | 159.203.111.102 |
 | aminer.cn ||
 | aminer.org ||
 | aripd.net ||
