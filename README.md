@@ -195,6 +195,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
 | polytechnicpositions.com ||
+| powerlinkmarketing.com | 45.127.4.173 |
 | productvideobeta.online | 173.254.223.4 |
 | professorpositions.com ||
 | ptechz.net | 43.227.16.122 |
