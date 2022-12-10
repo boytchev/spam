@@ -43,6 +43,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
+| International Conference on Innovations in Computing Research (ICR’23), *[iicser.org/icr23](https://iicser.org/icr23)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
@@ -167,6 +168,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | heberjahiz.com ||
 | hostbycenter.com | 104.223.40.186 |
 | icente.net | 38.242.244.185 |
+| himscsce.org ||
 | iitast.com | 23.229.9.199 |
 | iprpd.org ||
 | istes.org ||
