@@ -43,8 +43,9 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
-| International Conference on Innovations in Computing Research (ICR’23), *[iicser.org/icr23](https://iicser.org/icr23)* |
+| International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
+| International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
 | International Conference on Medical, Health and Life Sciences (ICMeHeLS), *[www.icmehels.net](https://www.icmehels.net)* |
@@ -154,6 +155,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | comsoc.org ||
 | conferenceinterests.biz ||
 | confinvite.com | 188.68.53.62 |
+| confmail.net | 185.207.251.174 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
 | directsend04.com | 223.130.76.104 |
