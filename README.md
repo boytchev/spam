@@ -122,6 +122,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Technology in Education and Science (IJTES) |
 | International Journal of Wireless Communications and Network Technologies (IJWCNT), *[warse.org/IJWCNT](http://warse.org/IJWCNT/)* |
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
+| IOSR Journal of Engineering (IOSR JEN), *[www.iosrjen.org](https://www.iosrjen.org/)* |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
@@ -169,9 +170,10 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | growdigitalcamp.com | 104.223.32.xxx |
 | heberjahiz.com ||
 | hostbycenter.com | 104.223.40.186 |
-| icente.net | 38.242.244.185 |
 | himscsce.org ||
+| icente.net | 38.242.244.185 |
 | iitast.com | 23.229.9.199 |
+| indiain2030.com ||
 | iprpd.org ||
 | istes.org ||
 | jscimedcentral.com ||
@@ -200,6 +202,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | point4web.com ||
 | polytechnicpositions.com ||
 | powerlinkmarketing.com | 45.127.4.173 |
+| productvideoat99.online | 173.254.223.3 |
 | productvideobeta.online | 173.254.223.4 |
 | professorpositions.com ||
 | ptechz.net | 43.227.16.122 |
@@ -244,6 +247,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
 
