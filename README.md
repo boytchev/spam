@@ -123,6 +123,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Wireless Communications and Network Technologies (IJWCNT), *[warse.org/IJWCNT](http://warse.org/IJWCNT/)* |
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | IOSR Journal of Engineering (IOSR JEN), *[www.iosrjen.org](https://www.iosrjen.org/)* |
+| Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
@@ -216,6 +217,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | scientificgroup.org | 35.214.83.162 |
 | scientificresearch.uk ||
 | scimedcentral.com | 15.235.102.134 |
+| sciresj.com | 15.235.137.11 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
 | sendergrid.co.in | 150.129.233.68 |
@@ -243,6 +245,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 
 | IP address | Used by |
 |---|:---|
+| 15.235.xxx.xxx | scimedcentral.com sciresj.com |
 | 35.214.83.162 | researchexplore.org scientificgroup.org |
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
