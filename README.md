@@ -90,6 +90,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal name and site |
 |---|
 | Advances in Computer and Communication (ACC) |
+| American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Systems Biology |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org/](http://www.compubio.org/)* |
@@ -128,6 +129,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
+| Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
 | Journal of Science and Technology Innovation Research (JCTIR) |
