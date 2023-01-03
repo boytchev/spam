@@ -99,6 +99,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
+| International Journal of Applied Science and Technology (IJAST), *[www.cpinet.info](http://www.cpinet.info/)* |
 | International Journal of Arts, Humanities and Social Sciences (IJAHSS) , *[www.ijahss.net](https://www.ijahss.net/)* |
 | International Journal of Bio-Medical Informatics and e-Health (IJBMeH), *[warse.org/IJBMIeH](http://warse.org/IJBMIeH/)* |
 | International Journal of Computational Engineering Research (IJCER) *[www.ijceronline.com](https://www.ijceronline.com/)* |
