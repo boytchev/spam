@@ -154,6 +154,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aminer.cn ||
 | aminer.org ||
 | aripd.net ||
+| article.email | 178.32.143.33 |
 | auseocompany.com | 96.44.174.233 |
 | buzzolad.online | 198.91.86.65 |
 | compubio.org ||
@@ -242,6 +243,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 | (anonymous) | 40.92.52.103 |
+| (anonymous) | 49.206.62.30 |
 | (anonymous) | 103.35.70.8 |
 
 The table above provides some ideas for a more broad anti-spam filters, based on IP address ranges.
