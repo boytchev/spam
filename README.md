@@ -43,6 +43,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
+| International Conference on Information, Communication and Computing Technology (ICICCT), *[www.jimsindia.org/icicct2023](https://www.jimsindia.org/icicct2023/)* |
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
 | International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
@@ -181,6 +182,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | indiain2030.com ||
 | iprpd.org ||
 | istes.org ||
+| jimsindia.org | 213.32.174.167 |
 | jscimedcentral.com ||
 | juniper-publisher.org ||
 | learndelphi.org ||
