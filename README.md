@@ -88,7 +88,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | Publisher or organiser |
 |---|
-| Center for Promoting Ideas (CPI), *[http://www.cpinet.info](http://www.cpinet.info/)* |
+| Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
+| Hill Publishing Group *[hillpublisher.com](https://hillpublisher.com/)* |
 
 
 # Spam journals
@@ -146,6 +147,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Social Computing (JSC) |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
+| The Educational Review |
 
 
 
@@ -173,6 +175,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | confmail.net | 185.207.251.174 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
+| cutablw.com | 100.42.73.50 |
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
