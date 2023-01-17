@@ -84,6 +84,13 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
 
 
+# Spam publisher or oraniser
+
+| Publisher or organiser |
+|---|
+| Center for Promoting Ideas (CPI), *[http://www.cpinet.info](http://www.cpinet.info/)* |
+
+
 # Spam journals
 
 This is a list of journals (and books) that have been promoted via spam emails. This does not mean the journal are not legitimate, but it raises concerns. Click on links at your own discretion.
@@ -103,6 +110,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Applied Science and Technology (IJAST), *[www.cpinet.info](http://www.cpinet.info/)* |
 | International Journal of Arts, Humanities and Social Sciences (IJAHSS) , *[www.ijahss.net](https://www.ijahss.net/)* |
 | International Journal of Bio-Medical Informatics and e-Health (IJBMeH), *[warse.org/IJBMIeH](http://warse.org/IJBMIeH/)* |
+| International Journal of Business, Humanities and Technology (IJBHT), *[www.ijbhtnet.com](https://www.ijbhtnet.com/)* |
 | International Journal of Computational Engineering Research (IJCER) *[www.ijceronline.com](https://www.ijceronline.com/)* |
 | International Journal of Education in Mathematics, Science and Technology (IJEMST) |
 | International Journal of Emerging Trends in Engineering Research (IJETER), *[warse.org/IJETER](http://warse.org/IJETER/)* |
