@@ -42,6 +42,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
+| International Conference on Geosciences and Green Technology (ICGSGT) *[urfmeetings.com/environmentalscience-conference](https://urfmeetings.com/environmentalscience-conference)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
 | International Conference on Information, Communication and Computing Technology (ICICCT), *[www.jimsindia.org/icicct2023](https://www.jimsindia.org/icicct2023/)* |
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
@@ -89,7 +90,9 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Publisher or organiser |
 |---|
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
-| Hill Publishing Group *[hillpublisher.com](https://hillpublisher.com/)* |
+| Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
+| Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
+| United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 
 
 # Spam journals
@@ -101,7 +104,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Advances in Computer and Communication (ACC) |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Systems Biology |
-| Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)* |
+| Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org/](http://www.compubio.org/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
@@ -238,6 +241,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
 | sendergrid.co.in | 150.129.233.68 |
+| sendernet.co.in | 150.129.233.22 |
 | sender-sib.com | 77.32.148.106 |
 | sendgrid.net | 149.72.112.193 |
 | sendibm3.com ||
