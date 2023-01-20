@@ -31,6 +31,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Geosciences and Green Technology (Geo) |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
 | Global Journal of Ecology |
+| Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Devices and Structures (ICAMDS), *[erg.org.in/icamds.html](http://erg.org.in/icamds.html)* |
