@@ -39,6 +39,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Digitalization and Management Innovation (DMI) |
+| International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
 | International Conference on Fog and Edge Computing (ICFEC) |
@@ -48,6 +49,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Information, Communication and Computing Technology (ICICCT), *[www.jimsindia.org/icicct2023](https://www.jimsindia.org/icicct2023/)* |
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
+| International Conference on Intelligent Communication Technologies and Virtual Mobile (ICICV) |
 | International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
@@ -86,7 +88,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
 
 
-# Spam publisher or oraniser
+# Spam publisher or organiser
 
 | Publisher or organiser |
 |---|
@@ -151,6 +153,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Social Computing (JSC) |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
+| Research Inventy journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | The Educational Review |
 
 
@@ -179,6 +182,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | confmail.net | 185.207.251.174 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
+| csu.edu.au | 10.4.95.52, 10.4.95.54, 137.166.4.236 |
 | cutablw.com | 100.42.73.50 |
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
@@ -253,6 +257,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | spsndr.com | 213.109.77.166 |
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
+| tittu.in ||
 | thehspc.co.uk | 51.79.224.244 |
 | thesai.org | |
 | uebad.org ||
