@@ -78,10 +78,10 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
-
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
+| World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
@@ -93,9 +93,11 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Publisher or organiser |
 |---|
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
+| Eurasia Conferences, *[https://eurasiaconferences.com](https://eurasiaconferences.com/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
+| Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
 
 
 # Spam journals
@@ -106,9 +108,11 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 |---|
 | Advances in Computer and Communication (ACC) |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
+| Annals of Robotics and Automation |
 | Annals of Systems Biology |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org/](http://www.compubio.org/)* |
+| Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
@@ -190,6 +194,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | easycomdns.com | 104.223.40.181 |
 | embarcadero.com ||
 | eurasiatalk.com ||
+| eurasiaseminars.com | 188.138.25.76 |
 | euromsg.net ||
 | greatcote.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
@@ -233,6 +238,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | professorpositions.com ||
 | ptechz.net | 43.227.16.122 |
 | ptzdatares.com | 51.89.237.47 |
+| ptzpublications.org 148.163.85.134 |
 | rajpub.com ||
 | replitest.com ||
 | researchexplore.org | 35.214.83.162 |
@@ -254,6 +260,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendpulse.email | 195.191.65.104 |
 | sendy.co ||
 | sendyemail.nanoconnect.in |
+| sparkpostmail.com | 192.174.81.50 |
 | spsndr.com | 213.109.77.166 |
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
