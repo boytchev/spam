@@ -178,6 +178,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aripd.net ||
 | article.email | 178.32.143.33 |
 | auseocompany.com | 96.44.174.233 |
+| biomedoaj.com | 148.163.124.135 |
 | buzzolad.online | 198.91.86.65 |
 | compubio.org ||
 | comsoc.org ||
@@ -196,6 +197,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | eurasiatalk.com ||
 | eurasiaseminars.com | 188.138.25.76 |
 | euromsg.net ||
+| exclaimer.net | 104.40.229.156 |
 | greatcote.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
 | heberjahiz.com ||
@@ -238,7 +240,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | professorpositions.com ||
 | ptechz.net | 43.227.16.122 |
 | ptzdatares.com | 51.89.237.47 |
-| ptzpublications.org 148.163.85.134 |
+| ptzpublications.org | 148.163.85.134 |
+| www.ptvgroup.com | |
 | rajpub.com ||
 | replitest.com ||
 | researchexplore.org | 35.214.83.162 |
