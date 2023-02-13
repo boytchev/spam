@@ -38,6 +38,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
+| International Conference on Biofuels and Bioenergy (Biofuels) |
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
@@ -71,6 +72,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
 | International Conference on Technology (IConTech), *[www.icontechno.net](https://www.icontechno.net)* |
 | International Conference on Technology, Engineering and Science (IConTES), *[www.icontes.net](https://www.icontes.net)* |
+| International Conference on the Quality of Information and Communications Technology (QUATIC), *[2023.quatic.org](https://2023.quatic.org/)* |
 | International Conference on Veterinary, Agriculture and Life Sciences (ICVALS), *[www.icvals.net](https://www.icvals.net)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
@@ -78,7 +80,9 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
+| International Zeugma Scientific Research Congress, *[en.zeugmakongresi.org/](https://en.zeugmakongresi.org/)* |
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
+| Macedonian Mathematical Congress, *[congress.smm.org.mk](https://congress.smm.org.mk)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
@@ -93,7 +97,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Publisher or organiser |
 |---|
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
-| Eurasia Conferences, *[https://eurasiaconferences.com](https://eurasiaconferences.com/)* |
+| Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
+| Iksad Institute, *[www.iksadinstitute.org/](https://www.iksadinstitute.org/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
@@ -157,6 +162,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Social Computing (JSC) |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
+| Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
 | Research Inventy journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | The Educational Review |
 
@@ -179,6 +185,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | article.email | 178.32.143.33 |
 | auseocompany.com | 96.44.174.233 |
 | biomedoaj.com | 148.163.124.135 |
+| bulutotogaleri.com | 5.79.97.79 |
 | buzzolad.online | 198.91.86.65 |
 | compubio.org ||
 | comsoc.org ||
@@ -194,6 +201,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | directsend27.com | 223.130.117.12 |
 | easycomdns.com | 104.223.40.181 |
 | embarcadero.com ||
+| elasticemail.info | 176.31.7.110 |
 | eurasiatalk.com ||
 | eurasiaseminars.com | 188.138.25.76 |
 | euromsg.net ||
@@ -259,11 +267,13 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sender-sib.com | 77.32.148.106 |
 | sendgrid.net | 149.72.112.193 |
 | sendibm3.com ||
+| sendinboxmail.com ||
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
 | sendy.co ||
 | sendyemail.nanoconnect.in |
 | sparkpostmail.com | 192.174.81.50 |
+| specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
