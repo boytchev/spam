@@ -24,6 +24,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Computing Conference, *[saiconference.com/Computing](https://saiconference.com/Computing)* |
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
+| Elixir International Journal, *[www.elixirpublishers.com](https://www.elixirpublishers.com/)* |
 | Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* | |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
@@ -36,6 +37,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Devices and Structures (ICAMDS), *[erg.org.in/icamds.html](http://erg.org.in/icamds.html)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
+| International Conference on Applied Science, Engineering, and Technology (ISTRASET), *[inovscitechconferences.com](https://inovscitechconferences.com)* |
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Biofuels and Bioenergy (Biofuels) |
@@ -99,6 +101,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
 | Iksad Institute, *[www.iksadinstitute.org/](https://www.iksadinstitute.org/)* |
+| InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
@@ -230,6 +233,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailin.fr | 185.41.28.8 |
 | mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
+| mailserversm.com | 148.113.134.83 |
 | mailzbox.com | 96.44.174.197 |
 | marketing.tittu.in ||
 | mcdlv.net | 205.201.130.183 |
