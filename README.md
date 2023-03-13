@@ -102,6 +102,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
 | Iksad Institute, *[www.iksadinstitute.org/](https://www.iksadinstitute.org/)* |
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
+| Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
@@ -116,8 +117,11 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 |---|
 | Advances in Computer and Communication (ACC) |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
+| Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Robotics and Automation |
 | Annals of Systems Biology |
+| Archives of Psychiatry and Mental Health |
+| Annals of Psychiatry and Treatment |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org/](http://www.compubio.org/)* |
 | Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
@@ -125,6 +129,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
+| Insights on the Depression and Anxiety |
 | International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
 | International Journal of Applied Science and Technology (IJAST), *[www.cpinet.info](http://www.cpinet.info/)* |
 | International Journal of Arts, Humanities and Social Sciences (IJAHSS) , *[www.ijahss.net](https://www.ijahss.net/)* |
@@ -216,6 +221,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | himscsce.org ||
 | icente.net | 38.242.244.185 |
 | iitast.com | 23.229.9.199 |
+| impactfactorj.com | 148.163.87.162 |
+| indexmanu.org | 148.163.87.163 |
 | indiain2030.com ||
 | iprpd.org ||
 | istes.org ||
@@ -246,6 +253,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
 | polytechnicpositions.com ||
+| poneytelecom.eu | 212.129.55.130 |
 | powerlinkmarketing.com | 45.127.4.173 |
 | productvideoat99.online | 173.254.223.3 |
 | productvideobeta.online | 173.254.223.4 |
@@ -254,6 +262,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
 | www.ptvgroup.com | |
+| qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
 | replitest.com ||
 | researchexplore.org | 35.214.83.162 |
@@ -264,6 +273,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | scientificresearch.uk ||
 | scimedcentral.com | 15.235.102.134 |
 | sciresj.com | 15.235.137.11 |
+| scitechdata.org | 51.89.189.28 |
 | sciwideonline.com ||
 | secureserver.net | 173.201.193.184 |
 | sendergrid.co.in | 150.129.233.68 |
@@ -279,6 +289,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sparkpostmail.com | 192.174.81.50 |
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
+| stanfordproofreading.com | 
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
 | tittu.in ||
@@ -302,6 +313,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 148.163.87.xxx | impactfactorj.com, indexmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
