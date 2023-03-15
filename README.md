@@ -80,6 +80,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
+| International Scientific Forum on Sustainable Development and Innovation (WFSDI 2023), *[ide-rus.ru/wfsdi2023](https://ide-rus.ru/wfsdi2023)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
@@ -285,6 +286,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendinboxmail.com ||
 | sendinbx.com ||
 | sendpulse.email | 195.191.65.104 |
+| sendpulse.info | 91.239.43.10 |
 | sendy.co ||
 | sendyemail.nanoconnect.in |
 | sparkpostmail.com | 192.174.81.50 |
@@ -296,6 +298,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | tittu.in ||
 | thehspc.co.uk | 51.79.224.244 |
 | thesai.org | |
+| trckln.com ||
 | uebad.org ||
 | urgicw.com | 149.28.143.163 |
 | urfresearch.com | 43.227.16.12 |
