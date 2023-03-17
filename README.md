@@ -189,6 +189,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
 | ajeboxes.com | 159.203.111.102 |
+| amazonses.com | 54.240.48.23 |
 | aminer.cn ||
 | aminer.org ||
 | aripd.net ||
