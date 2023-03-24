@@ -19,6 +19,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 |---|
 | Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
+| Annals of Civil and Environmental Engineering (ACEE) |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
 | Computing Conference, *[saiconference.com/Computing](https://saiconference.com/Computing)* |
@@ -68,6 +69,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Research in Engineering, Technology and Science (IConPeD), *[www.iconped.net](https://www.iconped.net)* |
 | International Conference on Research in Engineering, Technology and Science (ICRETS), *[www.icrets.net](https://www.icrets.net)* |
 | International Conference on Science and Education (IConSE), *[www.iconse.net](https://www.iconse.net)* |
+| International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH) *[simultech.scitevents.org](https://simultech.scitevents.org)* |
 | International Conference on Social and Education Sciences (IConSES) |
 | International Conference on Social Science Studies (IConSoS), *[www.iconsos.net](https://www.iconsos.net)* |
 | International Conference on Special Education and Diversity (IConSED), *[www.iconsed.net](https://www.iconsed.net)* |
@@ -84,6 +86,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
+| International Workshop on e-Health Pervasive Wireless Applications and Services (e-HPWAS), *[www.ehpwas.org](https://www.ehpwas.org/)* |
 | International Zeugma Scientific Research Congress, *[en.zeugmakongresi.org/](https://en.zeugmakongresi.org/)* |
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
 | Macedonian Mathematical Congress, *[congress.smm.org.mk](https://congress.smm.org.mk)* |
@@ -107,6 +110,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
+| Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
 
@@ -165,6 +169,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
+| Journal of Educational Research and Reviews (JERR) |
 | Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
@@ -220,8 +225,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | greatcote.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
 | heberjahiz.com ||
-| hostbycenter.com | 104.223.40.186 |
 | himscsce.org ||
+| hostbycenter.com | 104.223.40.186 |
+| hspc.info | 43.227.16.6 |
 | icente.net | 38.242.244.185 |
 | iitast.com | 23.229.9.199 |
 | impactfactorj.com | 148.163.87.162 |
@@ -251,7 +257,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | montashydro.in ||
-| nbscraft.com ||
+| nbscraft.com | 96.44.174.198 |
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | point4web.com ||
@@ -272,6 +278,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | rdnsdomain.in | 103.35.70.71 |
 | sciconferenceleague.biz | 172.107.180.114 |
 | science-university-notifications.website | 46.41.138.140 |
+| sciencenet.com.ng | 170.187.132.20 |
 | scientificgroup.org | 35.214.83.162 |
 | scientificresearch.uk ||
 | scimedcentral.com | 15.235.102.134 |
@@ -320,6 +327,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
 | 148.163.87.xxx | impactfactorj.com, indexmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
+| 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
 
