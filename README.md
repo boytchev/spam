@@ -110,14 +110,14 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
-| European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/) * |
-| Iksad Institute, *[www.iksadinstitute.org/](https://www.iksadinstitute.org/)* |
+| European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/)* |
+| Iksad Institute, *[www.iksadinstitute.org](https://www.iksadinstitute.org/)* |
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
-| Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/)* |
+| Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
-| The Scientistt [https://www.thescientistt.com](https://www.thescientistt.com)* |
+| The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
 
@@ -136,7 +136,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Archives of Psychiatry and Mental Health |
 | Annals of Psychiatry and Treatment |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)* |
-| Computational Biology and Bioinformatics, *[www.compubio.org/](http://www.compubio.org/)* |
+| Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
 | Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
@@ -157,7 +157,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Engineering, Management and Humanities (IJEMH), *[www.ijemh.com](http://www.ijemh.com)* |
 | International Journal of Engineering Research and Applications (IJERA), *[www.ijera.com](http://www.ijera.com)* |
 | International Journal on Engineering, Science and Technology (IJonEST) |
-| International Journal of Humanities and Social Science (IJHSS), *(www.ijhssnet.com)[https://www.ijhssnet.com/]* | |
+| International Journal of Humanities and Social Science (IJHSS), *[www.ijhssnet.com](https://www.ijhssnet.com/)* |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
 | International Journal of Networks and Systems (IJNS) , *[warse.org/IJNS](http://warse.org/IJNS/)* |
