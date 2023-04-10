@@ -32,6 +32,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | Geosciences and Green Technology (Geo) |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
+| Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
+| Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Journal of Ecology |
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
@@ -42,6 +44,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Biofuels and Bioenergy (Biofuels) |
+| International Conference on Data Analytics and Management in Data Intensive Domains (DAMDID), *[damdid2023.hse.ru](https://damdid2023.hse.ru/)* |
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
 | International Conference on Engineering Education and Information Technology (EEIT), *[www.eeit.net](http://www.eeit.net/index.html)* |
@@ -61,6 +64,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Medical, Health and Life Sciences (ICMeHeLS), *[www.icmehels.net](https://www.icmehels.net)* |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
 | International Conference on Management Economics and Business (IConMEB), *[www.iconmeb.net](https://www.iconmeb.net)* |
+| International Conference on Management Studies (ICMS), *[www.eurokd.com](https://www.eurokd.com/)* |
 | International Conference on Neuroscience (IConNeS), *[www.iconne.net](https://www.iconne.net)* |
 | International Conference on Organization and Management (ICOM), *[www.icom2023.com](https://icom2023.com/)* |
 | International Conference on Psychomotic Medicine, Obstetrics and Gynecology (ICPOG), *[www.icpog.net](https://www.icpog.net)* |
@@ -104,13 +108,16 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Publisher or organiser |
 |---|
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
+| Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
+| European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/) * |
 | Iksad Institute, *[www.iksadinstitute.org/](https://www.iksadinstitute.org/)* |
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
-| Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/) |
+| Scientific Group, *[scientificgroup.org/](https://scientificgroup.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
+| The Scientistt [https://www.thescientistt.com](https://www.thescientistt.com)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
 
@@ -216,6 +223,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
 | easycomdns.com | 104.223.40.181 |
+| ei25.live | 43.252.89.46 |
 | embarcadero.com ||
 | elasticemail.info | 176.31.7.110 |
 | eurasiatalk.com ||
@@ -257,6 +265,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | montashydro.in ||
+| mta3.net | 216.169.98.249 |
+| najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
@@ -274,6 +284,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
 | replitest.com ||
+| republlcco.com | 162.212.157.163 |
 | researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
 | sciconferenceleague.biz | 172.107.180.114 |
