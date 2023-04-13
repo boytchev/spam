@@ -131,6 +131,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Advances in Computer and Communication (ACC) |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
+| Annals of Mathematics and Physics (AMP) |
 | Annals of Robotics and Automation |
 | Annals of Systems Biology |
 | Archives of Psychiatry and Mental Health |
@@ -270,6 +271,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | nbscraft.com | 96.44.174.198 |
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
+| onlinearticle.org | 148.163.69.37 |
 | point4web.com ||
 | polytechnicpositions.com ||
 | poneytelecom.eu | 212.129.55.130 |
@@ -311,6 +313,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sparkpostmail.com | 192.174.81.50 |
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
+| submitmanu.org | 148.163.69.36 |
 | stanfordproofreading.com | 
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
@@ -336,7 +339,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
-| 148.163.87.xxx | impactfactorj.com, indexmanu.org |
+| 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
 | 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
