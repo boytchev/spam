@@ -100,6 +100,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
+| Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications (SQAMIA), *[2023.sqamia.org](http://2023.sqamia.org/)* |
 | Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
 
 
