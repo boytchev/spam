@@ -94,6 +94,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Zeugma Scientific Research Congress, *[en.zeugmakongresi.org/](https://en.zeugmakongresi.org/)* |
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
 | Macedonian Mathematical Congress, *[congress.smm.org.mk](https://congress.smm.org.mk)* |
+| Multidisciplinary International Conference of Research Applied to Defense and Security (MICRADS), *[www.micrads.org](https://www.micrads.org/)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
@@ -108,6 +109,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 
 | Publisher or organiser |
 |---|
+| AccScience Publishing (ASP), *[accscience.com](https://accscience.com/)* |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
@@ -121,6 +123,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
+| World Academy of Research in Science and Engineering (WARSE), *[warse.org](warse.org)* |
 
 
 # Spam journals
@@ -136,6 +139,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Annals of Robotics and Automation |
 | Annals of Systems Biology |
 | Archives of Psychiatry and Mental Health |
+| Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
 | Annals of Psychiatry and Treatment |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
@@ -198,6 +202,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 
 | Service domain | IP address |
 |---|:---|
+| 1-hostingservice.com | 94.46.251.125 |
 | 263.net | 211.157.147.132 |
 | acaademiaa.com ||
 | academiajournalexperts.com ||
@@ -290,6 +295,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | republlcco.com | 162.212.157.163 |
 | researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
+| saisti.eu ||
 | sciconferenceleague.biz | 172.107.180.114 |
 | science-university-notifications.website | 46.41.138.140 |
 | sciencenet.com.ng | 170.187.132.20 |
