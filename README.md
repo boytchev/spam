@@ -211,6 +211,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | amazonses.com | 54.240.48.23 |
 | aminer.cn ||
 | aminer.org ||
+| annotationsupport.com ||
 | aripd.net ||
 | article.email | 178.32.143.33 |
 | auseocompany.com | 96.44.174.233 |
@@ -229,6 +230,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
+| dreamdezigns.com | 64.22.104.99 |
 | easycomdns.com | 104.223.40.181 |
 | ei25.live | 43.252.89.46 |
 | embarcadero.com ||
@@ -242,6 +244,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | heberjahiz.com ||
 | himscsce.org ||
 | hostbycenter.com | 104.223.40.186 |
+| hostgator.in | 162.241.123.154 |
 | hspc.info | 43.227.16.6 |
 | icente.net | 38.242.244.185 |
 | iitast.com | 23.229.9.199 |
