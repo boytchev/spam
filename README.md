@@ -36,10 +36,12 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Journal of Ecology |
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
+| Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Devices and Structures (ICAMDS), *[erg.org.in/icamds.html](http://erg.org.in/icamds.html)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
+| International Conference on Applied Science & Engineering |
 | International Conference on Applied Science, Engineering, and Technology (ISTRASET), *[inovscitechconferences.com](https://inovscitechconferences.com)* |
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
@@ -65,6 +67,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
 | International Conference on Management Economics and Business (IConMEB), *[www.iconmeb.net](https://www.iconmeb.net)* |
 | International Conference on Management Studies (ICMS), *[www.eurokd.com](https://www.eurokd.com/)* |
+| International Conference on Modern Management based on Big Data (MMBD2023), *[mmbdconf.org](http://mmbdconf.org)* |
 | International Conference on Neuroscience (IConNeS), *[www.iconne.net](https://www.iconne.net)* |
 | International Conference on Organization and Management (ICOM), *[www.icom2023.com](https://icom2023.com/)* |
 | International Conference on Psychomotic Medicine, Obstetrics and Gynecology (ICPOG), *[www.icpog.net](https://www.icpog.net)* |
@@ -110,6 +113,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Publisher or organiser |
 |---|
 | AccScience Publishing (ASP), *[accscience.com](https://accscience.com/)* |
+| Blue Pen Journals Publishing House |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
@@ -149,10 +153,13 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | Insights on the Depression and Anxiety |
+| International Journal of Advance Agricultural Research (IJAAR) |
 | International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
+| International Journal of Applied Microbiology and Biotechnology Research (IJAMBR) |
 | International Journal of Applied Science and Technology (IJAST), *[www.cpinet.info](http://www.cpinet.info/)* |
 | International Journal of Arts, Humanities and Social Sciences (IJAHSS) , *[www.ijahss.net](https://www.ijahss.net/)* |
 | International Journal of Bio-Medical Informatics and e-Health (IJBMeH), *[warse.org/IJBMIeH](http://warse.org/IJBMIeH/)* |
+| International Journal of Business and Finance Management Research (IJBFMR) |
 | International Journal of Business, Humanities and Technology (IJBHT), *[www.ijbhtnet.com](https://www.ijbhtnet.com/)* |
 | International Journal of Computational Engineering Research (IJCER) *[www.ijceronline.com](https://www.ijceronline.com/)* |
 | International Journal of Education in Mathematics, Science and Technology (IJEMST) |
@@ -163,12 +170,17 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Engineering, Management and Humanities (IJEMH), *[www.ijemh.com](http://www.ijemh.com)* |
 | International Journal of Engineering Research and Applications (IJERA), *[www.ijera.com](http://www.ijera.com)* |
 | International Journal on Engineering, Science and Technology (IJonEST) |
+| International Journal of Food Research (IJFR) |
 | International Journal of Humanities and Social Science (IJHSS), *[www.ijhssnet.com](https://www.ijhssnet.com/)* |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
+| International Journal of Modern and Alternative Medicine Research (IJMAMR) |
+| International Journal of Modern Biological Research (IJMBR) |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
 | International Journal of Networks and Systems (IJNS) , *[warse.org/IJNS](http://warse.org/IJNS/)* |
 | International Journal of Precious Engineering Research and Applications (IJPERA), *[www.ijpera.com]( https://www.ijpera.com)* |
+| International Journal of Research and Reviews in Education (IJRRE) |
 | International Journal of Research in Education and Science (IJRES) |
+| International Journal of Research in Environmental Studies (IJRES) |
 | International Journal on Studies in Education (IJonSE) |
 | International Journal on Social and Education Sciences (IJonSES) |
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
@@ -183,7 +195,9 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
 | Journal of Educational Research and Reviews (JERR) |
+| Journal of Engineering and Manufacturing Technology (JEMT) |
 | Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
+| Journal of Medicinal Plant and Herbal Therapy Research (JMPHTR) |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
 | Journal of Science and Technology Innovation Research (JCTIR) |
@@ -221,6 +235,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | compubio.org ||
 | comsoc.org ||
 | conferenceinterests.biz ||
+| conferencesmail.com ||
 | confinvite.com | 188.68.53.62 |
 | confmail.net | 185.207.251.174 |
 | crismtorc.online | 198.91.86.63 |
@@ -231,6 +246,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
 | dreamdezigns.com | 64.22.104.99 |
+| dreamhostps.com | 208.97.147.199 |
 | easycomdns.com | 104.223.40.181 |
 | ei25.live | 43.252.89.46 |
 | embarcadero.com ||
@@ -275,6 +291,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
 | montashydro.in ||
+| mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
 | najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
@@ -292,6 +309,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
 | www.ptvgroup.com | |
+| qcloudmail.com | 119.28.54.199 |
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
 | replitest.com ||
