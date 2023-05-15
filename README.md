@@ -128,6 +128,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
 | World Academy of Research in Science and Engineering (WARSE), *[warse.org](warse.org)* |
+| World Laureates Association (WLA) |
 
 
 # Spam journals
@@ -310,6 +311,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptzpublications.org | 148.163.85.134 |
 | www.ptvgroup.com | |
 | qcloudmail.com | 119.28.54.199 |
+| exmail.qq.com | 43.155.65.254 |
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
 | replitest.com ||
