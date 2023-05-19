@@ -49,6 +49,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Data Analytics and Management in Data Intensive Domains (DAMDID), *[damdid2023.hse.ru](https://damdid2023.hse.ru/)* |
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
+| International Conference on Emerging Technologies in Engineering and Science (ICETES-2023), *[www.icetes.org](https://www.icetes.org/)* |
 | International Conference on Engineering Education and Information Technology (EEIT), *[www.eeit.net](http://www.eeit.net/index.html)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
@@ -56,6 +57,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Geosciences and Green Technology (ICGSGT) *[urfmeetings.com/environmentalscience-conference](https://urfmeetings.com/environmentalscience-conference)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
+| International Conference on Infectious Diseases |
 | International Conference on Information, Communication and Computing Technology (ICICCT), *[www.jimsindia.org/icicct2023](https://www.jimsindia.org/icicct2023/)* |
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
@@ -294,6 +296,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | montashydro.in ||
 | mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
+| mta3.net | 192.99.26.92 |
 | najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
 | nexonjet.com | 104.223.40.182 |
@@ -348,12 +351,14 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
 | tittu.in ||
+| theconferencepost.com ||
 | thehspc.co.uk | 51.79.224.244 |
 | thesai.org | |
 | trckln.com ||
 | uebad.org ||
 | urgicw.com | 149.28.143.163 |
 | urfresearch.com | 43.227.16.12 |
+| volumemail.in | 167.89.44.89 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 | (anonymous) | 40.92.52.103 |
