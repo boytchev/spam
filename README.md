@@ -251,6 +251,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | dreamdezigns.com | 64.22.104.99 |
 | dreamhostps.com | 208.97.147.199 |
 | easycomdns.com | 104.223.40.181 |
+| editingspapers.com | 192.236.193.149 |
 | ei25.live | 43.252.89.46 |
 | embarcadero.com ||
 | elasticemail.info | 176.31.7.110 |
@@ -264,6 +265,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | himscsce.org ||
 | hostbycenter.com | 104.223.40.186 |
 | hostgator.in | 162.241.123.154 |
+| hse.ru | 89.175.46.14 |
 | hspc.info | 43.227.16.6 |
 | icente.net | 38.242.244.185 |
 | iitast.com | 23.229.9.199 |
