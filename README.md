@@ -38,6 +38,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
+| International Conference on Advances in Social Networks Analysis and Mining (ASONAM), *[asonam.cpsc.ucalgary.ca](https://asonam.cpsc.ucalgary.ca)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Devices and Structures (ICAMDS), *[erg.org.in/icamds.html](http://erg.org.in/icamds.html)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
@@ -156,6 +157,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | Insights on the Depression and Anxiety |
+| International Clinical and Medical Case Reports Journal |
 | International Journal of Advance Agricultural Research (IJAAR) |
 | International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
 | International Journal of Applied Microbiology and Biotechnology Research (IJAMBR) |
@@ -195,6 +197,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
+| Journal of Education and Human Development (JEHD) |
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
 | Journal of Educational Research and Reviews (JERR) |
@@ -224,6 +227,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | acaademiaa.com ||
 | academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
+| akademikiletisim.com ||
 | ajeboxes.com | 159.203.111.102 |
 | amazonses.com | 54.240.48.23 |
 | aminer.cn ||
@@ -284,6 +288,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailersend.net | 212.11.79.135 |
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
+| mailgun.net | 159.135.228.99 |
 | mailgun.us | 209.61.151.240 |
 | mailin.fr | 185.41.28.8 |
 | mailhostbox.com | 162.210.70.53 |
@@ -329,6 +334,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sciencenet.com.ng | 170.187.132.20 |
 | scientificgroup.org | 35.214.83.162 |
 | scientificresearch.uk ||
+| scientificstreams.com | 185.181.10.46 |
 | scimedcentral.com | 15.235.102.134 |
 | sciresj.com | 15.235.137.11 |
 | scitechdata.org | 51.89.189.28 |
@@ -345,6 +351,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendpulse.info | 91.239.43.10 |
 | sendy.co ||
 | sendyemail.nanoconnect.in |
+| sereinjournals.org |
 | sparkpostmail.com | 192.174.81.50 |
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
@@ -352,6 +359,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | stanfordproofreading.com | 
 | support-academic-relations.com | 46.41.140.50 |
 | techinhosting.com ||
+| tetec.asia | 193.29.56.230 |
 | tittu.in ||
 | theconferencepost.com ||
 | thehspc.co.uk | 51.79.224.244 |
