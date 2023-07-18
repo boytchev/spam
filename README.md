@@ -26,7 +26,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
 | Elixir International Journal, *[www.elixirpublishers.com](https://www.elixirpublishers.com/)* |
-| Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* | |
+| Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* |
+| Engineering and Emerging Technologies Summit, *[conferencesglobal.org/engineering/](https://conferencesglobal.org/engineering/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
@@ -82,6 +83,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH) *[simultech.scitevents.org](https://simultech.scitevents.org)* |
 | International Conference on Social and Education Sciences (IConSES) |
 | International Conference on Social Science Studies (IConSoS), *[www.iconsos.net](https://www.iconsos.net)* |
+| International Conference on Social Sciences, Economics, Management and Education (SSEME2023), *[www.sseme.org](http://www.sseme.org/)* |
 | International Conference on Special Education and Diversity (IConSED), *[www.iconsed.net](https://www.iconsed.net)* |
 | International Conference on Sustainable Finance and Green Fintech |
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
@@ -197,10 +199,12 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
+| Journal of Edge Computing (JEC), *[acnsci.org/journal/index.php/jec/index](https://acnsci.org/journal/index.php/jec/index)* |
 | Journal of Education and Human Development (JEHD) |
 | Journal of Education and Learning (EduLearn) , *[edulearn.intelektual.org](https://edulearn.intelektual.org)* |
 | Journal of Education and Social Policy (JESP), *[www.jespnet.com](http://www.jespnet.com/)* |
 | Journal of Educational Research and Reviews (JERR) |
+| Journal of Electronic & Information Systems (JEIS) |
 | Journal of Engineering and Manufacturing Technology (JEMT) |
 | Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
 | Journal of Medicinal Plant and Herbal Therapy Research (JMPHTR) |
@@ -236,15 +240,18 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aripd.net ||
 | article.email | 178.32.143.33 |
 | auseocompany.com | 96.44.174.233 |
+| bilpublishing.com | 172.94.6.133 |
 | biomedoaj.com | 148.163.124.135 |
 | bulutotogaleri.com | 5.79.97.79 |
 | buzzolad.online | 198.91.86.65 |
 | compubio.org ||
 | comsoc.org ||
+| conferencesglobal.org ||
 | conferenceinterests.biz ||
 | conferencesmail.com ||
 | confinvite.com | 188.68.53.62 |
 | confmail.net | 185.207.251.174 |
+| contaboserver.net | 161.97.158.59 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
 | csu.edu.au | 10.4.95.52, 10.4.95.54, 137.166.4.236 |
@@ -258,11 +265,13 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | editingspapers.com | 192.236.193.149 |
 | ei25.live | 43.252.89.46 |
 | embarcadero.com ||
+| elasticemail.com | 216.169.99.6 |
 | elasticemail.info | 176.31.7.110 |
 | eurasiatalk.com ||
 | eurasiaseminars.com | 188.138.25.76 |
 | euromsg.net ||
 | exclaimer.net | 104.40.229.156 |
+| fox100.live ||
 | greatcote.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
 | heberjahiz.com ||
@@ -289,8 +298,10 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
 | mailgun.net | 159.135.228.99 |
+| mailgun.net | 161.38.202.159 |
 | mailgun.us | 209.61.151.240 |
 | mailin.fr | 185.41.28.8 |
+| mailing1.najv.net | 77.32.207.52 |
 | mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
 | mailserversm.com | 148.113.134.83 |
@@ -353,6 +364,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendyemail.nanoconnect.in |
 | sereinjournals.org |
 | sparkpostmail.com | 192.174.81.50 |
+| speakersknowledge.org | |
+| speakersmeetings.com | |
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
 | submitmanu.org | 148.163.69.36 |
