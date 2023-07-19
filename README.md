@@ -151,7 +151,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Archives of Psychiatry and Mental Health |
 | Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
 | Annals of Psychiatry and Treatment |
-| Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)* |
+| Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)*, *[www.commj.org](http://www.commj.org/j53/bNqF6)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
 | Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
