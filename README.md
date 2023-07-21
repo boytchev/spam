@@ -32,6 +32,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | Geosciences and Green Technology (Geo) |
+| Global Conference & Expo on Materials Science and Engineering (ISTMSE), *[inovscitechconferences.com/24/malaysia/matscieng/](https://inovscitechconferences.com/24/malaysia/matscieng/)*  |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
@@ -92,6 +93,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on the Quality of Information and Communications Technology (QUATIC), *[2023.quatic.org](https://2023.quatic.org/)* |
 | International Conference on Veterinary, Agriculture and Life Sciences (ICVALS), *[www.icvals.net](https://www.icvals.net)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
+| International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn/](http://www.cisp-bmei.cn/)* |
 | International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International Scientific Forum on Sustainable Development and Innovation (WFSDI 2023), *[ide-rus.ru/wfsdi2023](https://ide-rus.ru/wfsdi2023)* |
@@ -154,6 +156,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)*, *[www.commj.org](http://www.commj.org/j53/bNqF6)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
 | Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
+| Eastern-European Journal of Enterprise Technologies (JET), *[jet.com.ua/en/](http://jet.com.ua/en/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
@@ -244,6 +247,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | biomedoaj.com | 148.163.124.135 |
 | bulutotogaleri.com | 5.79.97.79 |
 | buzzolad.online | 198.91.86.65 |
+| cinterleoka.co.in ||
 | compubio.org ||
 | comsoc.org ||
 | conferencesglobal.org ||
@@ -271,6 +275,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | eurasiaseminars.com | 188.138.25.76 |
 | euromsg.net ||
 | exclaimer.net | 104.40.229.156 |
+| feeropen.online | 65.181.123.114 |
 | fox100.live ||
 | greatcote.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
@@ -371,6 +376,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | submitmanu.org | 148.163.69.36 |
 | stanfordproofreading.com | 
 | support-academic-relations.com | 46.41.140.50 |
+| talenttrackhr.com | 54.39.125.253 |
 | techinhosting.com ||
 | tetec.asia | 193.29.56.230 |
 | tittu.in ||
