@@ -186,7 +186,8 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Modern and Alternative Medicine Research (IJMAMR) |
 | International Journal of Modern Biological Research (IJMBR) |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
-| International Journal of Networks and Systems (IJNS) , *[warse.org/IJNS](http://warse.org/IJNS/)* |
+| International Journal of Networks and Systems (IJNS), *[warse.org/IJNS](http://warse.org/IJNS/)* |
+| International Journal of Physics Research and Applications |
 | International Journal of Precious Engineering Research and Applications (IJPERA), *[www.ijpera.com]( https://www.ijpera.com)* |
 | International Journal of Research and Reviews in Education (IJRRE) |
 | International Journal of Research in Education and Science (IJRES) |
@@ -247,6 +248,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | biomedoaj.com | 148.163.124.135 |
 | bulutotogaleri.com | 5.79.97.79 |
 | buzzolad.online | 198.91.86.65 |
+| capillaris.opensci.info | 51.79.224.19 |
 | cinterleoka.co.in ||
 | compubio.org ||
 | comsoc.org ||
@@ -382,6 +384,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | tittu.in ||
 | theconferencepost.com ||
 | thehspc.co.uk | 51.79.224.244 |
+| thehspc.net | 51.79.224.244 |
 | thesai.org | |
 | trckln.com ||
 | uebad.org ||
@@ -408,6 +411,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
+| 51.79.224.xxx | capillaris.opensci.info, thehspc.co.uk, thehspc.net |
 
 
 <!--
