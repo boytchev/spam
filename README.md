@@ -49,6 +49,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Biofuels and Bioenergy (Biofuels) |
+| International Conference on Computer-Human Interaction Research and Applications (CHIRA), *[chira.scitevents.org](https://chira.scitevents.org/)* |
 | International Conference on Data Analytics and Management in Data Intensive Domains (DAMDID), *[damdid2023.hse.ru](https://damdid2023.hse.ru/)* |
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
@@ -297,6 +298,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | jimsindia.org | 213.32.174.167 |
 | jscimedcentral.com ||
 | juniper-publisher.org ||
+| kaliteediting.com ||
+| kaliteproofreadexperts.com ||
+| kalitetranslation.com ||
 | learndelphi.org ||
 | mailchi.mp ||
 | mailchimp.com ||
@@ -393,6 +397,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | volumemail.in | 167.89.44.89 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
+| zumrutmedya.com | 178.33.41.165 |
 | (anonymous) | 40.92.52.103 |
 | (anonymous) | 49.206.62.30 |
 | (anonymous) | 103.35.70.8 |
