@@ -18,7 +18,6 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Event name and site |
 |---|
 | Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
-| African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | Annals of Civil and Environmental Engineering (ACEE) |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
@@ -146,6 +145,8 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal name and site |
 |---|
 | Advances in Computer and Communication (ACC) |
+| African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
+| American International Journal of Social Science ((AIJSS) |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Mathematics and Physics (AMP) |
@@ -201,6 +202,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Wireless Communications and Network Technologies (IJWCNT), *[warse.org/IJWCNT](http://warse.org/IJWCNT/)* |
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | IOSR Journal of Engineering (IOSR JEN), *[www.iosrjen.org](https://www.iosrjen.org/)* |
+| Iris Journal of Educational Research (IJER) |
 | Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
@@ -294,6 +296,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | indexmanu.org | 148.163.87.163 |
 | indiain2030.com ||
 | iprpd.org ||
+| irisopenaccess.org ||
 | istes.org ||
 | jimsindia.org | 213.32.174.167 |
 | jscimedcentral.com ||
