@@ -253,6 +253,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | buzzolad.online | 198.91.86.65 |
 | capillaris.opensci.info | 51.79.224.19 |
 | cinterleoka.co.in ||
+| cleanmanuscript.com ||
 | compubio.org ||
 | comsoc.org ||
 | conferencesglobal.org ||
@@ -260,11 +261,12 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | conferencesmail.com ||
 | confinvite.com | 188.68.53.62 |
 | confmail.net | 185.207.251.174 |
-| contaboserver.net | 161.97.158.59 |
+| contaboserver.net | 161.97.158.59, 173.249.37.187 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
 | csu.edu.au | 10.4.95.52, 10.4.95.54, 137.166.4.236 |
 | cutablw.com | 100.42.73.50 |
+| daresmailapp.com ||
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
@@ -320,6 +322,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailjet.com ||
 | mailserversm.com | 148.113.134.83 |
 | mailzbox.com | 96.44.174.197 |
+| manuscriptrevision.info | 74.50.67.137 |
 | marketing.tittu.in ||
 | mcdlv.net | 205.201.130.183 |
 | mcsv.net | 198.2.130.31 |
@@ -351,6 +354,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | rajpub.com ||
 | replitest.com ||
 | republlcco.com | 162.212.157.163 |
+| resauthor.com | 205.209.121.175 |
 | researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
 | saisti.eu ||
