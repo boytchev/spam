@@ -24,6 +24,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Computing Conference, *[saiconference.com/Computing](https://saiconference.com/Computing)* |
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
+| Edge Computing Workshop (DOORS), *[https://doors.easyscience.education/2024/](https://doors.easyscience.education/2024/)* |
 | Elixir International Journal, *[www.elixirpublishers.com](https://www.elixirpublishers.com/)* |
 | Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* |
 | Engineering and Emerging Technologies Summit, *[conferencesglobal.org/engineering/](https://conferencesglobal.org/engineering/)* |
@@ -273,11 +274,14 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | dreamdezigns.com | 64.22.104.99 |
 | dreamhostps.com | 208.97.147.199 |
 | easycomdns.com | 104.223.40.181 |
+| easyscience.education |
 | editingspapers.com | 192.236.193.149 |
 | ei25.live | 43.252.89.46 |
 | embarcadero.com ||
 | elasticemail.com | 216.169.99.6 |
 | elasticemail.info | 176.31.7.110 |
+| eufunds.info ||
+| eufunds.live ||
 | eurasiatalk.com ||
 | eurasiaseminars.com | 188.138.25.76 |
 | euromsg.net ||
