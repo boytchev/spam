@@ -101,6 +101,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
+| International Symposium on Hydrogen Energy, Renewable Energy and materials (HEREM), *[www.herem.org](http://www.herem.org)* |
 | International Workshop on e-Health Pervasive Wireless Applications and Services (e-HPWAS), *[www.ehpwas.org](https://www.ehpwas.org/)* |
 | International Zeugma Scientific Research Congress, *[en.zeugmakongresi.org/](https://en.zeugmakongresi.org/)* |
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
@@ -167,6 +168,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Insights on the Depression and Anxiety |
 | International Clinical and Medical Case Reports Journal |
 | International Journal of Advance Agricultural Research (IJAAR) |
+| International Journal of Advanced Research in Physical Science (IJARPS), *[]()*|
 | International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
 | International Journal of Applied Microbiology and Biotechnology Research (IJAMBR) |
 | International Journal of Applied Science and Technology (IJAST), *[www.cpinet.info](http://www.cpinet.info/)* |
@@ -245,6 +247,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | aminer.cn ||
 | aminer.org ||
 | annotationsupport.com ||
+| arcopenaccess.org ||
 | aripd.net ||
 | article.email | 178.32.143.33 |
 | auseocompany.com | 96.44.174.233 |
@@ -366,6 +369,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | science-university-notifications.website | 46.41.138.140 |
 | sciencenet.com.ng | 170.187.132.20 |
 | scientificgroup.org | 35.214.83.162 |
+| scientificjournalshub.com | 79.133.42.109 |
 | scientificresearch.uk ||
 | scientificstreams.com | 185.181.10.46 |
 | scimedcentral.com | 15.235.102.134 |
