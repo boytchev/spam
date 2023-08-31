@@ -222,10 +222,12 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Radiology and Oncology |
 | Journal of Science and Technology Innovation Research (JCTIR) |
 | Journal of Social Computing (JSC) |
+| Journal of Social Education Research (SER), *[ojs.wiserpub.com/index.php/SER/](https://ojs.wiserpub.com/index.php/SER/)* |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
-| Research Inventy journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
+| Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
+| Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
 | The Educational Review |
 
 
@@ -241,12 +243,13 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | acaademiaa.com ||
 | academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
-| akademikiletisim.com ||
 | ajeboxes.com | 159.203.111.102 |
+| akademikiletisim.com ||
 | amazonses.com | 54.240.48.23 |
 | aminer.cn ||
 | aminer.org ||
 | annotationsupport.com ||
+| antispamcloud.com | 185.201.18.31 |
 | arcopenaccess.org ||
 | aripd.net ||
 | article.email | 178.32.143.33 |
@@ -335,6 +338,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mcsv.net | 198.2.130.31 |
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
+| mochahost.com | 198.38.82.159 |
 | montashydro.in ||
 | mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
@@ -344,6 +348,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | onlinearticle.org | 148.163.69.37 |
+| pearlresearchjournals.org ||
 | point4web.com ||
 | polytechnicpositions.com ||
 | poneytelecom.eu | 212.129.55.130 |
@@ -407,6 +412,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | thesai.org | |
 | trckln.com ||
 | uebad.org ||
+| universalwiser.com | 185.93.165.212 |
 | urgicw.com | 149.28.143.163 |
 | urfresearch.com | 43.227.16.12 |
 | volumemail.in | 167.89.44.89 |
