@@ -39,6 +39,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Journal of Ecology |
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
+| International Conference on Advanced Civil Engineering and Smart Structures (ACESS), *[www.icacess.org](https://www.icacess.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advances in Social Networks Analysis and Mining (ASONAM), *[asonam.cpsc.ucalgary.ca](https://asonam.cpsc.ucalgary.ca)* |
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
@@ -239,7 +240,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | Service domain | IP address |
 |---|:---|
 | 1-hostingservice.com | 94.46.251.125 |
-| 263.net | 211.157.147.132 |
+| 263.net | 211.157.147.130, 211.157.147.132 |
 | acaademiaa.com ||
 | academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
@@ -403,6 +404,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | stanfordproofreading.com | 
 | support-academic-relations.com | 46.41.140.50 |
 | talenttrackhr.com | 54.39.125.253 |
+| techhubresearch.com ||
 | techinhosting.com ||
 | tetec.asia | 193.29.56.230 |
 | tittu.in ||
