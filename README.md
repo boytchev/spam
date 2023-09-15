@@ -132,6 +132,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
+| Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
@@ -395,6 +396,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendy.co ||
 | sendyemail.nanoconnect.in |
 | sereinjournals.org |
+| smtp.com | 74.91.85.32 |
+| smtpsendmail.com |
 | sparkpostmail.com | 192.174.81.50 |
 | speakersknowledge.org | |
 | speakersmeetings.com | |
