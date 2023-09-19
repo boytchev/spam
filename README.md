@@ -153,6 +153,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 |---|
 | Advances in Computer and Communication (ACC) |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
+| African Educational Research Journal (AERJ) |
 | American International Journal of Social Science ((AIJSS) |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
@@ -369,6 +370,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | exmail.qq.com | 43.155.65.254 |
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
+| realpapers.top | 143.198.69.218 |
 | replitest.com ||
 | republlcco.com | 162.212.157.163 |
 | resauthor.com | 205.209.121.175 |
@@ -443,6 +445,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 143.198.xxx.xxx | realpapers.top, sendsafe5.net.tr |
 | 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
 | 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
