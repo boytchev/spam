@@ -39,6 +39,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Journal of Ecology |
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
+| International Conference on Academic Studies in Technology and Education (ICASTE), *[www.icaste.net](https://www.icaste.net)* |
 | International Conference on Advanced Civil Engineering and Smart Structures (ACESS), *[www.icacess.org](https://www.icacess.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
 | International Conference on Advances in Social Networks Analysis and Mining (ASONAM), *[asonam.cpsc.ucalgary.ca](https://asonam.cpsc.ucalgary.ca)* |
@@ -130,6 +131,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/)* |
 | Iksad Institute, *[www.iksadinstitute.org](https://www.iksadinstitute.org/)* |
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
+| International Society for Academic Research in Science, Technology, and Education (ARSTE), *[www.arste.org](https://www.arste.org/)* |
+| International Society for Research in Education and Science (ISRES) |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
@@ -391,8 +394,11 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendibm3.com ||
 | sendinboxmail.com ||
 | sendinbx.com ||
+| sendinbxml.com ||
 | sendpulse.email | 195.191.65.104 |
 | sendpulse.info | 91.239.43.10 |
+| sendsafe4.net.tr ||
+| sendsafe5.net.tr | 143.198.159.108 |
 | sendy.co ||
 | sendyemail.nanoconnect.in |
 | sereinjournals.org |
