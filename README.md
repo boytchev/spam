@@ -98,6 +98,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
 | International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn/](http://www.cisp-bmei.cn/)* |
 | International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
+| International Forum on Applied Science and Engineering (ASEFORUM2024), *[www.continuumforums.com/2024/aseforum](https://www.continuumforums.com/2024/aseforum)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International Scientific Forum on Sustainable Development and Innovation (WFSDI 2023), *[ide-rus.ru/wfsdi2023](https://ide-rus.ru/wfsdi2023)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
@@ -111,6 +112,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Multidisciplinary International Conference of Research Applied to Defense and Security (MICRADS), *[www.micrads.org](https://www.micrads.org/)* |
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
+| Recent advances in Evolution of Education and Outreach (REEO) |
 | World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
@@ -127,6 +129,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Blue Pen Journals Publishing House |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
+| Continuum Forums, *[www.continuumforums.com](https://www.continuumforums.com/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
 | European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/)* |
 | Iksad Institute, *[www.iksadinstitute.org](https://www.iksadinstitute.org/)* |
@@ -413,6 +416,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | spsndr.com | 213.109.77.166 |
 | submitmanu.org | 148.163.69.36 |
 | stanfordproofreading.com | 
+| submitrestech.com | 148.113.3.70 |
 | support-academic-relations.com | 46.41.140.50 |
 | talenttrackhr.com | 54.39.125.253 |
 | techhubresearch.com ||
@@ -446,6 +450,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
 | 143.198.xxx.xxx | realpapers.top, sendsafe5.net.tr |
+| 148.113.xxx.xxx | mailserversm.com, submitrestech.com |
 | 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
 | 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
