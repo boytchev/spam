@@ -34,6 +34,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Geosciences and Green Technology (Geo) |
 | Global Conference & Expo on Materials Science and Engineering (ISTMSE), *[inovscitechconferences.com/24/malaysia/matscieng/](https://inovscitechconferences.com/24/malaysia/matscieng/)*  |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
+| Global Meet on Sensors and Sensing Technology (GMSST2024), *[www.primemeetings.org/2024/sensors-sensing-technology](https://www.primemeetings.org/2024/sensors-sensing-technology)* |
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Journal of Ecology |
@@ -96,6 +97,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on the Quality of Information and Communications Technology (QUATIC), *[2023.quatic.org](https://2023.quatic.org/)* |
 | International Conference on Veterinary, Agriculture and Life Sciences (ICVALS), *[www.icvals.net](https://www.icvals.net)* |
 | International Conference Europe Middle East & North Africa (EMENA), *[emena.org](https://emena.org)* |
+| International Congress on Biochemistry, Structural and Molecular Biology |
 | International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn/](http://www.cisp-bmei.cn/)* |
 | International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | International Forum on Applied Science and Engineering (ASEFORUM2024), *[www.continuumforums.com/2024/aseforum](https://www.continuumforums.com/2024/aseforum)* |
@@ -139,6 +141,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
+| Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
@@ -177,7 +180,8 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Insights on the Depression and Anxiety |
 | International Clinical and Medical Case Reports Journal |
 | International Journal of Advance Agricultural Research (IJAAR) |
-| International Journal of Advanced Research in Physical Science (IJARPS), *[]()*|
+| International Journal of Advanced Networking and Applications (IJANA), *[www.ijana.in](https://www.ijana.in/)* |
+| International Journal of Advanced Research in Physical Science (IJARPS) |
 | International Journal of Advances in Computer Science and Technology (IJACST), *[warse.org/IJACST](http://warse.org/IJACST/)* |
 | International Journal of Applied Microbiology and Biotechnology Research (IJAMBR) |
 | International Journal of Applied Science and Technology (IJAST), *[www.cpinet.info](http://www.cpinet.info/)* |
@@ -411,6 +415,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | smtpsendmail.com |
 | sparkpostmail.com | 192.174.81.50 |
 | speakersknowledge.org | |
+| speakersmeeting.com | |
 | speakersmeetings.com | |
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
