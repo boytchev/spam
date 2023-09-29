@@ -116,6 +116,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | Recent advances in Evolution of Education and Outreach (REEO) |
 | World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
+| World Conference on Data Science & Statistics |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
@@ -140,6 +141,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Society for Research in Education and Science (ISRES) |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
+| Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)*  |
+| Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
@@ -238,6 +241,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Social Education Research (SER), *[ojs.wiserpub.com/index.php/SER/](https://ojs.wiserpub.com/index.php/SER/)* |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
+| Medicon Engineering Themes (MCET), *[themedicon.com/engineeringthemes](https://themedicon.com/engineeringthemes)* |
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
@@ -351,6 +355,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mcsv.net | 198.2.130.31 |
 | mimecast.com | 103.96.21.123 |
 | mjt.lu ||
+| mlsend.com | 185.225.161.20 |
 | mochahost.com | 198.38.82.159 |
 | montashydro.in ||
 | mta2.net | 188.165.95.249 |
