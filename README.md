@@ -147,6 +147,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
+| SCIREA, *[www.scirea.org](https://www.scirea.org)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
@@ -164,6 +165,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | African Educational Research Journal (AERJ) |
 | American International Journal of Social Science ((AIJSS) |
+| American Journal of Biometrics & Biostatistics |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Mathematics and Physics (AMP) |
@@ -245,6 +247,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
+| Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)* |
 | The Educational Review |
 
 
@@ -366,6 +369,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | onlinearticle.org | 148.163.69.37 |
+| onlinemypaper.com | 139.99.92.219 |
 | pearlresearchjournals.org ||
 | point4web.com ||
 | polytechnicpositions.com ||
