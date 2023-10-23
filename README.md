@@ -104,6 +104,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International Scientific Forum on Sustainable Development and Innovation (WFSDI 2023), *[ide-rus.ru/wfsdi2023](https://ide-rus.ru/wfsdi2023)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
+| International Symposium INFOTEH-JAHORINA, *[infoteh.etf.ues.rs.ba](https://infoteh.etf.ues.rs.ba)*  |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
 | International Symposium on Hydrogen Energy, Renewable Energy and materials (HEREM), *[www.herem.org](http://www.herem.org)* |
@@ -445,6 +446,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | trckln.com ||
 | uebad.org ||
 | universalwiser.com | 185.93.165.212 |
+| unssa.rs.ba | 78.28.157.202 |
 | urgicw.com | 149.28.143.163 |
 | urfresearch.com | 43.227.16.12 |
 | volumemail.in | 167.89.44.89 |
