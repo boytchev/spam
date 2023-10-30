@@ -136,6 +136,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Continuum Forums, *[www.continuumforums.com](https://www.continuumforums.com/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
 | European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/)* |
+| Global Scientific and Academic Research (GSAR) Publishers, *[gsarpublishers.com](https://gsarpublishers.com/) |
 | Iksad Institute, *[www.iksadinstitute.org](https://www.iksadinstitute.org/)* |
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
 | International Society for Academic Research in Science, Technology, and Education (ARSTE), *[www.arste.org](https://www.arste.org/)* |
@@ -183,6 +184,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
+| Global Scientific and Academic Research Journal of Education and literature, *[gsarpublishers.com/gsarjel-home-page/](https://gsarpublishers.com/gsarjel-home-page/)* |
 | Insights on the Depression and Anxiety |
 | International Clinical and Medical Case Reports Journal |
 | International Journal of Advance Agricultural Research (IJAAR) |
