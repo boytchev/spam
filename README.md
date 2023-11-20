@@ -60,6 +60,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Engineering Education and Information Technology (EEIT), *[www.eeit.net](http://www.eeit.net/index.html)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
+| International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE), *[enase.scitevents.org](https://enase.scitevents.org/)* |
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Geosciences and Green Technology (ICGSGT) *[urfmeetings.com/environmentalscience-conference](https://urfmeetings.com/environmentalscience-conference)* |
@@ -148,6 +149,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
+| Science and Technology Events, *[www.scitevents.com](http://www.scitevents.com/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | SCIREA, *[www.scirea.org](https://www.scirea.org)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
@@ -301,6 +303,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
+| dotnetplayground.com ||
 | dreamdezigns.com | 64.22.104.99 |
 | dreamhostps.com | 208.97.147.199 |
 | easycomdns.com | 104.223.40.181 |
@@ -331,6 +334,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | impactfactorj.com | 148.163.87.162 |
 | indexmanu.org | 148.163.87.163 |
 | indiain2030.com ||
+| internetmailserver.net ||
 | iprpd.org ||
 | irisopenaccess.org ||
 | istes.org ||
@@ -370,6 +374,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mta3.net | 192.99.26.92 |
 | najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
+| netvisao.pt | 213.228.135.146 |
 | nexonjet.com | 104.223.40.182 |
 | oa.intechopen.com | 149.72.1.187 |
 | onlinearticle.org | 148.163.69.37 |
