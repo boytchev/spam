@@ -40,6 +40,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Journal of Ecology |
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
+| International Conference on Academic Studies in Science and Education (ICASSE) |
+| International Conference on Academic Studies in Science, Engineering and Technology (ICASET) |
 | International Conference on Academic Studies in Technology and Education (ICASTE), *[www.icaste.net](https://www.icaste.net)* |
 | International Conference on Advanced Civil Engineering and Smart Structures (ACESS), *[www.icacess.org](https://www.icacess.org/)* |
 | International Conference on Advances in Computing Research (ACR), *[IICSER.org/ACR23](https://IICSER.org/ACR23)* |
@@ -268,6 +270,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | acaademiaa.com ||
 | academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
+| aciek-academy.com ||
 | ajeboxes.com | 159.203.111.102 |
 | akademikiletisim.com ||
 | amazonses.com | 54.240.48.23 |
@@ -306,6 +309,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | dotnetplayground.com ||
 | dreamdezigns.com | 64.22.104.99 |
 | dreamhostps.com | 208.97.147.199 |
+| dyd.es | 82.199.156.111 |
 | easycomdns.com | 104.223.40.181 |
 | easyscience.education |
 | editingspapers.com | 192.236.193.149 |
@@ -334,6 +338,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | impactfactorj.com | 148.163.87.162 |
 | indexmanu.org | 148.163.87.163 |
 | indiain2030.com ||
+| intechopen.com | 149.72.204.118, 149.72.1.187 |
 | internetmailserver.net ||
 | iprpd.org ||
 | irisopenaccess.org ||
@@ -376,7 +381,6 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | nbscraft.com | 96.44.174.198 |
 | netvisao.pt | 213.228.135.146 |
 | nexonjet.com | 104.223.40.182 |
-| oa.intechopen.com | 149.72.1.187 |
 | onlinearticle.org | 148.163.69.37 |
 | onlinemypaper.com | 139.99.92.219 |
 | pearlresearchjournals.org ||
