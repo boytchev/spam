@@ -87,6 +87,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Research in Education and Social Sciences (ICRESS), *[www.icress.net](https://www.icress.net)* |
 | International Conference on Research in Engineering, Technology and Science (IConPeD), *[www.iconped.net](https://www.iconped.net)* |
 | International Conference on Research in Engineering, Technology and Science (ICRETS), *[www.icrets.net](https://www.icrets.net)* |
+| International Conference on Robotics & Artificial Intelligence Engineering (ICRAIE), *[www.artificialintelligence.theiconicmeetings.com](https://www.artificialintelligence.theiconicmeetings.com/)* |
 | International Conference on Science and Education (IConSE), *[www.iconse.net](https://www.iconse.net)* |
 | International Conference on Simulation and Modeling Methodologies, Technologies and Applications (SIMULTECH) *[simultech.scitevents.org](https://simultech.scitevents.org)* |
 | International Conference on Social and Education Sciences (IConSES) |
@@ -252,9 +253,10 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
 | Medicon Engineering Themes (MCET), *[themedicon.com/engineeringthemes](https://themedicon.com/engineeringthemes)* |
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
+| Preslia, *[presliajournal.com](http://presliajournal.com)* |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
-| Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)* |
+| SCIREA Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)* |
 | The Educational Review |
 
 
@@ -297,7 +299,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | confinvite.com | 188.68.53.62 |
 | confmail.net | 185.207.251.174 |
 | conf-mlsrv4.com | 54.233.98.172 |
-| contaboserver.net | 161.97.158.59, 173.249.37.187 |
+| contaboserver.net | 161.97.158.59, 173.249.37.187, 62.171.143.23 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
 | csu.edu.au | 10.4.95.52, 10.4.95.54, 137.166.4.236 |
@@ -452,6 +454,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | tetec.asia | 193.29.56.230 |
 | tittu.in ||
 | theconferencepost.com ||
+| theiconicmeetings.net ||
 | thehspc.co.uk | 51.79.224.244 |
 | thehspc.net | 51.79.224.244 |
 | thesai.org | |
