@@ -134,6 +134,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Publisher or organiser |
 |---|
 | AccScience Publishing (ASP), *[accscience.com](https://accscience.com/)* |
+| American Institute of Mathematical Sciences Press (AIMS Press), *[www.aimspress.com](https://www.aimspress.com/)* |
 | Blue Pen Journals Publishing House |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
@@ -182,6 +183,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
 | Annals of Psychiatry and Treatment |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)*, *[www.commj.org](http://www.commj.org/j53/bNqF6)* |
+| Communications in Analysis and Mechanics (CAM), *[www.aimspress.com/journal/cam](https://www.aimspress.com/journal/cam)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
 | Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
 | Eastern-European Journal of Enterprise Technologies (JET), *[jet.com.ua/en/](http://jet.com.ua/en/)* |
@@ -190,7 +192,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | Global Scientific and Academic Research Journal of Education and literature, *[gsarpublishers.com/gsarjel-home-page/](https://gsarpublishers.com/gsarjel-home-page/)* |
-| Insights on the Depression and Anxiety |
+| Insights on the Depression and Anxiety (IDA) |
 | International Clinical and Medical Case Reports Journal |
 | International Journal of Advance Agricultural Research (IJAAR) |
 | International Journal of Advanced Networking and Applications (IJANA), *[www.ijana.in](https://www.ijana.in/)* |
@@ -222,6 +224,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Precious Engineering Research and Applications (IJPERA), *[www.ijpera.com]( https://www.ijpera.com)* |
 | International Journal of Research and Reviews in Education (IJRRE) |
 | International Journal of Research in Education and Science (IJRES) |
+| International Journal of Research in Engineering and Science (IJRES), *[www.ijres.org](https://www.ijres.org/)* |
 | International Journal of Research in Environmental Studies (IJRES) |
 | International Journal on Studies in Education (IJonSE) |
 | International Journal on Social and Education Sciences (IJonSES) |
@@ -328,6 +331,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | feeropen.online | 65.181.123.114 |
 | fox100.live ||
 | greatcote.com ||
+| greatetime.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
 | heberjahiz.com ||
 | himscsce.org ||
@@ -365,6 +369,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailing1.najv.net | 77.32.207.52 |
 | mailhostbox.com | 162.210.70.53 |
 | mailjet.com ||
+| mailserve.net | 43.227.17.61 |
 | mailserversm.com | 148.113.134.83 |
 | mailzbox.com | 96.44.174.197 |
 | manuscriptrevision.info | 74.50.67.137 |
@@ -400,6 +405,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | www.ptvgroup.com | |
 | qcloudmail.com | 119.28.54.199 |
 | exmail.qq.com | 43.155.65.254 |
+| onlinereputationking.com | 173.254.223.2 |
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
 | realpapers.top | 143.198.69.218 |
@@ -420,6 +426,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sciresj.com | 15.235.137.11 |
 | scitechdata.org | 51.89.189.28 |
 | sciwideonline.com ||
+| scholarsupport.info | 43.227.16.39 |
 | secureserver.net | 173.201.193.184 |
 | sendergrid.co.in | 150.129.233.68 |
 | sendernet.co.in | 150.129.233.22 |
