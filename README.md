@@ -55,6 +55,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Biofuels and Bioenergy (Biofuels) |
 | International Conference on Computer-Human Interaction Research and Applications (CHIRA), *[chira.scitevents.org](https://chira.scitevents.org/)* |
+| International Conference on Computer Modeling, Simulation and Algorithm (ICCMSA), *(www.iccmsa2023.org)[http://www.iccmsa2023.org/]*  |
 | International Conference on Data Analytics and Management in Data Intensive Domains (DAMDID), *[damdid2023.hse.ru](https://damdid2023.hse.ru/)* |
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
@@ -152,6 +153,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
+| Qeios, *[www.qeios.com](https://www.qeios.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
 | Science and Technology Events, *[www.scitevents.com](http://www.scitevents.com/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
@@ -174,6 +176,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | African Educational Research Journal (AERJ) |
 | American International Journal of Social Science ((AIJSS) |
 | American Journal of Biometrics & Biostatistics |
+| American 2Jo5urtnal of Computer Science |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Mathematics and Physics (AMP) |
@@ -246,6 +249,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Electronic & Information Systems (JEIS) |
 | Journal of Engineering and Manufacturing Technology (JEMT) |
 | Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
+| Journal of Infrastructure, Policy and Development (JIPD) |
 | Journal of Medicinal Plant and Herbal Therapy Research (JMPHTR) |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
@@ -259,7 +263,8 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Preslia, *[presliajournal.com](http://presliajournal.com)* |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
-| SCIREA Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)* |
+| SCIREA Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)*, [jfoods.org](http://jfoods.org/) |
+| Systems Technology |
 | The Educational Review |
 
 
@@ -271,6 +276,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | Service domain | IP address |
 |---|:---|
 | 1-hostingservice.com | 94.46.251.125 |
+| 163.com | 123.58.178.167 |
 | 263.net | 211.157.147.130, 211.157.147.132 |
 | acaademiaa.com ||
 | academiajournalexperts.com ||
@@ -322,6 +328,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | embarcadero.com ||
 | elasticemail.com | 216.169.99.6 |
 | elasticemail.info | 176.31.7.110 |
+| ep-pub.net ||
 | eufunds.info ||
 | eufunds.live ||
 | eurasiatalk.com ||
@@ -349,7 +356,11 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | iprpd.org ||
 | irisopenaccess.org ||
 | istes.org ||
+| jcivil.org ||
+| jclinicalmedicine.org ||
 | jimsindia.org | 213.32.174.167 |
+| jfoods.org ||
+| johealth.net ||
 | jscimedcentral.com ||
 | juniper-publisher.org ||
 | kaliteediting.com ||
@@ -364,6 +375,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailgun.net | 143.55.232.15 |
 | mailgun.net | 159.135.228.99 |
 | mailgun.net | 161.38.202.159 |
+| mailgun.net | 185.250.238.113 |
 | mailgun.us | 209.61.151.240 |
 | mailin.fr | 185.41.28.8 |
 | mailing1.najv.net | 77.32.207.52 |
@@ -452,7 +464,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
 | submitmanu.org | 148.163.69.36 |
-| stanfordproofreading.com | 
+| stanfordproofreading.com ||
+| stemj.info | 51.89.114.96 |
+| stemsub.info | 205.254.168.171 |
 | submitrestech.com | 148.113.3.70 |
 | support-academic-relations.com | 46.41.140.50 |
 | talenttrackhr.com | 54.39.125.253 |
