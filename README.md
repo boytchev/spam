@@ -398,10 +398,13 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mta3.net | 192.99.26.92 |
 | najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
+| net.pk | 119.73.100.46 |
 | netvisao.pt | 213.228.135.146 |
 | nexonjet.com | 104.223.40.182 |
 | onlinearticle.org | 148.163.69.37 |
 | onlinemypaper.com | 139.99.92.219 |
+| parkyeri.com | 176.9.87.110 |
+| parkyeri.net | 176.9.87.106 |
 | pearlresearchjournals.org ||
 | point4web.com ||
 | polytechnicpositions.com ||
@@ -414,6 +417,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptechz.net | 43.227.16.122 |
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
+| pultar.org | 176.9.87.110 |
 | www.ptvgroup.com | |
 | qcloudmail.com | 119.28.54.199 |
 | exmail.qq.com | 43.155.65.254 |
