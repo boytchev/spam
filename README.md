@@ -38,6 +38,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Journal of Ecology |
+| IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/) |
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
 | International Conference on Academic Studies in Science and Education (ICASSE) |
@@ -347,6 +348,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hse.ru | 89.175.46.14 |
 | hspc.info | 43.227.16.6 |
 | icente.net | 38.242.244.185 |
+| iciea-cms.org | 203.175.171.26 |
 | iitast.com | 23.229.9.199 |
 | impactfactorj.com | 148.163.87.162 |
 | indexmanu.org | 148.163.87.163 |
