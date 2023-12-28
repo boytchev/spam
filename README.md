@@ -95,6 +95,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Social and Education Sciences (IConSES) |
 | International Conference on Social Science Studies (IConSoS), *[www.iconsos.net](https://www.iconsos.net)* |
 | International Conference on Social Sciences, Economics, Management and Education (SSEME2023), *[www.sseme.org](http://www.sseme.org/)* |
+| International Conference on Software Technologies (ICSOFT), *[icsoft.scitevents.org](https://icsoft.scitevents.org)* |
 | International Conference on Special Education and Diversity (IConSED), *[www.iconsed.net](https://www.iconsed.net)* |
 | International Conference on Sustainable Finance and Green Fintech |
 | International Conference on Systems and Informatics (ICSAI), *[icsai.sei.ynu.edu.cn](http://icsai.sei.ynu.edu.cn)* |
@@ -156,7 +157,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Qeios, *[www.qeios.com](https://www.qeios.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
-| Science and Technology Events, *[www.scitevents.com](http://www.scitevents.com/)* |
+| Science and Technology Events, *[www.scitevents.com](http://www.scitevents.com/)*, *[www.scitevents.org](http://www.scitevents.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | SCIREA, *[www.scirea.org](https://www.scirea.org)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
@@ -354,7 +355,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | indexmanu.org | 148.163.87.163 |
 | indiain2030.com ||
 | intechopen.com | 149.72.204.118, 149.72.1.187 |
-| internetmailserver.net ||
+| internetmailserver.net | 96.31.32.197 |
 | iprpd.org ||
 | irisopenaccess.org ||
 | istes.org ||
