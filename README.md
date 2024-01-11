@@ -69,6 +69,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Geosciences and Green Technology (ICGSGT) *[urfmeetings.com/environmentalscience-conference](https://urfmeetings.com/environmentalscience-conference)* |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
+| International Conference on Image Processing, Energy, Communication, Applied Sciences, Engineering & Technology (IECAET) |
 | International Conference on Infectious Diseases |
 | International Conference on Information, Communication and Computing Technology (ICICCT), *[www.jimsindia.org/icicct2023](https://www.jimsindia.org/icicct2023/)* |
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
@@ -173,6 +174,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 | Journal name and site |
 |---|
+| Advanced Research on Information Systems Security (ARIS2), *[aris-journal.com/aris/index.php/journal](https://aris-journal.com/aris/index.php/journal)*  |
 | Advances in Computer and Communication (ACC) |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | African Educational Research Journal (AERJ) |
@@ -187,6 +189,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Archives of Psychiatry and Mental Health |
 | Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
 | Annals of Psychiatry and Treatment |
+| Buletin Ilmiah Sarjana Teknik Elektro (BISTE), *[journal2.uad.ac.id/index.php/biste](http://journal2.uad.ac.id/index.php/biste)*  |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)*, *[www.commj.org](http://www.commj.org/j53/bNqF6)* |
 | Communications in Analysis and Mechanics (CAM), *[www.aimspress.com/journal/cam](https://www.aimspress.com/journal/cam)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
@@ -240,6 +243,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | IOSR Journal of Engineering (IOSR JEN), *[www.iosrjen.org](https://www.iosrjen.org/)* |
 | Iris Journal of Educational Research (IJER) |
+| Journal of Advances in Health and Medical Sciences (JAHMS) |
 | Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
@@ -348,6 +352,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hostgator.in | 162.241.123.154 |
 | hse.ru | 89.175.46.14 |
 | hspc.info | 43.227.16.6 |
+| hv-nswift-88.top | 154.61.76.185 |
 | icente.net | 38.242.244.185 |
 | iciea-cms.org | 203.175.171.26 |
 | iitast.com | 23.229.9.199 |
@@ -370,6 +375,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | kaliteproofreadexperts.com ||
 | kalitetranslation.com ||
 | learndelphi.org ||
+| mail.uad.ac.id | 103.19.180.199 |
 | mailchi.mp ||
 | mailchimp.com ||
 | maildirectdelta.com | 150.129.233.46 |
@@ -452,6 +458,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sender-sib.com | 77.32.148.106 |
 | sendgrid.net | 149.72.112.193 |
 | sendibm3.com ||
+| sendinblue.com |
 | sendinboxmail.com ||
 | sendinbx.com ||
 | sendinbxml.com ||
@@ -470,12 +477,14 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | speakersmeetings.com | |
 | specjournals.com | 162.240.226.162 |
 | spsndr.com | 213.109.77.166 |
+| sp1-brevo.net | 77.32.149.5 |
 | submitmanu.org | 148.163.69.36 |
 | stanfordproofreading.com ||
 | stemj.info | 51.89.114.96 |
 | stemsub.info | 205.254.168.171 |
 | submitrestech.com | 148.113.3.70 |
 | support-academic-relations.com | 46.41.140.50 |
+| tafpublications.com ||
 | talenttrackhr.com | 54.39.125.253 |
 | techhubresearch.com ||
 | techinhosting.com ||
@@ -492,6 +501,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | unssa.rs.ba | 78.28.157.202 |
 | urgicw.com | 149.28.143.163 |
 | urfresearch.com | 43.227.16.12 |
+| vm-edge-75.top | 154.53.42.27 |
 | volumemail.in | 167.89.44.89 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
