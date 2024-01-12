@@ -198,6 +198,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
+| Forum for Education Studies (FES) |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | Global Scientific and Academic Research Journal of Education and literature, *[gsarpublishers.com/gsarjel-home-page/](https://gsarpublishers.com/gsarjel-home-page/)* |
 | Insights on the Depression and Anxiety (IDA) |
