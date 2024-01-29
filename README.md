@@ -39,8 +39,10 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Journal of Ecology |
 | IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/) |
+| IDEA Forum and Webinar of World NTD Day ||
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
+| International Computer Programming Education Conference (ICPEC), *[icpeconf.org](https://icpeconf.org/)* |
 | International Conference on Academic Studies in Science and Education (ICASSE) |
 | International Conference on Academic Studies in Science, Engineering and Technology (ICASET) |
 | International Conference on Academic Studies in Technology and Education (ICASTE), *[www.icaste.net](https://www.icaste.net)* |
@@ -299,6 +301,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | arcopenaccess.org ||
 | aripd.net ||
 | article.email | 178.32.143.33 |
+| apacsci.net ||
 | auseocompany.com | 96.44.174.233 |
 | bilpublishing.com | 172.94.6.133 |
 | biomedoaj.com | 148.163.124.135 |
@@ -364,6 +367,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | internetmailserver.net | 96.31.32.197 |
 | iprpd.org ||
 | irisopenaccess.org ||
+| iscte-iul.pt ||
 | istes.org ||
 | jcivil.org ||
 | jclinicalmedicine.org ||
