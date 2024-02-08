@@ -36,7 +36,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
 | Global Meet on Sensors and Sensing Technology (GMSST2024), *[www.primemeetings.org/2024/sensors-sensing-technology](https://www.primemeetings.org/2024/sensors-sensing-technology)* |
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
-| Global Summit on Polymer Science and Composite Materials (PolyScience2023) *[www.thescientistt.com](https://www.thescientistt.com)* |
+| Global Summit on Polymer Science and Composite Materials (PolyScience) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Journal of Ecology |
 | IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/) |
 | IDEA Forum and Webinar of World NTD Day ||
@@ -79,6 +79,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Intelligent Communication Technologies and Virtual Mobile (ICICV) |
 | International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
+| International Conference on Management Studies (ICMS) |
 | International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
 | International Conference on Medical, Health and Life Sciences (ICMeHeLS), *[www.icmehels.net](https://www.icmehels.net)* |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
@@ -181,8 +182,11 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
 | African Educational Research Journal (AERJ) |
 | American International Journal of Social Science ((AIJSS) |
-| American Journal of Biometrics & Biostatistics |
-| American 2Jo5urtnal of Computer Science |
+| American Journal of Biometrics & Biostatistics |		
+| American Journal of Computer Science |
+| American Journal of Computer Science and Technology (AMJCST), *[www.amjcst.net](http://www.amjcst.net/)* |
+| American Journal of Electrical and Computer Engineering (AJOEACE), *[www.ajoeace.com](http://www.ajoeace.com/)* |
+| American Journal of Information Science and Technology (AJOIST), *[www.ajoist.net](http://www.ajoist.net/)* |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Mathematics and Physics (AMP) |
@@ -292,6 +296,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | academicjournals.org | 108.178.4.84 |
 | aciek-academy.com ||
 | ajeboxes.com | 159.203.111.102 |
+| amjcst.net ||
 | akademikiletisim.com ||
 | amazonses.com | 54.240.48.23 |
 | aminer.cn ||
@@ -410,6 +415,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
 | mta3.net | 192.99.26.92 |
+| najv.net | 172.246.8.51 |
 | najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
 | net.pk | 119.73.100.46 |
