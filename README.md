@@ -166,6 +166,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | SCIREA, *[www.scirea.org](https://www.scirea.org)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
+| Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org/2024/home](https://slate-conf.org/2024/home)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
 | World Academy of Research in Science and Engineering (WARSE), *[warse.org](warse.org)* |
