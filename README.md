@@ -66,6 +66,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Engineering Education and Information Technology (EEIT), *[www.eeit.net](http://www.eeit.net/index.html)* |
 | International Conference on Engineering, Science and Technology (IConEST) |
 | International Conference on Engineering Technologies (ICENTE), *[icente.selcuk.edu.tr](http://icente.selcuk.edu.tr)* | 
+| International Conference on Engineering, Technology and Innovation (ICE/IEEE ITMC), *[mdtweek.digit-madeira.pt/ice ](https://mdtweek.digit-madeira.pt/ice/ )* |
 | International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE), *[enase.scitevents.org](https://enase.scitevents.org/)* |
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
