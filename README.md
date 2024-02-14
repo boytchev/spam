@@ -169,6 +169,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org/2024/home](https://slate-conf.org/2024/home)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
+| Workshop on serverless at the edge (SEATED), *(edgeless-project.eu/seated)[https://edgeless-project.eu/seated/]* |
 | World Academy of Research in Science and Engineering (WARSE), *[warse.org](warse.org)* |
 | World Laureates Association (WLA) |
 
