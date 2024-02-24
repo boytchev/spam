@@ -76,8 +76,10 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Infectious Diseases |
 | International Conference on Information, Communication and Computing Technology (ICICCT), *[www.jimsindia.org/icicct2023](https://www.jimsindia.org/icicct2023/)* |
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
+| International Conference on Innovations in Intelligent SysTems and Applications (INISTA), *[dcti.ucv.ro/inista2024](https://dcti.ucv.ro/inista2024/)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
 | International Conference on Intelligent Communication Technologies and Virtual Mobile (ICICV) |
+| International Conference on Intelligent Computing and Robotics (ICICR2024), *[www.icrconf.com](http://www.icrconf.com/)* |
 | International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Management Studies (ICMS) |
@@ -187,9 +189,9 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | American International Journal of Social Science ((AIJSS) |
 | American Journal of Biometrics & Biostatistics |		
 | American Journal of Computer Science |
-| American Journal of Computer Science and Technology (AMJCST), *[www.amjcst.net](http://www.amjcst.net/)* |
-| American Journal of Electrical and Computer Engineering (AJOEACE), *[www.ajoeace.com](http://www.ajoeace.com/)* |
-| American Journal of Information Science and Technology (AJOIST), *[www.ajoist.net](http://www.ajoist.net/)* |
+| American Journal of Computer Science and Technology (AMJCST)(AJCST), *[www.amjcst.net](http://www.amjcst.net/)* |
+| American Journal of Electrical and Computer Engineering (AJOEACE)(AJECE), *[www.ajoeace.com](http://www.ajoeace.com/)* |
+| American Journal of Information Science and Technology (AJOIST)(AJIST), *[www.ajoist.net](http://www.ajoist.net/)*, *[www.ajinfoscitech.org](http://www.ajinfoscitech.org)* |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Mathematics and Physics (AMP) |
@@ -315,6 +317,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | biomedoaj.com | 148.163.124.135 |
 | bulutotogaleri.com | 5.79.97.79 |
 | buzzolad.online | 198.91.86.65 |
+| cancerresearchj.com ||
 | capillaris.opensci.info | 51.79.224.19 |
 | cinterleoka.co.in ||
 | cleanmanuscript.com ||
@@ -355,6 +358,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | exclaimer.net | 104.40.229.156 |
 | feeropen.online | 65.181.123.114 |
 | fox100.live ||
+| goescn.com | 176.126.251.157 |
 | greatcote.com ||
 | greatetime.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
@@ -510,6 +514,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | thehspc.net | 51.79.224.244 |
 | thesai.org | |
 | trckln.com ||
+| ucv.ro | 193.226.37.44 |
 | uebad.org ||
 | universalwiser.com | 185.93.165.212 |
 | unssa.rs.ba | 78.28.157.202 |
