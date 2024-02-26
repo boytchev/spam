@@ -157,6 +157,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Society for Academic Research in Science, Technology, and Education (ARSTE), *[www.arste.org](https://www.arste.org/)* |
 | International Society for Research in Education and Science (ISRES) |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
+| Juniper Publishers, *[juniperpublishers.com](https://juniperpublishers.com/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)*  |
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
@@ -258,6 +259,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Advances in Health and Medical Sciences (JAHMS) |
 | Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
+| Journal of Civil Engineering Research Journal (CERJ) |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Edge Computing (JEC), *[acnsci.org/journal/index.php/jec/index](https://acnsci.org/journal/index.php/jec/index)* |
 | Journal of Education and Human Development (JEHD) |
