@@ -134,6 +134,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | World Conference on Data Science & Statistics |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
+| World Summit and Expo on Robotics, Artificial Intelligence and Applications (WSERAA-2024), *[roboticssummit2024.com](https://roboticssummit2024.com/)* |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
 | Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications (SQAMIA), *[2023.sqamia.org](http://2023.sqamia.org/)* |
 | Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
@@ -424,6 +425,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
 | mta3.net | 192.99.26.92 |
+| mta4.net | 67.227.87.239 |
 | najv.net | 172.246.8.51 |
 | najva.com | 212.146.234.69 |
 | nbscraft.com | 96.44.174.198 |
