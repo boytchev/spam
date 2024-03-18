@@ -25,6 +25,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Conference on Computer Science and Application Engineering (CSAE), *[www.csaeconf.org](http://www.csaeconf.org)* |
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
 | Edge Computing Workshop (DOORS), *[https://doors.easyscience.education/2024/](https://doors.easyscience.education/2024/)* |
+| El Congreso Internacional en Innovación docente, Educación y transferencia de Conocimiento (CIINECO), *[egregius.com.es](https://egregius.com.es/)* |
 | Elixir International Journal, *[www.elixirpublishers.com](https://www.elixirpublishers.com/)* |
 | Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* |
 | Engineering and Emerging Technologies Summit, *[conferencesglobal.org/engineering/](https://conferencesglobal.org/engineering/)* |
@@ -203,6 +204,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
 | Annals of Psychiatry and Treatment |
 | Buletin Ilmiah Sarjana Teknik Elektro (BISTE), *[journal2.uad.ac.id/index.php/biste](http://journal2.uad.ac.id/index.php/biste)*  |
+| Cattle Practice, *[cattlepractice.org](https://cattlepractice.org/)* |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)*, *[www.commj.org](http://www.commj.org/j53/bNqF6)* |
 | Communications in Analysis and Mechanics (CAM), *[www.aimspress.com/journal/cam](https://www.aimspress.com/journal/cam)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
@@ -214,6 +216,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Forum for Education Studies (FES) |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
 | Global Scientific and Academic Research Journal of Education and literature, *[gsarpublishers.com/gsarjel-home-page/](https://gsarpublishers.com/gsarjel-home-page/)* |
+| IgMin Research |
 | Insights on the Depression and Anxiety (IDA) |
 | International Clinical and Medical Case Reports Journal |
 | International Journal of Advance Agricultural Research (IJAAR) |
@@ -238,6 +241,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Food Research (IJFR) |
 | International Journal of Humanities and Social Science (IJHSS), *[www.ijhssnet.com](https://www.ijhssnet.com/)* |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
+| International Journal of Mathematics and Computer Research (IJMCR) *[ijmcr.in](https://ijmcr.in/index.php/ijmcr)* |
 | International Journal of Modern and Alternative Medicine Research (IJMAMR) |
 | International Journal of Modern Biological Research (IJMBR) |
 | International Journal of Modern Engineering Research (IJMER), *[www.ijmer.com](https://www.ijmer.com)* |
@@ -353,6 +357,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | elasticemail.com | 216.169.99.6 |
 | elasticemail.info | 176.31.7.110 |
 | ep-pub.net ||
+| ervers.com | 185.136.89.43 |
 | eufunds.info ||
 | eufunds.live ||
 | eurasiatalk.com ||
@@ -459,6 +464,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | replitest.com ||
 | republlcco.com | 162.212.157.163 |
 | resauthor.com | 205.209.121.175 |
+| rescollabhub.com | 74.48.44.221 |
+| rescollabhub.biz ||
 | researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
 | saisti.eu ||
