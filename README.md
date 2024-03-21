@@ -138,7 +138,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | World Summit and Expo on Robotics, Artificial Intelligence and Applications (WSERAA-2024), *[roboticssummit2024.com](https://roboticssummit2024.com/)* |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
 | Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications (SQAMIA), *[2023.sqamia.org](http://2023.sqamia.org/)* |
-| Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT) *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
+| Международный научный форум "Устойчивое развитие и цифровая трансформация" (WFSDT), *[ide-rus.ru/wfsdt2022](https://ide-rus.ru/wfsdt2022)* |
+| Международной научно-практической конференции "Умные города и устойчивое развитие регионов" (SMARTGREENS), *[ide-rus.ru/smart2024](https://ide-rus.ru/smart2024)* |
 
 
 # Spam publisher or organiser
@@ -167,6 +168,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Qeios, *[www.qeios.com](https://www.qeios.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
+| Scientis Publishing, *[saintispub.com](https://saintispub.com/)* |
 | Science and Technology Events, *[www.scitevents.com](http://www.scitevents.com/)*, *[www.scitevents.org](http://www.scitevents.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | SCIREA, *[www.scirea.org](https://www.scirea.org)* |
@@ -257,6 +259,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
 | International Journal of Technology in Education (IJTE) |
 | International Journal of Technology in Education and Science (IJTES) |
+| International Journal of Trends in Mathematics Education Research (IJTMER), *[ijtmer.saintispub.com/ijtmer/index](https://ijtmer.saintispub.com/ijtmer/index)* |
 | International Journal of Wireless Communications and Network Technologies (IJWCNT), *[warse.org/IJWCNT](http://warse.org/IJWCNT/)* |
 | International Scientific and Practical Internet Journal, *[wayscience.com](https://wayscience.com)* |
 | IOSR Journal of Engineering (IOSR JEN), *[www.iosrjen.org](https://www.iosrjen.org/)* |
@@ -379,6 +382,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hv-nswift-88.top | 154.61.76.185 |
 | icente.net | 38.242.244.185 |
 | iciea-cms.org | 203.175.171.26 |
+| ide-rus.ru ||
 | iitast.com | 23.229.9.199 |
 | impactfactorj.com | 148.163.87.162 |
 | indexmanu.org | 148.163.87.163 |
@@ -401,6 +405,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | kalitetranslation.com ||
 | learndelphi.org ||
 | mail.uad.ac.id | 103.19.180.199 |
+| mailchannels.net | 23.83.223.164 |
 | mailchi.mp ||
 | mailchimp.com ||
 | maildirectdelta.com | 150.129.233.46 |
@@ -427,6 +432,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mlsend.com | 185.225.161.20 |
 | mochahost.com | 198.38.82.159 |
 | montashydro.in ||
+| msndr.net | 95.213.176.59 |
 | mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
 | mta3.net | 192.99.26.92 |
