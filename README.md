@@ -289,6 +289,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Medicon Engineering Themes (MCET), *[themedicon.com/engineeringthemes](https://themedicon.com/engineeringthemes)* |
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
 | Preslia, *[presliajournal.com](http://presliajournal.com)* |
+| Recent Advances in Evolution of Education and Outreach |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
 | SCIREA Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)*, [jfoods.org](http://jfoods.org/) |
@@ -370,6 +371,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | feeropen.online | 65.181.123.114 |
 | fox100.live ||
 | goescn.com | 176.126.251.157 |
+| goithe.com | 174.136.229.154 |
 | greatcote.com ||
 | greatetime.com ||
 | growdigitalcamp.com | 104.223.32.xxx |
@@ -379,6 +381,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hostgator.in | 162.241.123.154 |
 | hse.ru | 89.175.46.14 |
 | hspc.info | 43.227.16.6 |
+| hspischolar.com ||
 | hv-nswift-88.top | 154.61.76.185 |
 | icente.net | 38.242.244.185 |
 | iciea-cms.org | 203.175.171.26 |
@@ -459,6 +462,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptechz.net | 43.227.16.122 |
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
+| pubintellects.org ||
+| pubknowledgehub.com | 142.171.57.204 |
 | pultar.org | 176.9.87.110 |
 | www.ptvgroup.com | |
 | qcloudmail.com | 119.28.54.199 |
@@ -471,7 +476,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | republlcco.com | 162.212.157.163 |
 | resauthor.com | 205.209.121.175 |
 | rescollabhub.com | 74.48.44.221 |
+| rescollabhub.com | 74.48.160.45 |
 | rescollabhub.biz ||
+| resdataexchange.com | 104.129.41.31 |
 | researchexplore.org | 35.214.83.162 |
 | rdnsdomain.in | 103.35.70.71 |
 | saisti.eu ||
