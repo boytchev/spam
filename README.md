@@ -38,6 +38,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Meet on Sensors and Sensing Technology (GMSST2024), *[www.primemeetings.org/2024/sensors-sensing-technology](https://www.primemeetings.org/2024/sensors-sensing-technology)* |
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Polymer Science and Composite Materials (PolyScience) *[www.thescientistt.com](https://www.thescientistt.com)* |
+| Global Summit on Artificial Intelligence |
 | Global Journal of Ecology |
 | IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/) |
 | IDEA Forum and Webinar of World NTD Day ||
@@ -381,6 +382,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | hostgator.in | 162.241.123.154 |
 | hse.ru | 89.175.46.14 |
 | hspc.info | 43.227.16.6 |
+| hspcorporation.biz | 139.99.233.194 |
 | hspischolar.com ||
 | hv-nswift-88.top | 154.61.76.185 |
 | icente.net | 38.242.244.185 |
@@ -463,6 +465,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
 | pubintellects.org ||
+| pubknowledgebase.us ||
 | pubknowledgehub.com | 142.171.57.204 |
 | pultar.org | 176.9.87.110 |
 | www.ptvgroup.com | |
@@ -480,6 +483,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | rescollabhub.biz ||
 | resdataexchange.com | 104.129.41.31 |
 | researchexplore.org | 35.214.83.162 |
+| researchpulse.us ||
+| researchsynergize.com | 142.171.57.206 |
 | rdnsdomain.in | 103.35.70.71 |
 | saisti.eu ||
 | sciconferenceleague.biz | 172.107.180.114 |
@@ -562,6 +567,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 142.171.57.xxx | pubknowledgehub.com, researchsynergize.com |
 | 143.198.xxx.xxx | realpapers.top, sendsafe5.net.tr |
 | 148.113.xxx.xxx | mailserversm.com, submitrestech.com |
 | 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
