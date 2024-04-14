@@ -166,6 +166,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)*  |
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
+| OA Academic Press, *(oaacademicpress.com)[https://oaacademicpress.com/]* |
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Qeios, *[www.qeios.com](https://www.qeios.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
@@ -201,11 +202,12 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Mathematics and Physics (AMP) |
+| Annals of Psychiatry and Treatment |
 | Annals of Robotics and Automation |
 | Annals of Systems Biology |
 | Archives of Psychiatry and Mental Health |
 | Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
-| Annals of Psychiatry and Treatment |
+| Asian Research Journal of Arts & Social Sciences (ARJASS), *[journalarjass.com/index.php/ARJASS](https://journalarjass.com/index.php/ARJASS)* |
 | Buletin Ilmiah Sarjana Teknik Elektro (BISTE), *[journal2.uad.ac.id/index.php/biste](http://journal2.uad.ac.id/index.php/biste)*  |
 | Cattle Practice, *[cattlepractice.org](https://cattlepractice.org/)* |
 | Communications (COM), *[www.jcommun.org](http://www.jcommun.org)*, *[www.communj.com](http://www.communj.com)* , *[www.communj.net](http://www.communj.net/)*,*[www.communicationj.org](http://www.communicationj.org)*, *[www.communicationsj.org](http://www.communicationsj.org)*, *[www.commj.org](http://www.commj.org/j53/bNqF6)* |
@@ -448,6 +450,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | net.pk | 119.73.100.46 |
 | netvisao.pt | 213.228.135.146 |
 | nexonjet.com | 104.223.40.182 |
+| oaacademicpress.com ||
 | onlinearticle.org | 148.163.69.37 |
 | onlinemypaper.com | 139.99.92.219 |
 | parkyeri.com | 176.9.87.110 |
