@@ -201,6 +201,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | American Journal of Information Science and Technology (AJOIST)(AJIST), *[www.ajoist.net](http://www.ajoist.net/)*, *[www.ajinfoscitech.org](http://www.ajinfoscitech.org)* |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
+| Annals of Civil and Environmental Engineering (ACEE) |
 | Annals of Mathematics and Physics (AMP) |
 | Annals of Psychiatry and Treatment |
 | Annals of Robotics and Automation |
@@ -271,6 +272,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Civil Engineering Research Journal (CERJ) |
+| Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)* |
 | Journal of Computer Science and Information Technology (JCSIT), *[jcsitnet.com](http://jcsitnet.com/)* |
 | Journal of Edge Computing (JEC), *[acnsci.org/journal/index.php/jec/index](https://acnsci.org/journal/index.php/jec/index)* |
 | Journal of Education and Human Development (JEHD) |
@@ -348,6 +350,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | cse-researchcenter.com | 116.203.158.202 |
 | csu.edu.au | 10.4.95.52, 10.4.95.54, 137.166.4.236 |
 | cutablw.com | 100.42.73.50 |
+| datadiscoverhubs.net ||
 | daresmailapp.com ||
 | directsend04.com | 223.130.76.104 |
 | directsend08.com ||
@@ -456,6 +459,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | parkyeri.com | 176.9.87.110 |
 | parkyeri.net | 176.9.87.106 |
 | pearlresearchjournals.org ||
+| peerscience.us ||
 | point4web.com ||
 | polytechnicpositions.com ||
 | poneytelecom.eu | 212.129.55.130 |
@@ -532,6 +536,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | stanfordproofreading.com ||
 | stemj.info | 51.89.114.96 |
 | stemsub.info | 205.254.168.171 |
+| submitopen.com | 74.48.165.76 |
 | submitrestech.com | 148.113.3.70 |
 | support-academic-relations.com | 46.41.140.50 |
 | tafpublications.com ||
@@ -556,6 +561,10 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | volumemail.in | 167.89.44.89 |
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
+| zoho.com | 136.143.188.13 |
+| zohoinsights.com ||
+| zohomail.com ||
+| zohomail360.com ||
 | zumrutmedya.com | 178.33.41.165 |
 | (anonymous) | 40.92.52.103 |
 | (anonymous) | 49.206.62.30 |
