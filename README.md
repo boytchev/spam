@@ -132,6 +132,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Regional Conference on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn](http://www.cisp-bmei.cn)* |
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | Recent advances in Evolution of Education and Outreach (REEO) |
+| Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org](https://slate-conf.org)*  |
 | World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
 | World Conference on Data Science & Statistics |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
@@ -150,6 +151,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | AccScience Publishing (ASP), *[accscience.com](https://accscience.com/)* |
 | American Institute of Mathematical Sciences Press (AIMS Press), *[www.aimspress.com](https://www.aimspress.com/)* |
 | Blue Pen Journals Publishing House |
+| Brooklyn Research and Publishing Institute (BRPI), *[thebrpi.org](https://thebrpi.org/)* |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
 | Common Ground Research Networks, *[cgnetworks.org](https://cgnetworks.org/)* |
 | Continuum Forums, *[www.continuumforums.com](https://www.continuumforums.com/)* |
@@ -537,7 +539,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | stemj.info | 51.89.114.96 |
 | stemsub.info | 205.254.168.171 |
 | submitopen.com | 74.48.165.76 |
-| submitrestech.com | 148.113.3.70 |
+| submitrestech.com | 148.113.3.70, 148.113.13.229 |
 | support-academic-relations.com | 46.41.140.50 |
 | tafpublications.com ||
 | talenttrackhr.com | 54.39.125.253 |
