@@ -41,7 +41,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Summit on Polymer Science and Composite Materials (PolyScience) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Artificial Intelligence |
 | Global Journal of Ecology |
-| IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/) |
+| IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/)* |
 | IDEA Forum and Webinar of World NTD Day ||
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
 | Innovations in Intelligent Systems and Applications Conference (ASYU), *[asyu.inista.org](http://asyu.inista.org/)* |
@@ -61,7 +61,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Basic Sciences, Engineering and Technology (ICBASET), *[www.icbaset.net](https://www.icbaset.net)* |
 | International Conference on Biofuels and Bioenergy (Biofuels) |
 | International Conference on Computer-Human Interaction Research and Applications (CHIRA), *[chira.scitevents.org](https://chira.scitevents.org/)* |
-| International Conference on Computer Modeling, Simulation and Algorithm (ICCMSA), *(www.iccmsa2023.org)[http://www.iccmsa2023.org/]*  |
+| International Conference on Computer Modeling, Simulation and Algorithm (ICCMSA), *[www.iccmsa2023.org](http://www.iccmsa2023.org/)*  |
 | International Conference on Data Analytics and Management in Data Intensive Domains (DAMDID), *[damdid2023.hse.ru](https://damdid2023.hse.ru/)* |
 | International Conference on Digitalization and Management Innovation (DMI) |
 | International Conference on Educational Technology and Online Learning (ICETOL), *[www.icetol.com](http://www.icetol.com)* |
@@ -169,7 +169,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)*  |
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
-| OA Academic Press, *(oaacademicpress.com)[https://oaacademicpress.com/]* |
+| OA Academic Press, *[oaacademicpress.com](https://oaacademicpress.com/)* |
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
 | Qeios, *[www.qeios.com](https://www.qeios.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
@@ -181,7 +181,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org/2024/home](https://slate-conf.org/2024/home)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
-| Workshop on serverless at the edge (SEATED), *(edgeless-project.eu/seated)[https://edgeless-project.eu/seated/]* |
+| Workshop on serverless at the edge (SEATED), *[edgeless-project.eu/seated](https://edgeless-project.eu/seated/)* |
 | World Academy of Research in Science and Engineering (WARSE), *[warse.org](warse.org)* |
 | World Laureates Association (WLA) |
 
