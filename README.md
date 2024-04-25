@@ -32,6 +32,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
+| Future Technologies Conference (FTC), *[saiconference.com/FTC](https://saiconference.com/FTC)* |
 | Geosciences and Green Technology (Geo) |
 | Global Conference & Expo on Materials Science and Engineering (ISTMSE), *[inovscitechconferences.com/24/malaysia/matscieng/](https://inovscitechconferences.com/24/malaysia/matscieng/)*  |
 | Global Congress on Data Science, Data Analytics, big data, *[researchsummit.org](https://researchsummit.org/)* |
@@ -284,6 +285,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Electronic & Information Systems (JEIS) |
 | Journal of Engineering and Manufacturing Technology (JEMT) |
 | Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
+| Journal of Global Humanities and Social Sciences (GHSS), *[ojs.bonfuturepress.com/index.php/GHSS/index](http://ojs.bonfuturepress.com/index.php/GHSS/index)*  |
 | Journal of Infrastructure, Policy and Development (JIPD) |
 | Journal of Medicinal Plant and Herbal Therapy Research (JMPHTR) |
 | Journal of Operating System Development & Trends |
