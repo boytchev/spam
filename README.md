@@ -262,6 +262,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal of Research in Education and Science (IJRES) |
 | International Journal of Research in Engineering and Science (IJRES), *[www.ijres.org](https://www.ijres.org/)* |
 | International Journal of Research in Environmental Studies (IJRES) |
+| International Journal of Research Studies in Computer Science and Engineering (IJRSCSE) |
 | International Journal on Studies in Education (IJonSE) |
 | International Journal on Social and Education Sciences (IJonSES) |
 | International Journal of Social Policy & Education (IJSPE), *[ijspe.com](https://ijspe.com)* |
@@ -330,6 +331,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | annotationsupport.com ||
 | antispamcloud.com | 185.201.18.31 |
 | arcopenaccess.org ||
+| arcopenaccess.net ||
 | aripd.net ||
 | article.email | 178.32.143.33 |
 | apacsci.net ||
