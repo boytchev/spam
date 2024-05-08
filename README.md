@@ -178,6 +178,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | SCIREA, *[www.scirea.org](https://www.scirea.org)* |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
+| Trieste Next International Academy |
 | Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org/2024/home](https://slate-conf.org/2024/home)* |
 | United Research Forum, *[unitedresearchforum.com](https://unitedresearchforum.com)* |
 | Universal Wiser Publisher (UWP), *[wiserpub.com](https://wiserpub.com)* |
@@ -566,6 +567,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | webhoxton.com | 104.223.40.188 |
 | webtechxpress.com ||
 | zoho.com | 136.143.188.13 |
+| zohocrm.com | 135.84.80.185 |
 | zohoinsights.com ||
 | zohomail.com ||
 | zohomail360.com ||
