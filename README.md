@@ -463,6 +463,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | oaacademicpress.com ||
 | onlinearticle.org | 148.163.69.37 |
 | onlinemypaper.com | 139.99.92.219 |
+| openpubsphere.com | 139.99.118.155 |
+| openimpactforges.net ||
 | parkyeri.com | 176.9.87.110 |
 | parkyeri.net | 176.9.87.106 |
 | pearlresearchjournals.org ||
@@ -585,17 +587,18 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 15.235.xxx.xxx | scimedcentral.com sciresj.com |
 | 35.214.83.162 | researchexplore.org scientificgroup.org |
 | 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
+| 51.79.224.xxx | capillaris.opensci.info, thehspc.co.uk, thehspc.net |
+| 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
 | 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 139.99.xxx.xxx | openpubsphere.com, hspcorporation.biz, onlinemypaper.com |
 | 142.171.57.xxx | pubknowledgehub.com, researchsynergize.com |
 | 143.198.xxx.xxx | realpapers.top, sendsafe5.net.tr |
 | 148.113.xxx.xxx | mailserversm.com, submitrestech.com |
 | 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
-| 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
 | 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
-| 51.79.224.xxx | capillaris.opensci.info, thehspc.co.uk, thehspc.net |
 
 
 <!--
