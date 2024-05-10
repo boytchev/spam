@@ -166,6 +166,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Juniper Publishers, *[juniperpublishers.com](https://juniperpublishers.com/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
+| Kalite Editing Services, *[www.kaliteediting.com](https://www.kaliteediting.com/)* |
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)*  |
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
@@ -412,6 +413,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | istes.org ||
 | jcivil.org ||
 | jclinicalmedicine.org ||
+| jetmail.com.tr | 90.158.16.45 |
+| jetplatform.com ||
 | jimsindia.org | 213.32.174.167 |
 | jfoods.org ||
 | johealth.net ||
