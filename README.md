@@ -55,6 +55,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Advanced Materials and Engineering Structural Technology (ICAMEST), *[icamest.org](https://icamest.org)* |
 | International Conference on Advanced Materials, Devices and Structures (ICAMDS), *[erg.org.in/icamds.html](http://erg.org.in/icamds.html)* |
 | International Conference on Advanced Materials, Mechanics and Structural Engineering (AMMSE), *[ammse-conf.org](https://ammse-conf.org)* |
+| International Conference on Advancing Sustainable Futures (ICASF 2024), *[www.adu.ac.ae/adu-icasf](https://www.adu.ac.ae/adu-icasf]* |
 | International Conference on Applied Science & Engineering |
 | International Conference on Applied Science, Engineering, and Technology (ISTRASET), *[inovscitechconferences.com](https://inovscitechconferences.com)* |
 | International Conference on Basic Sciences and Technology (ICBAST), *[www.icbast.net](https://www.icbast.net)* |
@@ -134,6 +135,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Research Inventy (IJES), *[www.researchinventy.com](https://www.researchinventy.com/)* |
 | Recent advances in Evolution of Education and Outreach (REEO) |
 | Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org](https://slate-conf.org)*  |
+| WLA Prize nomination, *[nomination.thewlaprize.org](https://nomination.thewlaprize.org)*  |
 | World Conference on Artificial Intelligence, Machine Learning, and Data Science (WCAIMLDS), *[eurasiaconferences.com](https://eurasiaconferences.com/events/berlin/2023/artificial-intelligence-machine-learning-and-data-science/)* |
 | World Conference on Data Science & Statistics |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
@@ -339,6 +341,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | auseocompany.com | 96.44.174.233 |
 | bilpublishing.com | 172.94.6.133 |
 | biomedoaj.com | 148.163.124.135 |
+| sp1-brevo.net | 77.32.149.5 |
 | bulutotogaleri.com | 5.79.97.79 |
 | buzzolad.online | 198.91.86.65 |
 | cancerresearchj.com ||
@@ -484,12 +487,13 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
 | pubintellects.org ||
+| pubintellectech.us | 66.103.220.83 |
 | pubknowledgebase.us ||
 | pubknowledgehub.com | 142.171.57.204 |
 | pultar.org | 176.9.87.110 |
 | www.ptvgroup.com | |
 | qcloudmail.com | 119.28.54.199 |
-| exmail.qq.com | 43.155.65.254 |
+| exmail.qq.com | 43.155.65.254, 43.155.67.158 |
 | onlinereputationking.com | 173.254.223.2 |
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
