@@ -172,7 +172,8 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Juniper Publishers, *[juniperpublishers.com](https://juniperpublishers.com/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Kalite Editing Services, *[www.kaliteediting.com](https://www.kaliteediting.com/)* |
-| Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)*  |
+| Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)* |
+| Koryfi Group Of Media And Publications, *[www.koryfigroup.org](www.koryfigroup.org)* |
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | OA Academic Press, *[oaacademicpress.com](https://oaacademicpress.com/)* |
@@ -236,6 +237,9 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | IgMin Research |
 | Insights on the Depression and Anxiety (IDA) |
 | International Clinical and Medical Case Reports Journal |
+| International Education and Research Journal (IERJ), *[www.ierj.in](www.ierj.in)* |
+| International Educational Applied Scientific Research Journal (IEASRJ), *[www.ieasrj.com](www.ieasrj.com)* |
+| International Educational Journal of Science and Engineering (IEJSE), *[www.iejse.com](www.iejse.com)* |
 | International Journal of Advance Agricultural Research (IJAAR) |
 | International Journal of Advanced Networking and Applications (IJANA), *[www.ijana.in](https://www.ijana.in/)* |
 | International Journal of Advanced Research in Physical Science (IJARPS) |
@@ -409,6 +413,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | icente.net | 38.242.244.185 |
 | iciea-cms.org | 203.175.171.26 |
 | ide-rus.ru ||
+| ierjrnls.com | 92.119.129.88, 188.138.75.253 |
 | iitast.com | 23.229.9.199 |
 | impactfactorj.com | 148.163.87.162 |
 | indexmanu.org | 148.163.87.163 |
