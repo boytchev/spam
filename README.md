@@ -30,6 +30,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* |
 | Engineering and Emerging Technologies Summit, *[conferencesglobal.org/engineering/](https://conferencesglobal.org/engineering/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
+| European Congress on Advanced Nanotechnology and Nanomaterials |
 | European Congress on Interdisciplinary Scientific Research, *[www.eucongress.org](https://www.eucongress.org)* |
 | Future of Information and Communication Conference (FICC), *[saiconference.com/FICC](https://saiconference.com/FICC)* |
 | Future Technologies Conference (FTC), *[saiconference.com/FTC](https://saiconference.com/FTC)* |
@@ -124,6 +125,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
 | International Symposium INFOTEH-JAHORINA, *[infoteh.etf.ues.rs.ba](https://infoteh.etf.ues.rs.ba)*  |
 | International Symposium on Automation, Information and Computing (ISAIC), *[www.isaic-conf.com](https://www.isaic-conf.com)* |
+| International Symposium on Advanced Material Research (ISAMR), *[www.isamr.org](https://www.isamr.org/)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
 | International Symposium on Hydrogen Energy, Renewable Energy and materials (HEREM), *[www.herem.org](http://www.herem.org)* |
 | International Workshop on e-Health Pervasive Wireless Applications and Services (e-HPWAS), *[www.ehpwas.org](https://www.ehpwas.org/)* |
@@ -153,6 +155,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 |---|
 | AccScience Publishing (ASP), *[accscience.com](https://accscience.com/)* |
 | American Institute of Mathematical Sciences Press (AIMS Press), *[www.aimspress.com](https://www.aimspress.com/)* |
+| Arts and Science Press Pte. Ltd, *[esp.as-pub.com](https://esp.as-pub.com)* |
 | Blue Pen Journals Publishing House |
 | Brooklyn Research and Publishing Institute (BRPI), *[thebrpi.org](https://thebrpi.org/)* |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
@@ -225,6 +228,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Eastern-European Journal of Enterprise Technologies (JET), *[jet.com.ua/en/](http://jet.com.ua/en/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
+| Environment and Social Psychology, *[esp.as-pub.com/index.php/ESP](https://esp.as-pub.com/index.php/ESP)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Forum for Education Studies (FES) |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
@@ -364,6 +368,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | datadiscoverhubs.net ||
 | daresmailapp.com ||
 | directsend04.com | 223.130.76.104 |
+| directsend07.com | 223.130.123.242 |
 | directsend08.com ||
 | directsend27.com | 223.130.117.12 |
 | dotnetplayground.com ||
@@ -456,6 +461,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mochahost.com | 198.38.82.159 |
 | montashydro.in ||
 | msndr.net | 95.213.176.59 |
+| mta1.net | 192.152.126.121 |
 | mta2.net | 188.165.95.249 |
 | mta3.net | 216.169.98.249 |
 | mta3.net | 192.99.26.92 |
@@ -605,7 +611,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
 | 198.91.86.xxxx | buzzolad.online, crismtorc.online |
-| 223.130.xxx.xxx | directsend04.com, directsend08.com, directsend27.com |
+| 223.130.xxx.xxx | directsend04.com, directsend07.com, directsend08.com, directsend27.com |
 
 
 <!--
