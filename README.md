@@ -178,6 +178,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | OA Academic Press, *[oaacademicpress.com](https://oaacademicpress.com/)* |
 | Prime Meetings, *[www.primemeetings.org](https://www.primemeetings.org/)* |
+| Primera Scientific, *[primerascientific.com](https://primerascientific.com/)* |
 | Qeios, *[www.qeios.com](https://www.qeios.com/)* |
 | Scientific Group, *[scientificgroup.org](https://scientificgroup.org/)* |
 | Scientis Publishing, *[saintispub.com](https://saintispub.com/)* |
@@ -308,13 +309,16 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Social Education Research (SER), *[ojs.wiserpub.com/index.php/SER/](https://ojs.wiserpub.com/index.php/SER/)* |
 | Journal of Statistics and Mathematical Sciences |
 | Juniper Online Journal Material Science (JOJMS), *[juniperpublishers.com](https://juniperpublishers.com/)* |
+| Mathematics and Systems Science (MMS) |
 | Medicon Engineering Themes (MCET), *[themedicon.com/engineeringthemes](https://themedicon.com/engineeringthemes)* |
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
 | Preslia, *[presliajournal.com](http://presliajournal.com)* |
 | Recent Advances in Evolution of Education and Outreach |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
+| SCANDIA |
 | SCIREA Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)*, [jfoods.org](http://jfoods.org/) |
+| Surgical Research and Practice, *[primerascientific.com](https://primerascientific.com/)* |
 | Systems Technology |
 | The Educational Review |
 
@@ -332,6 +336,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | acaademiaa.com ||
 | academiajournalexperts.com ||
 | academicjournals.org | 108.178.4.84 |
+| acad-pub.net ||
 | aciek-academy.com ||
 | ajeboxes.com | 159.203.111.102 |
 | amjcst.net ||
@@ -490,6 +495,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | polytechnicpositions.com ||
 | poneytelecom.eu | 212.129.55.130 |
 | powerlinkmarketing.com | 45.127.4.173 |
+| primesci.org ||
 | productvideoat99.online | 173.254.223.3 |
 | productvideobeta.online | 173.254.223.4 |
 | proeditquality.com | 87.98.156.13 |
