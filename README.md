@@ -507,6 +507,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | pubintellectech.us | 66.103.220.83 |
 | pubknowledgebase.us ||
 | pubknowledgehub.com | 142.171.57.204 |
+| pubmindful.com | 51.81.220.146 |
 | pultar.org | 176.9.87.110 |
 | www.ptvgroup.com | |
 | qcloudmail.com | 119.28.54.199 |
