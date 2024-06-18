@@ -83,6 +83,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Innovations in Computing Research (ICR), *[iicser.org/icr23](https://iicser.org/icr23)* |
 | International Conference on Innovations in Intelligent SysTems and Applications (INISTA), *[dcti.ucv.ro/inista2024](https://dcti.ucv.ro/inista2024/)* |
 | International Conference on Innovative Data Communication Technologies and Applications (ICIDCA), *[icidca.com](http://icidca.com)* |
+| International Conference On Innovative Trends In Multidisciplinary Academic Research (ITMAR) |
 | International Conference on Intelligent Communication Technologies and Virtual Mobile (ICICV) |
 | International Conference on Intelligent Computing and Robotics (ICICR2024), *[www.icrconf.com](http://www.icrconf.com/)* |
 | International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
@@ -97,6 +98,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Neuroscience (IConNeS), *[www.iconne.net](https://www.iconne.net)* |
 | International Conference on Organization and Management (ICOM), *[www.icom2023.com](https://icom2023.com/)* |
 | International Conference on Psychomotic Medicine, Obstetrics and Gynecology (ICPOG), *[www.icpog.net](https://www.icpog.net)* |
+| International Conference on Rare Diseases and Orphan Drugs |
 | International Conference on Research in Education and Social Sciences (ICGeHeS), *[www.icgehes.net](https://www.icgehes.net)* |
 | International Conference on Research in Education and Social Sciences (ICRESS), *[www.icress.net](https://www.icress.net)* |
 | International Conference on Research in Engineering, Technology and Science (IConPeD), *[www.iconped.net](https://www.iconped.net)* |
@@ -128,6 +130,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Symposium on Advanced Material Research (ISAMR), *[www.isamr.org](https://www.isamr.org/)* |
 | International Symposium on Cluster, Cloud and Internet Computing (CCGrid), *[ccgrid2023.iisc.ac.in](https://ccgrid2023.iisc.ac.in)* |
 | International Symposium on Hydrogen Energy, Renewable Energy and materials (HEREM), *[www.herem.org](http://www.herem.org)* |
+| International Symposium On Research In Mathematics And Mechanics (TURAN), *[turansymposium.yildiz.edu.tr](https://turansymposium.yildiz.edu.tr/)* |
 | International Workshop on e-Health Pervasive Wireless Applications and Services (e-HPWAS), *[www.ehpwas.org](https://www.ehpwas.org/)* |
 | International Zeugma Scientific Research Congress, *[en.zeugmakongresi.org/](https://en.zeugmakongresi.org/)* |
 | JSM Mathematics and Statistics, *[www.jscimedcentral.com/Mathematics](https://www.jscimedcentral.com/Mathematics/)* |
@@ -163,13 +166,14 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Continuum Forums, *[www.continuumforums.com](https://www.continuumforums.com/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com/)* |
 | European Knowledge Development Ltd. *[www.eurokd.com](https://www.eurokd.com/)* |
+| Global Illuminators *[globalilluminators.org](https://globalilluminators.org/)* |
 | Global Scientific and Academic Research (GSAR) Publishers, *[gsarpublishers.com](https://gsarpublishers.com/) |
 | Iksad Institute, *[www.iksadinstitute.org](https://www.iksadinstitute.org/)* |
 | InovSciTech, *[inovscitechconferences.com](https://inovscitechconferences.com/)* |
 | International Society for Academic Research in Science, Technology, and Education (ARSTE), *[www.arste.org](https://www.arste.org/)* |
 | International Society for Research in Education and Science (ISRES) |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
-| Juniper Publishers, *[juniperpublishers.com](https://juniperpublishers.com/)* |
+| Juniper Publishers, *[juniperpublishers.com](https://juniperpublishers.com/)* *[juniperpublishers.net](https://juniperpublishers.net/)* |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Kalite Editing Services, *[www.kaliteediting.com](https://www.kaliteediting.com/)* |
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)* |
@@ -185,6 +189,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Science and Technology Events, *[www.scitevents.com](http://www.scitevents.com/)*, *[www.scitevents.org](http://www.scitevents.org/)* |
 | Science Web Publishing, *[sciencewebpublishing.net](http://sciencewebpublishing.net/)* |
 | SCIREA, *[www.scirea.org](https://www.scirea.org)* |
+| Selcuk University Journal of Engineering Sciences (SUJES) |
 | The Scientistt *[https://www.thescientistt.com](https://www.thescientistt.com)* |
 | Trieste Next International Academy |
 | Symposium on Languages, Applications and Technologies (SLATE), *[slate-conf.org/2024/home](https://slate-conf.org/2024/home)* |
@@ -214,12 +219,14 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Civil and Environmental Engineering (ACEE) |
+| Annals of Environmental Science and Toxicology (AEST) |
 | Annals of Mathematics and Physics (AMP) |
 | Annals of Psychiatry and Treatment |
 | Annals of Robotics and Automation |
 | Annals of Systems Biology |
 | Archives of Psychiatry and Mental Health |
 | Arts & Communication (A&C), *[accscience.com](https://accscience.com/)* |
+| Asian Journal of Education and Social Studies (AJESS), *[reviews.oaacademicpress.com/ajess/journal](https://reviews.oaacademicpress.com/ajess/journal)* |
 | Asian Research Journal of Arts & Social Sciences (ARJASS), *[journalarjass.com/index.php/ARJASS](https://journalarjass.com/index.php/ARJASS)* |
 | Buletin Ilmiah Sarjana Teknik Elektro (BISTE), *[journal2.uad.ac.id/index.php/biste](http://journal2.uad.ac.id/index.php/biste)*  |
 | Cattle Practice, *[cattlepractice.org](https://cattlepractice.org/)* |
@@ -234,6 +241,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
 | Forum for Education Studies (FES) |
 | Frontiers in Psychology, *[www.frontiersin.org](https://www.frontiersin.org/)* |
+| Global Journal of Obesity, Diabetes and Metabolic Syndrome (GJODMS) |
 | Global Scientific and Academic Research Journal of Education and literature, *[gsarpublishers.com/gsarjel-home-page/](https://gsarpublishers.com/gsarjel-home-page/)* |
 | IgMin Research |
 | Insights on the Depression and Anxiety (IDA) |
@@ -318,7 +326,9 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
 | SCANDIA |
 | SCIREA Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)*, [jfoods.org](http://jfoods.org/) |
+| Software, *[www.mdpi.com/journal/software](https://www.mdpi.com/journal/software)* |
 | Surgical Research and Practice, *[primerascientific.com](https://primerascientific.com/)* |
+| S.Y.L.W.A.N. |
 | Systems Technology |
 | The Educational Review |
 
@@ -366,6 +376,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | conferencesglobal.org ||
 | conferenceinterests.biz ||
 | conferencesmail.com ||
+| conferencesmailer.com ||
 | confinvite.com | 188.68.53.62 |
 | confmail.net | 185.207.251.174 |
 | conf-mlsrv4.com | 54.233.98.172 |
@@ -472,7 +483,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | montashydro.in ||
 | msndr.net | 95.213.176.59 |
 | mta1.net | 192.152.126.121 |
-| mta2.net | 188.165.95.249 |
+| mta2.net | 188.165.95.249, 217.182.181.130 |
 | mta3.net | 216.169.98.249 |
 | mta3.net | 192.99.26.92 |
 | mta4.net | 67.227.87.239 |
@@ -485,8 +496,10 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | oaacademicpress.com ||
 | onlinearticle.org | 148.163.69.37 |
 | onlinemypaper.com | 139.99.92.219 |
+| onlinereputationking.com | 173.254.223.2 |
 | openpubsphere.com | 139.99.118.155 |
 | openimpactforges.net ||
+| pagilemailbox.top | 194.11.226.13 |
 | parkyeri.com | 176.9.87.110 |
 | parkyeri.net | 176.9.87.106 |
 | pearlresearchjournals.org ||
@@ -501,6 +514,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | proeditquality.com | 87.98.156.13 |
 | professorpositions.com ||
 | ptechz.net | 43.227.16.122 |
+| ptechzoa.com ||
+| ptzdata.com | 87.98.237.43 |
 | ptzdatares.com | 51.89.237.47 |
 | ptzpublications.org | 148.163.85.134 |
 | pubintellects.org ||
@@ -510,9 +525,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | pubmindful.com | 51.81.220.146 |
 | pultar.org | 176.9.87.110 |
 | www.ptvgroup.com | |
-| qcloudmail.com | 119.28.54.199 |
 | exmail.qq.com | 43.155.65.254, 43.155.67.158 |
-| onlinereputationking.com | 173.254.223.2 |
+| pubinsightfuls.com | 104.223.45.132 |
+| qcloudmail.com | 119.28.54.199 |
 | qualityarticles.org | 107.189.160.214 |
 | rajpub.com ||
 | realpapers.top | 143.198.69.218 |
@@ -526,6 +541,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | researchexplore.org | 35.214.83.162 |
 | researchpulse.us ||
 | researchsynergize.com | 142.171.57.206 |
+| reviewres.com ||
 | rdnsdomain.in | 103.35.70.71 |
 | saisti.eu ||
 | sciconferenceleague.biz | 172.107.180.114 |
@@ -615,7 +631,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 51.79.224.xxx | capillaris.opensci.info, thehspc.co.uk, thehspc.net |
 | 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
-| 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com |
+| 104.223.xxx.xxx | easycomdns.com, growdigitalcamp.com, hostbycenter.com, nexonjet.com, webhoxton.com, pubinsightfuls.com |
 | 139.99.xxx.xxx | openpubsphere.com, hspcorporation.biz, onlinemypaper.com |
 | 142.171.57.xxx | pubknowledgehub.com, researchsynergize.com |
 | 143.198.xxx.xxx | realpapers.top, sendsafe5.net.tr |
