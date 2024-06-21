@@ -19,6 +19,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 |---|
 | Academy of Innovation, Entrepreneurship, and Knowledge Conference (ACIEK), *[www.aciek-academy.com/hybrid-conference](https://www.aciek-academy.com/hybrid-conference/)* |
 | Annals of Civil and Environmental Engineering (ACEE) |
+| Asia International Multidisciplinary Conference (AIMC) |
 | Blacksea Coastline Countries Scientific Research Conference, *[www.blackseacountries.org/conference](https://www.blackseacountries.org/conference)* |
 | Cloud2things, *[cloud2things.netsons.org/2023/index.html](https://cloud2things.netsons.org/2023/index.html)* |
 | Computing Conference, *[saiconference.com/Computing](https://saiconference.com/Computing)* |
@@ -76,6 +77,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Fog and Edge Computing (ICFEC) |
 | International Conference on Gastronomy, Food and Nutrition (ICGaFoN), *[www.icgafon.net](https://www.icgafon.net)* |
 | International Conference on Geosciences and Green Technology (ICGSGT) *[urfmeetings.com/environmentalscience-conference](https://urfmeetings.com/environmentalscience-conference)* |
+| International Conference on Health and Social Care Information Systems and Technologies (HCist), [hcist.scika.org](https://hcist.scika.org) |
 | International Conference on Humanities, Social and Education Sciences (iHSES) |
 | International Conference on Image Processing, Energy, Communication, Applied Sciences, Engineering & Technology (IECAET) |
 | International Conference on Infectious Diseases |
@@ -308,7 +310,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Journal of Engineering and Manufacturing Technology (JEMT) |
 | Journal of Fluid Mechanics / SciencePG, *[www.jfluidmech.org](http://www.jfluidmech.org/)* |
 | Journal of Global Humanities and Social Sciences (GHSS), *[ojs.bonfuturepress.com/index.php/GHSS/index](http://ojs.bonfuturepress.com/index.php/GHSS/index)*  |
-| Journal of Infrastructure, Policy and Development (JIPD) |
+| Journal of Infrastructure, Policy and Development (JIPD), *[systems.enpress-publisher.com/index.php/jipd](https://systems.enpress-publisher.com/index.php/jipd)* |
 | Journal of Medicinal Plant and Herbal Therapy Research (JMPHTR) |
 | Journal of Operating System Development & Trends |
 | Journal of Radiology and Oncology |
@@ -380,6 +382,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | confinvite.com | 188.68.53.62 |
 | confmail.net | 185.207.251.174 |
 | conf-mlsrv4.com | 54.233.98.172 |
+| connectingasia.org ||
 | contaboserver.net | 161.97.158.59, 173.249.37.187, 62.171.143.23 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
@@ -551,10 +554,12 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | scientificjournalshub.com | 79.133.42.109 |
 | scientificresearch.uk ||
 | scientificstreams.com | 185.181.10.46 |
+| scika.org ||
 | scimedcentral.com | 15.235.102.134 |
 | sciresj.com | 15.235.137.11 |
 | scitechdata.org | 51.89.189.28 |
 | sciwideonline.com ||
+| scholarsasia.com ||
 | scholarsupport.info | 43.227.16.39 |
 | secureserver.net | 173.201.193.184 |
 | sendergrid.co.in | 150.129.233.68 |
@@ -570,11 +575,14 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sendpulse.info | 91.239.43.10 |
 | sendsafe4.net.tr ||
 | sendsafe5.net.tr | 143.198.159.108 |
+| sendersrv.com ||
+| sendersrv3.com | 185.3.229.151 |
 | sendy.co ||
-| sendyemail.nanoconnect.in |
-| sereinjournals.org |
+| sendyemail.nanoconnect.in ||
+| sereinjournals.org ||
+| sin-chn.net ||
 | smtp.com | 74.91.85.32 |
-| smtpsendmail.com |
+| smtpsendmail.com ||
 | sparkpostmail.com | 192.174.81.50 |
 | speakersknowledge.org | |
 | speakersmeeting.com | |
