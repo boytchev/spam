@@ -219,6 +219,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | American Journal of Electrical and Computer Engineering (AJOEACE)(AJECE), *[www.ajoeace.com](http://www.ajoeace.com/)* |
 | American Journal of Information Science and Technology (AJOIST)(AJIST), *[www.ajoist.net](http://www.ajoist.net/)*, *[www.ajinfoscitech.org](http://www.ajinfoscitech.org)* |
 | American Journal of Remote Sensing / SciencePG, *[ajors.org](http://ajors.org/)* |
+| American Research Journal of Humanities & Social Science (ARJHSS), *[www.arjhss.com](https://www.arjhss.com/)* |
 | Annals of Biostatistics & Biometric Applications (ABBA), *[irispublishers.com/abba](https://irispublishers.com/abba/)* |
 | Annals of Civil and Environmental Engineering (ACEE) |
 | Annals of Environmental Science and Toxicology (AEST) |
@@ -236,6 +237,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Communications in Analysis and Mechanics (CAM), *[www.aimspress.com/journal/cam](https://www.aimspress.com/journal/cam)* |
 | Computational Biology and Bioinformatics, *[www.compubio.org](http://www.compubio.org/)* |
 | Contemporary Mathematics, *[ojs.wiserpub.com/index.php/CM](https://ojs.wiserpub.com/index.php/CM/)* |
+| Current Physics |
 | Eastern-European Journal of Enterprise Technologies (JET), *[jet.com.ua/en/](http://jet.com.ua/en/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
@@ -402,6 +404,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | easyscience.education |
 | editingspapers.com | 192.236.193.149 |
 | ei25.live | 43.252.89.46 |
+| emailing-server.net | 202.69.53.66 |
 | embarcadero.com ||
 | elasticemail.com | 216.169.99.6 |
 | elasticemail.info | 176.31.7.110 |
