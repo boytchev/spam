@@ -88,9 +88,10 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference On Innovative Trends In Multidisciplinary Academic Research (ITMAR) |
 | International Conference on Intelligent Communication Technologies and Virtual Mobile (ICICV) |
 | International Conference on Intelligent Computing and Robotics (ICICR2024), *[www.icrconf.com](http://www.icrconf.com/)* |
-| International Conference on Intelligent Systems and New Applications (ICISNA) *[icisna.org](https://icisna.org)* |
+| International Conference on Intelligent Systems and New Applications (ICISNA), *[icisna.org](https://icisna.org)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Management Studies (ICMS) |
+| International Conference on Mathematics and Computers in Sciences and Industry (MCSI) |
 | International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
 | International Conference on Medical, Health and Life Sciences (ICMeHeLS), *[www.icmehels.net](https://www.icmehels.net)* |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
@@ -298,7 +299,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | IOSR Journal of Engineering (IOSR JEN), *[www.iosrjen.org](https://www.iosrjen.org/)* |
 | Iris Journal of Educational Research (IJER) |
 | Journal of Advances in Health and Medical Sciences (JAHMS) |
-| Journal of Biomedical Research & Environmental Sciences (SCIRESJ) |
+| Journal of Biomedical Research & Environmental Sciences (JBRES), (SCIRESJ) |
 | Journal of Business & Economic Management (JBEM) |
 | Journal of Civil Engineering Research Journal (CERJ) |
 | Journal of Computer, *[www.jcomputer.org](http://www.jcomputer.org/)* |
@@ -446,6 +447,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | irisopenaccess.org ||
 | iscte-iul.pt ||
 | istes.org ||
+| jbresonline.com | 178.32.143.18 |
 | jcivil.org ||
 | jclinicalmedicine.org ||
 | jetmail.com.tr | 90.158.16.45 |
@@ -595,6 +597,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sp1-brevo.net | 77.32.149.5 |
 | submitmanu.org | 148.163.69.36 |
 | stanfordproofreading.com ||
+| startdedicated.net | 85.25.103.11 |
 | stemj.info | 51.89.114.96 |
 | stemsub.info | 205.254.168.171 |
 | submitopen.com | 74.48.165.76 |
@@ -636,9 +639,9 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 
 | IP address | Used by |
 |---|:---|
-| 15.235.xxx.xxx | scimedcentral.com sciresj.com |
-| 35.214.83.162 | researchexplore.org scientificgroup.org |
-| 46.41.xxx.xxx | science-university-notifications.website support-academic-relations.com |
+| 15.235.xxx.xxx | scimedcentral.com, sciresj.com |
+| 35.214.83.162 | researchexplore.org, scientificgroup.org |
+| 46.41.xxx.xxx | science-university-notifications.website, support-academic-relations.com |
 | 51.79.224.xxx | capillaris.opensci.info, thehspc.co.uk, thehspc.net |
 | 96.44.174.xxx | auseocompany.com, mailzbox.com, nbscraft.com | 
 | 103.35.70.xxx | rdnsdomain.in, (anonymous) |
@@ -646,6 +649,7 @@ The table above provides some ideas for a more broad anti-spam filters, based on
 | 139.99.xxx.xxx | openpubsphere.com, hspcorporation.biz, onlinemypaper.com |
 | 142.171.57.xxx | pubknowledgehub.com, researchsynergize.com |
 | 143.198.xxx.xxx | realpapers.top, sendsafe5.net.tr |
+| 178.32.143.xxx | article.email, jbresonline.com |
 | 148.113.xxx.xxx | mailserversm.com, submitrestech.com |
 | 148.163.xxx.xxx | biomedoaj.com, impactfactorj.com, indexmanu.org, onlinearticle.org, ptzpublications.org, submitmanu.org |
 | 173.254.223.xxx | productvideoat99.online, productvideobeta.online |
