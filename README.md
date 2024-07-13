@@ -125,6 +125,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), *[www.cisp-bmei.cn/](http://www.cisp-bmei.cn/)* |
 | International E-Conference on Agriculture and Aquaculture (Agri and Aqua Summit), *[unitedresearchforum.com/agriculture-conference/](https://unitedresearchforum.com/agriculture-conference/)* |
 | International Forum on Applied Science and Engineering (ASEFORUM2024), *[www.continuumforums.com/2024/aseforum](https://www.continuumforums.com/2024/aseforum)* |
+| International Science, Technology and Art Congress (ISTAC), *[elsanatlaridernegi.org.tr/uluslararasi-bilim-teknoloji-ve-sanat-kongresi/](https://elsanatlaridernegi.org.tr/uluslararasi-bilim-teknoloji-ve-sanat-kongresi/)* |
 | International Scientific and Practical Internet Conference, *[wayscience.com](http://wayscience.com)* |
 | International Scientific Forum on Sustainable Development and Innovation (WFSDI 2023), *[ide-rus.ru/wfsdi2023](https://ide-rus.ru/wfsdi2023)* |
 | International scientific practical conference "Information technologies and automation", *[ontu.edu.ua/itia](https://ontu.edu.ua/itia)* |
@@ -567,6 +568,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | scholarsasia.com ||
 | scholarsupport.info | 43.227.16.39 |
 | secureserver.net | 173.201.193.184 |
+| selcuk.edu.tr | 193.140.140.22 |
 | sendergrid.co.in | 150.129.233.68 |
 | sendernet.co.in | 150.129.233.22 |
 | sender-sib.com | 77.32.148.106 |
