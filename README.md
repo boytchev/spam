@@ -149,6 +149,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | World Conference on Data Science & Statistics |
 | World Conference on Information Systems and Technologies (WorldCIST), *[worldcist.org](http://worldcist.org)* |
 | World Congress of Education (WCE) |
+| World Nursing Science Conference (WNSC), *[www.globalnursingconference.com](https://www.globalnursingconference.com/)* |
 | World Summit and Expo on Robotics, Artificial Intelligence and Applications (WSERAA-2024), *[roboticssummit2024.com](https://roboticssummit2024.com/)* |
 | World Symposium on Smart Materials and Applications (WSSMA), *[wssma-conf.org](https://wssma-conf.org)* |
 | Workshop on Software Quality Analysis, Monitoring, Improvement, and Applications (SQAMIA), *[2023.sqamia.org](http://2023.sqamia.org/)* |
@@ -163,6 +164,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | AccScience Publishing (ASP), *[accscience.com](https://accscience.com/)* |
 | American Institute of Mathematical Sciences Press (AIMS Press), *[www.aimspress.com](https://www.aimspress.com/)* |
 | Arts and Science Press Pte. Ltd, *[esp.as-pub.com](https://esp.as-pub.com)* |
+| Blue Eyes Intelligence Engineering and Sciences Publication (BEIESP), *[www.blueeyesintelligence.org](https://www.blueeyesintelligence.org/)* |
 | Blue Pen Journals Publishing House |
 | Brooklyn Research and Publishing Institute (BRPI), *[thebrpi.org](https://thebrpi.org/)* |
 | Center for Promoting Ideas (CPI), *[www.cpinet.info](http://www.cpinet.info/)* |
@@ -178,6 +180,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Society for Research in Education and Science (ISRES) |
 | Iris Publishers, *[irispublishers.com](https://irispublishers.com)* |
 | Juniper Publishers, *[juniperpublishers.com](https://juniperpublishers.com/)* *[juniperpublishers.net](https://juniperpublishers.net/)* |
+| Health Sciences Publishing Institute (HSPI) |
 | Hill Publishing Group, *[hillpublisher.com](https://hillpublisher.com/)* |
 | Kalite Editing Services, *[www.kaliteediting.com](https://www.kaliteediting.com/)* |
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)* |
@@ -276,6 +279,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | International Journal on Engineering, Science and Technology (IJonEST) |
 | International Journal of Food Research (IJFR) |
 | International Journal of Humanities and Social Science (IJHSS), *[www.ijhssnet.com](https://www.ijhssnet.com/)* |
+| International Journal of Innovative Technology and Exploring Engineering (IJITEE), *[www.ijitee.org](https://www.ijitee.org/)* |
 | International Journal of Management & Information Technology (IJMIT) *[rajpub.com/index.php/ijmit](https://rajpub.com/index.php/ijmit)* |
 | International Journal of Mathematics and Computer Research (IJMCR) *[ijmcr.in](https://ijmcr.in/index.php/ijmcr)* |
 | International Journal of Modern and Alternative Medicine Research (IJMAMR) |
@@ -326,7 +330,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Mathematics and Systems Science (MMS) |
 | Medicon Engineering Themes (MCET), *[themedicon.com/engineeringthemes](https://themedicon.com/engineeringthemes)* |
 | Merit Research Journal of Education and Review (MRJER), *[meritresearchjournals.org](http://meritresearchjournals.org/)* |
-| Preslia, *[presliajournal.com](http://presliajournal.com)* |
+| Preslia, *[presliajournal.com](http://presliajournal.com)*  |
 | Recent Advances in Evolution of Education and Outreach |
 | Research Inventy Journal, *[www.researchinventy.com ](https://www.researchinventy.com/)* |
 | Research Journal of Educational Studies and Review (RJESR), *[www.pearlresearchjournals.org](https://www.pearlresearchjournals.org/)*  |
@@ -350,7 +354,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | 163.com | 123.58.178.167 |
 | 263.net | 211.157.147.130, 211.157.147.132 |
 | acaademiaa.com ||
+| academediting.com ||
 | academiajournalexperts.com ||
+| academiceditingbay.com ||
 | academicjournals.org | 108.178.4.84 |
 | acad-pub.net ||
 | aciek-academy.com ||
@@ -387,6 +393,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | confmail.net | 185.207.251.174 |
 | conf-mlsrv4.com | 54.233.98.172 |
 | connectingasia.org ||
+| constantcontact.com | 208.75.123.180 |
 | contaboserver.net | 161.97.158.59, 173.249.37.187, 62.171.143.23 |
 | crismtorc.online | 198.91.86.63 |
 | cse-researchcenter.com | 116.203.158.202 |
@@ -446,6 +453,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | internetmailserver.net | 96.31.32.197 |
 | iprpd.org ||
 | irisopenaccess.org ||
+| irispublisher.com ||
 | iscte-iul.pt ||
 | istes.org ||
 | jbresonline.com | 178.32.143.18 |
@@ -462,6 +470,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | kaliteproofreadexperts.com ||
 | kalitetranslation.com ||
 | learndelphi.org ||
+| linodeusercontent.com || 172.232.248.154 |
 | mail.uad.ac.id | 103.19.180.199 |
 | mailchannels.net | 23.83.223.164 |
 | mailchi.mp ||
@@ -517,6 +526,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | polytechnicpositions.com ||
 | poneytelecom.eu | 212.129.55.130 |
 | powerlinkmarketing.com | 45.127.4.173 |
+| precisionglobalcon.com | 167.89.101.132 |
 | primesci.org ||
 | productvideoat99.online | 173.254.223.3 |
 | productvideobeta.online | 173.254.223.4 |
@@ -548,6 +558,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | rescollabhub.biz ||
 | resdataexchange.com | 104.129.41.31 |
 | researchexplore.org | 35.214.83.162 |
+| researchfrontline.org ||
 | researchpulse.us ||
 | researchsynergize.com | 142.171.57.206 |
 | reviewres.com ||
@@ -615,7 +626,8 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | theiconicmeetings.net ||
 | thehspc.co.uk | 51.79.224.244 |
 | thehspc.net | 51.79.224.244 |
-| thesai.org | |
+| thesai.org ||
+| techsci-press.net ||
 | trckln.com ||
 | ucv.ro | 193.226.37.44 |
 | uebad.org ||
