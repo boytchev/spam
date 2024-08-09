@@ -41,7 +41,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Meet on Sensors and Sensing Technology (GMSST2024), *[www.primemeetings.org/2024/sensors-sensing-technology](https://www.primemeetings.org/2024/sensors-sensing-technology)* |
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Polymer Science and Composite Materials (PolyScience) *[www.thescientistt.com](https://www.thescientistt.com)* |
-| Global Summit on Artificial Intelligence |
+| Global Summit on Artificial Intelligence (GSAI) |
 | Global Journal of Ecology |
 | IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/)* |
 | IDEA Forum and Webinar of World NTD Day ||
@@ -91,7 +91,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | International Conference on Intelligent Systems and New Applications (ICISNA), *[icisna.org](https://icisna.org)* |
 | International Conference on Life Sciences, Engineering and Technology (iLSET) |
 | International Conference on Management Studies (ICMS) |
-| International Conference on Mathematics and Computers in Sciences and Industry (MCSI) |
+| International Conference on Mathematics and Computers in Sciences and Industry (MCSI), *[www.mcsi-conf.org](http://www.mcsi-conf.org/)* |
 | International Conference on Medical and Health Sciences (ICMeHeS), *[www.icmehes.net](https://www.icmehes.net)* |
 | International Conference on Medical, Health and Life Sciences (ICMeHeLS), *[www.icmehels.net](https://www.icmehels.net)* |
 | International Conference on Medical Imaging and Computer-Aided Diagnosis （MICAD), *[www.micad.org](https://www.micad.org/)* |
@@ -185,6 +185,7 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Kalite Editing Services, *[www.kaliteediting.com](https://www.kaliteediting.com/)* |
 | Knowledge Empowerment Foundation, *[www.kemfo.org](https://www.kemfo.org/)* |
 | Koryfi Group Of Media And Publications, *[www.koryfigroup.org](www.koryfigroup.org)* |
+| Lattice Science Publication (LSP), *[www.latticescipub.com/journals](https://www.latticescipub.com/journals/)* |
 | Medicon Publications, *[themedicon.com](https://themedicon.com/)* |
 | Nova Science Publishers, *[www.novapublishers.com](https://novapublishers.com/)* |
 | OA Academic Press, *[oaacademicpress.com](https://oaacademicpress.com/)* |
@@ -253,6 +254,12 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Global Journal of Obesity, Diabetes and Metabolic Syndrome (GJODMS) |
 | Global Scientific and Academic Research Journal of Education and literature, *[gsarpublishers.com/gsarjel-home-page/](https://gsarpublishers.com/gsarjel-home-page/)* |
 | IgMin Research |
+| Indian Journal of Production and Thermal Engineering (IJPTE) |
+| Indian Journal of Transport Engineering (IJTE) |
+| Indian Journal of Structure Engineering (IJSE) |
+| Indian Journal of Design Engineering (IJDE) |
+| Indian Journal of Fibre and Textile Engineering (IJFTE) |
+| Indian Journal of Environment Engineering (IJEE) |
 | Insights on the Depression and Anxiety (IDA) |
 | International Clinical and Medical Case Reports Journal |
 | International Education and Research Journal (IERJ), *[www.ierj.in](www.ierj.in)* |
@@ -400,6 +407,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | csu.edu.au | 10.4.95.52, 10.4.95.54, 137.166.4.236 |
 | cutablw.com | 100.42.73.50 |
 | datadiscoverhubs.net ||
+| dataexplorerhub.biz | 139.99.86.95 |
 | daresmailapp.com ||
 | directsend04.com | 223.130.76.104 |
 | directsend07.com | 223.130.123.242 |
@@ -475,7 +483,9 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailchannels.net | 23.83.223.164 |
 | mailchi.mp ||
 | mailchimp.com ||
+| maildirect.co.in | 103.19.137.224 |
 | maildirectdelta.com | 150.129.233.46 |
+| maildirectsigma.com | 43.227.16.54 |
 | mailersend.net | 212.11.79.135 |
 | mailer.unitedforum.uk ||
 | mailgun.net | 143.55.232.15 |
@@ -491,6 +501,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | mailserversm.com | 148.113.134.83 |
 | mailzbox.com | 96.44.174.197 |
 | manuscriptrevision.info | 74.50.67.137 |
+| markamdesigns.com | 212.83.147.93 |
 | marketing.tittu.in ||
 | mcdlv.net | 205.201.130.183 |
 | mcsv.net | 198.2.130.31 |
@@ -576,6 +587,7 @@ This is a list of mail and mailing-lists services used to send academic spam mes
 | sciresj.com | 15.235.137.11 |
 | scitechdata.org | 51.89.189.28 |
 | sciwideonline.com ||
+| scholarlinkage.net ||
 | scholarsasia.com ||
 | scholarsupport.info | 43.227.16.39 |
 | secureserver.net | 173.201.193.184 |
