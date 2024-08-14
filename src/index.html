@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>LMS Info</title>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+	
+	<link rel="stylesheet" href="styles.css">
+	
+	<style>
+		em {
+			font-style: normal;
+			font-weight: bold;
+			color: black;
+			font-weight: 900;
+			text-shadow: 0.5px 0 0px black;
+		}
+		
+		.hint {
+			font-size: 0.8em;
+			font-weight: 300;
+			color: dimgray;
+		}
+
+		.centered {
+			text-align: center;
+		}
+		
+		.hidden {
+			display: none;
+		}
+		
+	</style>
+	<script src="data-services.js"></script>
+	<script src="data-events.js"></script>
+	<script src="data-publishers.js"></script>
+	<script src="data-journals.js"></script>
+	<script src="code.js"></script>
+</head>
+
+<body>
+	<h1><img id="title" class="title" src="title.png"></h1>
+	
+	<div id="header">
+		<p>Academic spam is the practice of sending unsolicited emails about
+		conferences, publishing opportunities, invitations to editorial
+		boards and program committees. This Spam project collects metadata from such
+		academic spam sent to me. Non-academic spam about cat food, enlargement pills or
+		being someone's next of a kin is not included. So far I've been...</p>
+		
+		<br>
+		<h2>Hilariously spammed by</h2>
+	</div>
+	
+	<div class="centered">
+		<button class="big" onclick="showAllJournals()">
+			<div><span class="count" id="jcount">?</span> <span class="type">Journals</span></div>
+		</button>
+		
+		<button class="big" onclick="showAllConferences()">
+			<div><span class="count" id="ecount">?</span> <span class="type">Conferences</span></div>
+		</button>
+		
+		<button class="big" onclick="showAllPublishers()">
+			<div><span class="count" id="pcount">?</span> <span class="type">Publishers</span></div>
+		</button>
+		
+		<button class="big" onclick="showAllServices()">
+			<div><span class="count" id="scount">?</span> <span class="type">Services</span></div>
+		</button>
+		
+		<div class="hint">(click on them to see who they are)</div>
+	</div>
+	
+	<div id="container">
+	</div>
+	
+	
+
+	<div class="footer">
+		&mdash; <a href="criteria.html">Criteria</a> 
+		&mdash; <a href="https://github.com/boytchev/spam">GitHub</a>
+		&mdash; 
+	</div>
+	
+	
+	<script>
+		document.getElementById( 'jcount' ).innerHTML = journals.length;
+		document.getElementById( 'ecount' ).innerHTML = events.length;
+		document.getElementById( 'pcount' ).innerHTML = publishers.length;
+		document.getElementById( 'scount' ).innerHTML = services.length;
+	console.log('IP4 Map Level 2');
+	console.dir( ip4map2 );
+	console.log();
+
+	console.log('IP4 Map Level 3');
+	console.dir( ip4map3 );
+	console.log();
+
+	</script>
+</body>
+</html>

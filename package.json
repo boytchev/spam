@@ -1,0 +1,33 @@
+{
+  "name": "spam",
+  "version": "0.1.0",
+  "description": "Academic spam list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boytchev/spam.git"
+  },
+  "keywords": [
+    "spam",
+    "journal",
+    "conference",
+    "academic",
+    "fake",
+    "event",
+    "predatory"
+  ],
+  "author": "Pavel Boytchev",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/boytchev/spam/issues"
+  },
+  "homepage": "https://github.com/boytchev/spam#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint": "^9.9.0",
+    "globals": "^15.9.0"
+  }
+}

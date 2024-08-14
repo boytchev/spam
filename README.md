@@ -27,7 +27,6 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Congress for differential equations, mathematical analysis and its application (CODEMA), *[kongres.org.mk](https://kongres.org.mk/)* |
 | Edge Computing Workshop (DOORS), *[https://doors.easyscience.education/2024/](https://doors.easyscience.education/2024/)* |
 | El Congreso Internacional en Innovación docente, Educación y transferencia de Conocimiento (CIINECO), *[egregius.com.es](https://egregius.com.es/)* |
-| Elixir International Journal, *[www.elixirpublishers.com](https://www.elixirpublishers.com/)* |
 | Endless Light in Science (ELS), *[www.irc-els.com](https://www.irc-els.com)* |
 | Engineering and Emerging Technologies Summit, *[conferencesglobal.org/engineering/](https://conferencesglobal.org/engineering/)* |
 | Eurasia Conferences, *[eurasiaconferences.com](https://eurasiaconferences.com)* |
@@ -42,7 +41,6 @@ This is a list of events that have been promoted via spam emails. This does not 
 | Global Summit and Expo on Robot Intelligence Technology and Applications (GSERITA2023), *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Polymer Science and Composite Materials (PolyScience) *[www.thescientistt.com](https://www.thescientistt.com)* |
 | Global Summit on Artificial Intelligence (GSAI) |
-| Global Journal of Ecology |
 | IEEE Conference on Industrial Electronics And Applications (ICIEA) *[www.ieeeiciea.org](http://www.ieeeiciea.org/)* |
 | IDEA Forum and Webinar of World NTD Day ||
 | Industry 4.0, *[industry-4.eu](http://industry-4.eu/)* |
@@ -214,6 +212,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 
 | Journal name and site |
 |---|
+| Global Journal of Ecology |
 | Advanced Research on Information Systems Security (ARIS2), *[aris-journal.com/aris/index.php/journal](https://aris-journal.com/aris/index.php/journal)*  |
 | Advances in Computer and Communication (ACC) |
 | African Journal of Mathematics and Computer Science Research (AJMCSR), *[www.academicjournals.org/journal/AJMCSR](https://academicjournals.org/journal/AJMCSR)* |
@@ -246,6 +245,7 @@ This is a list of journals (and books) that have been promoted via spam emails. 
 | Current Physics |
 | Eastern-European Journal of Enterprise Technologies (JET), *[jet.com.ua/en/](http://jet.com.ua/en/)* |
 | Education Applications & Developments VIII, *[insciencepress.org/](https://insciencepress.org/)* |
+| Elixir International Journal, *[www.elixirpublishers.com](https://www.elixirpublishers.com/)* |
 | Energies, *[sci-index.com/energies-book-series](https://sci-index.com/energies-book-series/)* |
 | Environment and Social Psychology, *[esp.as-pub.com/index.php/ESP](https://esp.as-pub.com/index.php/ESP)* |
 | European Journal of Education and Pedagogy (EJ-EDU), *[www.ej-edu.org](https://www.ej-edu.org)* |
