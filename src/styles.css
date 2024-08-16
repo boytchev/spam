@@ -56,6 +56,13 @@ li {
 }
 
 
+h2 .hint {
+	font-weight: 100 !important;
+	font-size: 50%;
+	text-shadow: none;
+}
+
+
 a {
 	color: black;
 	text-decoration: none; 
@@ -77,15 +84,13 @@ a:hover {
 button.big {
 	font-family: "Bellota Text", sans-serif;
 	display: inline-block;
-	/*height: 7em;*/
-	/*margin: 0em 1em;*/
 	cursor: pointer;
-	border: none;
 	background: none;
+	border: none;
 }
 
 button.big:hover {
-	color: RoyalBlue;
+	color: Royalblue;
 }
 
 button.inline {
@@ -147,4 +152,25 @@ button .type {
 	font-style: italic;
 	margin-left: 1em;
 	text-align: right;
+}
+
+
+input {
+	margin-top: 0.3em;
+	max-width: 20em;
+	width: 100em;
+	font-family: "Bellota Text", sans-serif;
+	padding: 0.3em;
+	font-size: 1.15em;
+	border: dotted 1px gray;
+}
+
+
+em {
+	font-style: normal;
+	font-weight: bold;
+	color: black;
+	font-weight: 900;
+	text-shadow: 0.5px 0 0px black;
+	background: gold;
 }

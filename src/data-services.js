@@ -13,7 +13,7 @@ var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
 	{ domain: 'research-submit.com', ip4: '66.103.220.82' },
-	
+
 	{ domain: 'submitopen.org', ip4: '' },
 	{ domain: 'iconfphms.com', ip4: '' },
 	{ domain: 'aliyun.com', ip4: '8.221.27.153' },
@@ -317,6 +317,8 @@ var services = [
 ];
 
 
+console.time();
+
 function sortServices( a, b ) {
 
 	if ( !a.domain && b.domain ) return -1;
@@ -340,6 +342,22 @@ for ( var i=0; i<services.length-1; i++ )
 	if ( services[ i ].domain && ( services[ i ].domain == services[ i+1 ].domain ) )
 		console.log( 'Duplicate service', services[ i ].domain );
 
+
+for ( var i=0; i<services.length; i++ ) {
+
+	if ( !services[ i ].domain )
+		services[ i ].donaim = '(anonymous)';
+
+	if ( !services[ i ].ip4 )
+		services[ i ].ip4 = [];
+	else {
+
+		if ( typeof services[ i ].ip4 === 'string' )
+			services[ i ].ip4 = [ services[ i ].ip4 ];
+
+	}
+
+}
 
 var ip4map2 = {};
 var ip4map3 = {};
@@ -368,27 +386,29 @@ function processIP( i, j, si, sj ) {
 
 }
 
+
 // analyze shared IP4 addresses
-for ( var i=0; i<services.length-1; i++ ) if ( services[ i ].ip4 ) {
+for ( var i=0; i<services.length-1; i++ ) if ( services[ i ].ip4.length ) {
 
 	var ip4i = services[ i ].ip4;
-	if ( !( ip4i instanceof Array ) ) ip4i = [ ip4i ];
 
-	for ( var j=i+1; j<services.length; j++ ) if ( services[ j ].ip4 ) {
+	for ( var ii in ip4i ) {
 
-		var ip4j = services[ j ].ip4;
-		if ( !( ip4j instanceof Array ) ) ip4j = [ ip4j ];
+		var si = ip4i[ ii ].split( '.' );
+		for ( var j=i+1; j<services.length; j++ ) if ( services[ j ].ip4.length ) {
 
-		for ( var ii in ip4i )
+			var ip4j = services[ j ].ip4;
+
 			for ( var jj in ip4j ) {
 
-				var si = ip4i[ ii ].split( '.' );
 				var sj = ip4j[ jj ].split( '.' );
 				processIP( i, j, si, sj );
 
 			}
 
-	} // for j
+		} // for j
+
+	} // for ii
 
 } // for i
 

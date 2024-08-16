@@ -45,14 +45,11 @@ var publishers = [
 	{ name: 'Scientis Publishing', url: 'https://saintispub.com/' },
 	{ name: 'Science and Technology Events', url: [ 'http://www.scitevents.com/', 'http://www.scitevents.org/' ] },
 	{ name: 'Science Web Publishing', url: 'http://sciencewebpublishing.net/' },
-	{ name: 'SCIREA', url: 'https://www.scirea.org' },
 	{ name: 'Selcuk University Journal of Engineering Sciences', acronym: 'SUJES' },
 	{ name: 'The Scientistt', url: 'https://www.thescientistt.com' },
 	{ name: 'Trieste Next International Academy' },
-	{ name: 'Symposium on Languages, Applications and Technologies', acronym: 'SLATE', url: 'https://slate-conf.org/2024/home' },
 	{ name: 'United Research Forum', url: 'https://unitedresearchforum.com' },
 	{ name: 'Universal Wiser Publisher', acronym: 'UWP', url: 'https://wiserpub.com' },
-	{ name: 'Workshop on serverless at the edge', acronym: 'SEATED', url: 'https://edgeless-project.eu/seated/' },
 	{ name: 'World Academy of Research in Science and Engineering', acronym: 'WARSE', url: 'https://warse.org/' },
 	{ name: 'World Laureates Association', acronym: 'WLA' },
 
@@ -81,3 +78,24 @@ publishers = publishers.sort( sortPublishers );
 for ( var i=0; i<publishers.length-1; i++ )
 	if ( publishers[ i ].name == publishers[ i+1 ].name )
 		console.log( 'Duplicate publisher', publishers[ i ].name );
+
+
+
+for ( var i=0; i<publishers.length; i++ ) {
+
+	if ( !publishers[ i ].name )
+		publishers[ i ].name = '';
+
+	if ( !publishers[ i ].acronym )
+		publishers[ i ].acronym = '';
+
+	if ( !publishers[ i ].url )
+		publishers[ i ].url = [];
+	else {
+
+		if ( typeof publishers[ i ].url === 'string' )
+			publishers[ i ].url = [ publishers[ i ].url ];
+
+	}
+
+}

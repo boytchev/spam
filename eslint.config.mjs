@@ -15,10 +15,7 @@ export default [
 				services: "readonly",
 				ip4map3: "readonly",
 				ip4map2: "readonly",
-				showAllJournals: "readonly",
-				showAllConferences: "readonly",
-				showAllPublishers: "readonly",
-				showAllServices: "readonly"
+				searchFilter: "readonly"
 			}
 		},
 			

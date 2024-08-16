@@ -115,7 +115,7 @@ var journals = [
 	{ name: 'Journal of Biomedical Research & Environmental Sciences', acronym: 'JBRES/SCIRESJ' },
 	{ name: 'Journal of Business & Economic Management', acronym: 'JBEM' },
 	{ name: 'Journal of Civil Engineering Research Journal', acronym: 'CERJ' },
-	{ name: 'Journal of Computer', url: 'http://www.jcomputer.org/' },
+	{ name: 'Journal of Computer', url: [ 'http://www.jcomputer.org/', 'http://joenergys.org/' ] },
 	{ name: 'Journal of Computer Science and Information Technology', acronym: 'JCSIT', url: 'http://jcsitnet.com/' },
 	{ name: 'Journal of Edge Computing', acronym: 'JEC', url: 'https://acnsci.org/journal/index.php/jec/index' },
 	{ name: 'Journal of Education and Human Development', acronym: 'JEHD' },
@@ -149,6 +149,7 @@ var journals = [
 	{ name: 'S.Y.L.W.A.N.' },
 	{ name: 'Systems Technology' },
 	{ name: 'The Educational Review' },
+	{ name: 'SCIREA', url: 'https://www.scirea.org' },
 
 ];
 
@@ -175,3 +176,22 @@ journals = journals.sort( sortJournals );
 for ( var i=0; i<journals.length-1; i++ )
 	if ( journals[ i ].name == journals[ i+1 ].name )
 		console.log( 'Duplicate journal', journals[ i ].name );
+
+for ( var i=0; i<journals.length; i++ ) {
+
+	if ( !journals[ i ].name )
+		journals[ i ].name = '';
+
+	if ( !journals[ i ].acronym )
+		journals[ i ].acronym = '';
+
+	if ( !journals[ i ].url )
+		journals[ i ].url = [];
+	else {
+
+		if ( typeof journals[ i ].url === 'string' )
+			journals[ i ].url = [ journals[ i ].url ];
+
+	}
+
+}

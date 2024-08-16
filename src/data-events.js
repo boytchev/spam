@@ -9,8 +9,9 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 
+	{ name: 'Symposium on Languages, Applications and Technologies', acronym: 'SLATE', url: 'https://slate-conf.org/2024/home' },
 	{ name: 'Congreso Internacional de formación permanente', acronym: '', url: '' },
-
+	{ name: 'Workshop on serverless at the edge', acronym: 'SEATED', url: 'https://edgeless-project.eu/seated/' },
 	{ name: 'International Conference on Applied Mathematics & Computer Science', acronym: 'ICAMCS', url: 'http://icamcs.co/' },
 	{ name: 'Cоnfеrеnᴄе on Electrical Engineering, Mechanical Engineering and Automation', acronym: 'ICEEMEA', url: 'http://www.iceeie.com/' },
 	{ name: 'Ϲοnfеrеncе on Applied Mathematics and Information Technology', acronym: '', url: '' },
@@ -173,3 +174,22 @@ events = events.sort( sortEvents );
 for ( var i=0; i<events.length-1; i++ )
 	if ( events[ i ].name == events[ i+1 ].name )
 		console.log( 'Duplicate event', events[ i ].name );
+
+for ( var i=0; i<events.length; i++ ) {
+
+	if ( !events[ i ].name )
+		events[ i ].name = '';
+
+	if ( !events[ i ].acronym )
+		events[ i ].acronym = '';
+
+	if ( !events[ i ].url )
+		events[ i ].url = [];
+	else {
+
+		if ( typeof events[ i ].url === 'string' )
+			events[ i ].url = [ events[ i ].url ];
+
+	}
+
+}

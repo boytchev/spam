@@ -11,17 +11,10 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 	
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="src/styles.css">
 	
 	<style>
-		em {
-			font-style: normal;
-			font-weight: bold;
-			color: black;
-			font-weight: 900;
-			text-shadow: 0.5px 0 0px black;
-		}
-		
+	
 		.hint {
 			font-size: 0.8em;
 			font-weight: 300;
@@ -37,15 +30,15 @@
 		}
 		
 	</style>
-	<script src="data-services.js"></script>
-	<script src="data-events.js"></script>
-	<script src="data-publishers.js"></script>
-	<script src="data-journals.js"></script>
-	<script src="code.js"></script>
+	<script src="src/data-services.js"></script>
+	<script src="src/data-events.js"></script>
+	<script src="src/data-publishers.js"></script>
+	<script src="src/data-journals.js"></script>
+	<script src="src/code.js"></script>
 </head>
 
 <body>
-	<h1><img id="title" class="title" src="title.png"></h1>
+	<h1><img id="title" class="title" src="src/title.png"></h1>
 	
 	<div id="header">
 		<p>Academic spam is the practice of sending unsolicited emails about
@@ -75,7 +68,9 @@
 			<div><span class="count" id="scount">?</span> <span class="type">Services</span></div>
 		</button>
 		
-		<div class="hint">(click on them to see who they are)</div>
+		<div class="hint">&uarr;<br>&mdash; click or search &mdash;</br>&darr;</div>
+		
+		<input type="text" id="search" maxlength="40" onchange="searchFilter();" onkeypress="this.onchange();" onpaste="this.onchange();" oninput="this.onchange();">
 	</div>
 	
 	<div id="container">
@@ -95,14 +90,6 @@
 		document.getElementById( 'ecount' ).innerHTML = events.length;
 		document.getElementById( 'pcount' ).innerHTML = publishers.length;
 		document.getElementById( 'scount' ).innerHTML = services.length;
-	console.log('IP4 Map Level 2');
-	console.dir( ip4map2 );
-	console.log();
-
-	console.log('IP4 Map Level 3');
-	console.dir( ip4map3 );
-	console.log();
-
 	</script>
 </body>
 </html>
