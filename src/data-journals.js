@@ -11,10 +11,9 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-
-
+	
+	{ name: 'EON International Journal of Arts, Humanities and Social Sciences', acronym: 'EIJAHSS', url: 'https://eonjournal.org/' },
+	{ name: 'Open Access Journal of Education & Language Studies', acronym: 'OAJELS', url: 'https://juniperpublishers.com/oajels/' },
 	{ name: 'Annals of Civil and Environmental Engineering', acronym: 'ACEE' },
 	{ name: 'Global Journal of Ecology' },
 	{ name: 'Advanced Research on Information Systems Security', acronym: 'ARIS2', url: 'https://aris-journal.com/aris/index.php/journal' },
