@@ -11,7 +11,7 @@ var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'nature-cphs.net', ip4: '' },
 	{ domain: 'research-submit.com', ip4: '66.103.220.82' },
 
 	{ domain: 'submitopen.org', ip4: '' },
@@ -82,7 +82,7 @@ var services = [
 	{ domain: 'easyscience.education' },
 	{ domain: 'editingspapers.com', ip4: '192.236.193.149' },
 	{ domain: 'ei25.live', ip4: '43.252.89.46' },
-	{ domain: 'emailing-server.net', ip4: '202.69.53.66' },
+	{ domain: 'emailing-server.net', ip4: ['202.69.53.66', '202.69.53.72'] },
 	{ domain: 'embarcadero.com' },
 	{ domain: 'elasticemail.com', ip4: '216.169.99.6' },
 	{ domain: 'elasticemail.info', ip4: '176.31.7.110' },
