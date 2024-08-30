@@ -7,7 +7,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Advanced Network Technologies and Computational Intelligence', acronym: 'ICANTCI', url: 'https://ca.chitkara.edu.in/icantci2025' },
 
 	{ name: 'Symposium on Languages, Applications and Technologies', acronym: 'SLATE', url: 'https://slate-conf.org/2024/home' },
 	{ name: 'Congreso Internacional de formación permanente', acronym: '', url: '' },

@@ -7,10 +7,10 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: '1e100.net', ip4: '' },
+	{ domain: 'chitkara.edu.in', ip4: '' },
+	{ domain: 'n-email7.net', ip4: '' },
+	{ domain: 'n-email.net', ip4: '141.193.209.99' },
 	{ domain: 'nature-cphs.net', ip4: '' },
 	{ domain: 'research-submit.com', ip4: '66.103.220.82' },
 
