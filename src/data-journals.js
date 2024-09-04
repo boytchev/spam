@@ -9,9 +9,9 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	
+	{ name: 'International Journal of Inventive Engineering and Sciences', acronym: 'IJIES', url: 'https://www.blueeyesintelligence.org/journals/' },
+
+	{ name: 'International Journal of Energy and Power Engineering', acronym: 'INTJEPE', url: 'http://intjepe.org/' },
 	{ name: 'EON International Journal of Arts, Humanities and Social Sciences', acronym: 'EIJAHSS', url: 'https://eonjournal.org/' },
 	{ name: 'Open Access Journal of Education & Language Studies', acronym: 'OAJELS', url: 'https://juniperpublishers.com/oajels/' },
 	{ name: 'Annals of Civil and Environmental Engineering', acronym: 'ACEE' },
@@ -114,7 +114,7 @@ var journals = [
 	{ name: 'Journal of Biomedical Research & Environmental Sciences', acronym: 'JBRES/SCIRESJ' },
 	{ name: 'Journal of Business & Economic Management', acronym: 'JBEM' },
 	{ name: 'Journal of Civil Engineering Research Journal', acronym: 'CERJ' },
-	{ name: 'Journal of Computer', url: [ 'http://www.jcomputer.org/', 'http://joenergys.org/' ] },
+	{ name: 'Journal of Computer', url: [ 'http://www.jcomputer.org/', 'http://joenergys.org/', 'http://jocomputer.org/' ] },
 	{ name: 'Journal of Computer Science and Information Technology', acronym: 'JCSIT', url: 'http://jcsitnet.com/' },
 	{ name: 'Journal of Edge Computing', acronym: 'JEC', url: 'https://acnsci.org/journal/index.php/jec/index' },
 	{ name: 'Journal of Education and Human Development', acronym: 'JEHD' },
