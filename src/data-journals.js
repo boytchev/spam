@@ -7,10 +7,9 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Asian American Studies', acronym: 'JAAS', url: 'https://jaas-journal.org/' },
+	{ name: 'Collective Journal of Physics', acronym: '', url: 'https://rscope.org/' },
 	{ name: 'International Journal of Inventive Engineering and Sciences', acronym: 'IJIES', url: 'https://www.blueeyesintelligence.org/journals/' },
-
 	{ name: 'International Journal of Energy and Power Engineering', acronym: 'INTJEPE', url: 'http://intjepe.org/' },
 	{ name: 'EON International Journal of Arts, Humanities and Social Sciences', acronym: 'EIJAHSS', url: 'https://eonjournal.org/' },
 	{ name: 'Open Access Journal of Education & Language Studies', acronym: 'OAJELS', url: 'https://juniperpublishers.com/oajels/' },
