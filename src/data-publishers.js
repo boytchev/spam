@@ -7,7 +7,7 @@ var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Society for Technology, Education, and Science', acronym: 'ISTES', url: 'https://istes.org/' },
 	{ name: 'STM Journals', acronym: '', url: 'https://stmjournals.com/' },
 	{ name: 'stmjournals.com', acronym: '', url: '' },
 	{ name: 'Nano Science and Technology Consortium', acronym: 'NSTC', url: 'https://nstc.in/' },

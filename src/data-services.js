@@ -201,7 +201,6 @@ var services = [
 	{ domain: 'irisopenaccess.org' },
 	{ domain: 'irispublisher.com' },
 	{ domain: 'iscte-iul.pt' },
-	{ domain: 'istes.org' },
 	{ domain: 'jbresonline.com', ip4: '178.32.143.18' },
 	{ domain: 'jcivil.org' },
 	{ domain: 'jclinicalmedicine.org' },
