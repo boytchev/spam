@@ -8,7 +8,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Advances in Civil and Ecological Engineering Research', acronym: 'ACEER', url: 'http://www.aceerconf.org' },
 	{ name: 'International Congress on Information and Communication Technology', acronym: 'ICICT', url: 'https://icict.co.uk/' },
 	{ name: 'International Conference on Metal Material Processes and Manufacturing', acronym: 'ICMMPM', url: 'https://icmmpm.org/' },
 	{ name: 'Deep Learning Architectures Workshop', acronym: '', url: '' },

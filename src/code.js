@@ -1,6 +1,9 @@
 
 var container;
 
+// eslint-disable-next-line no-unused-vars
+var urlParams = new URLSearchParams( window.location.search );
+
 
 function clearContainer() {
 
@@ -382,9 +385,10 @@ function showAllServices( searchText ) {
 
 
 // eslint-disable-next-line no-unused-vars
-function searchFilter( ) {
+function searchFilter( predefinedSearch ) {
 
-	var searchText = document.getElementById( 'search' ).value;
+	var searchElem = document.getElementById( 'search' ),
+		searchText = searchElem.value || predefinedSearch || '';
 
 	// escape all RegEx special symbols
 	searchText = searchText.replace( /[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&' );
@@ -399,3 +403,6 @@ function searchFilter( ) {
 	showAllServices( searchText );
 
 }
+
+
+
