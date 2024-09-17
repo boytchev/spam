@@ -9,7 +9,7 @@ var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'academicconf.com', ip4: '' },
 	{ domain: 'mailmajik.com', ip4: '' },
 	{ domain: 'itlinks.com', ip4: '135.181.140.122' },
 	{ domain: 'collectivejournals.com', ip4: '139.99.24.95' },
