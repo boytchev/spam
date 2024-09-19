@@ -6,7 +6,7 @@ var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'BP International', acronym: '', url: 'https://www.bpipromotion.org/' },
 	{ name: 'International Society for Technology, Education, and Science', acronym: 'ISTES', url: 'https://istes.org/' },
 	{ name: 'STM Journals', acronym: '', url: 'https://stmjournals.com/' },
 	{ name: 'stmjournals.com', acronym: '', url: '' },
@@ -60,7 +60,8 @@ var publishers = [
 
 ];
 
-
+
+
 
 
 
