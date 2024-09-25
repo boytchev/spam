@@ -6,7 +6,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Addiction World Conference', acronym: 'AWC', url: 'https://www.addictionworldconference.com/' },
 	{ name: 'International Trend of Tech Symposium', acronym: 'ITTSCONF', url: '' },
 	{ name: 'International Conference on Advances in Electrical-Electronics Engineering and Computer Science', acronym: 'ICEEECS', url: '' },
 	{ name: 'International Symposium on Innovative Approaches in Smart Technologies', acronym: 'ISAS', url: '' },
