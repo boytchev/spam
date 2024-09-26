@@ -5,6 +5,8 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: 'Savant Translations', acronym: '', url: 'https://savanttranslations.com/' },
+	{ name: 'Savant Proofreading', acronym: '', url: 'https://savanttranslations.com/' },
 	{ name: 'Cambridge Proofreading', acronym: '', url: 'https://www.cambridgeediting.com/' },
 	{ name: 'BP International', acronym: '', url: 'https://www.bpipromotion.org/' },
 	{ name: 'International Society for Technology, Education, and Science', acronym: 'ISTES', url: 'https://istes.org/' },
