@@ -5,7 +5,7 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Computing and Artificial Intelligence', acronym: '', url: '' },
 	{ name: 'The Annals of Family Medicine', acronym: '', url: '' },
 	{ name: 'Pakistan Journal of Life and Social Sciences', acronym: 'PJLSS', url: '' },
 	{ name: 'International Journal of Advanced Engineering and Nano Technology', acronym: 'IJAENT', url: 'https://www.ijaent.org/' },
