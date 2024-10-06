@@ -5,6 +5,10 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'International Journal of Informatics and Communication Technology', acronym: 'IJ-ICT', url: 'https://ijict.iaescore.com' },
+	{ name: 'The Journal of Nephrology', acronym: '', url: '' },
 	{ name: 'Computing and Artificial Intelligence', acronym: '', url: '' },
 	{ name: 'The Annals of Family Medicine', acronym: '', url: '' },
 	{ name: 'Pakistan Journal of Life and Social Sciences', acronym: 'PJLSS', url: '' },
