@@ -5,8 +5,8 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Journal of Population Studies', acronym: 'IJPS', url: '' },
+	{ name: 'Molecular & Cellular Biomechanics', acronym: 'MCB', url: 'https://ojs.sin-chn.com/index.php/mcb' },
 	{ name: 'International Journal of Informatics and Communication Technology', acronym: 'IJ-ICT', url: 'https://ijict.iaescore.com' },
 	{ name: 'The Journal of Nephrology', acronym: '', url: '' },
 	{ name: 'Computing and Artificial Intelligence', acronym: '', url: '' },
