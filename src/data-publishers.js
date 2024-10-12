@@ -5,7 +5,7 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'World Keynote Speakers Database', acronym: '', url: 'http://keynotespeakersworld.com/' },
 	{ name: 'EnPress Publisher', acronym: '', url: '' },
 	{ name: 'Savant Translations', acronym: '', url: 'https://savanttranslations.com/' },
 	{ name: 'Savant Proofreading', acronym: '', url: 'https://savanttranslations.com/' },
