@@ -7,6 +7,11 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'directivepubcations.com', ip4: '' },
 	{ domain: 'polscientific.net', ip4: '' },
 	{ domain: 'theapra.org', ip4: '' },
 	{ domain: 'researchers-forum.com', ip4: '' },

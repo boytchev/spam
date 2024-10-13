@@ -5,6 +5,10 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'The American Journal of Kidney Diseases', acronym: '', url: '' },
 	{ name: 'International Journal of Population Studies', acronym: 'IJPS', url: '' },
 	{ name: 'Molecular & Cellular Biomechanics', acronym: 'MCB', url: 'https://ojs.sin-chn.com/index.php/mcb' },
 	{ name: 'International Journal of Informatics and Communication Technology', acronym: 'IJ-ICT', url: 'https://ijict.iaescore.com' },
