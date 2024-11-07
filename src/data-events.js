@@ -6,7 +6,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Congress on Human-Computer Interaction, Optimization and Robotic Applications', acronym: 'ICHORA', url: '' },
 	{ name: 'international scientific and practical conference "Information technologies and automation"', acronym: '', url: '' },
 	{ name: 'International Conference on Cancer and Oncology Research', acronym: '', url: '' },
 	{ name: 'International Conference on Environmental Research, Eco-Friendly Power Sources, and Automation Innovations', acronym: 'EEAI', url: '' },
