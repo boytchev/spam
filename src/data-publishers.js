@@ -4,7 +4,7 @@
 
 var publishers = [
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'IBIS Worldwide Academic and Library File', acronym: '', url: 'https://www.ibisacademic.com/' },
 	{ name: 'Deep Science Publishing', acronym: '', url: '' },
 	{ name: 'International Center for Promoting knowledge', acronym: 'ICPK', url: '' },
 	{ name: 'World Keynote Speakers Database', acronym: '', url: 'http://keynotespeakersworld.com/' },

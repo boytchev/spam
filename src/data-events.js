@@ -5,7 +5,7 @@
 var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Asia Conference on Cognitive Engineering and Intelligent Interaction', acronym: 'CEII', url: 'https://ceii.asia/' },
 	{ name: 'International Congress on Human-Computer Interaction, Optimization and Robotic Applications', acronym: 'ICHORA', url: '' },
 	{ name: 'international scientific and practical conference "Information technologies and automation"', acronym: '', url: '' },
 	{ name: 'International Conference on Cancer and Oncology Research', acronym: '', url: '' },

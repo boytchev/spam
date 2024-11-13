@@ -8,7 +8,7 @@ var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'joevng.com', ip4: '66.187.5.69' },
 	{ domain: 'student.mes.ac.in', ip4: '' },
 	{ domain: 'imdlv.net', ip4: '163.172.134.5' },
 	{ domain: 'sydlerhealth.com', ip4: '158.69.187.187' },

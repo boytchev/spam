@@ -5,8 +5,8 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: ' International Journal of Soft Computing and Engineering', acronym: 'IJSCE', url: '' },
+	{ name: 'International Journal of Stress Management', acronym: 'IJSM', url: 'https://apa-ijsm.org/' },
+	{ name: 'International Journal of Soft Computing and Engineering', acronym: 'IJSCE', url: '' },
 	{ name: 'Computer and Telecommunication Engineering', acronym: 'CTE', url: 'https://aber.apacsci.com/index.php/CTE' },
 	{ name: 'Creative Education', acronym: 'CE', url: '' },
 	{ name: 'International Journal of Data Structure Studies', acronym: '', url: '' },
