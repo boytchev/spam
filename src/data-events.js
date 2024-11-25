@@ -4,7 +4,7 @@
 
 var events = [
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Global Conference on Polymer and Composite Materials', acronym: 'PCM', url: 'https://cpcmconf.org/' },
 	{ name: 'Asia Conference on Cognitive Engineering and Intelligent Interaction', acronym: 'CEII', url: 'https://ceii.asia/' },
 	{ name: 'International Congress on Human-Computer Interaction, Optimization and Robotic Applications', acronym: 'ICHORA', url: '' },
 	{ name: 'international scientific and practical conference "Information technologies and automation"', acronym: '', url: '' },

@@ -5,6 +5,12 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Trends in Computer Science and Information Technology', acronym: 'TCSIT', url: '' },
 	{ name: 'International Journal of Stress Management', acronym: 'IJSM', url: 'https://apa-ijsm.org/' },
 	{ name: 'International Journal of Soft Computing and Engineering', acronym: 'IJSCE', url: '' },
 	{ name: 'Computer and Telecommunication Engineering', acronym: 'CTE', url: 'https://aber.apacsci.com/index.php/CTE' },
