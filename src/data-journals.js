@@ -5,7 +5,7 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Advanced Research Journal in Science, Engineering and Technology', acronym: 'IARJSET', url: 'https://iarjset.com/' },
 	{ name: 'Applied Mathematics', acronym: 'AM', url: '' },
 	{ name: 'Sound & Vibration', acronym: 'SV', url: '' },
 	{ name: 'Contemporary Education and Teaching Research', acronym: 'CETR', url: 'http://ojs.bonfuturepress.com/index.php/CETR' },
@@ -58,7 +58,7 @@ var journals = [
 	{ name: 'Annals of Systems Biology' },
 	{ name: 'Archives of Psychiatry and Mental Health' },
 	{ name: 'Arts & Communication', acronym: 'A&C', url: 'https://accscience.com/' },
-	{ name: 'Asian Journal of Education and Social Studies', acronym: 'AJESS', url: 'https://reviews.oaacademicpress.com/ajess/journal' },
+	{ name: 'Asian Journal of Education and Social Studies', acronym: 'AJESS', url: ['https://reviews.oaacademicpress.com/ajess/journal','https://r1.reviewerhub.org/ajess/journal'] },
 	{ name: 'Asian Research Journal of Arts & Social Sciences', acronym: 'ARJASS', url: 'https://journalarjass.com/index.php/ARJASS' },
 	{ name: 'Buletin Ilmiah Sarjana Teknik Elektro', acronym: 'BISTE', url: 'http://journal2.uad.ac.id/index.php/biste' },
 	{ name: 'Cattle Practice', url: 'https://cattlepractice.org/' },
