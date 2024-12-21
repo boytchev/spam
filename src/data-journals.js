@@ -5,6 +5,9 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'International Multidisciplinary Research Journal Reviews', acronym: 'IMRJR', url: 'https://imrjr.com/' },
 	{ name: 'International Advanced Research Journal in Science, Engineering and Technology', acronym: 'IARJSET', url: 'https://iarjset.com/' },
 	{ name: 'Applied Mathematics', acronym: 'AM', url: '' },
 	{ name: 'Sound & Vibration', acronym: 'SV', url: '' },
