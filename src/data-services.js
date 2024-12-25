@@ -7,6 +7,10 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'balikesir.edu.tr', ip4: '194.27.74.92' },
+	{ domain: 'cfpfacilitate.org', ip4: '' },
+	{ domain: 'bilpublishing.net', ip4: '' },
 	{ domain: 'enpress-publisher.net', ip4: '' },
 	{ domain: 'gawenk.org', ip4: '185.52.1.15' },
 	{ domain: 'editorialoffice.cn', ip4: '' },
