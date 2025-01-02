@@ -5,8 +5,8 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Computational Mathematics and its Applications', acronym: '', url: '' },
+	{ name: 'Advances in Computer and Communications', acronym: 'ACC', url: '' },
 	{ name: 'Journal Applied Sciences', acronym: '', url: 'https://www.mdpi.com/journal/applsci/' },
 	{ name: 'South Florida Journal of Development', acronym: '', url: 'https://southfloridapublishing.com/ojs/index.php/jdev' },
 	{ name: 'Journal of Building Material Science', acronym: 'JBMS', url: '' },

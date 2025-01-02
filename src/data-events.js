@@ -7,7 +7,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Scientific Conference on Information, Communication and Energy Systems and Technologies', acronym: 'ICEST', url: 'https://icestconf.org/' },
 	{ name: 'International Conference on Digital Education and Information Technology', acronym: 'DEIT', url: 'https://www.ic-deit.org/' },
 	{ name: 'MIPRO Conference', acronym: 'MIPRO', url: 'http://www.mipro.hr' },
 	{ name: 'Global Conference on Polymer and Composite Materials', acronym: 'PCM', url: 'https://cpcmconf.org/' },
