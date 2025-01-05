@@ -328,7 +328,7 @@ var services = [
 	{ domain: 'professorpositions.com' },
 	{ domain: 'ptechz.net', ip4: '43.227.16.122' },
 	{ domain: 'ptechzoa.com' },
-	{ domain: 'ptzdata.com', ip4: '87.98.237.43' },
+	{ domain: 'ptzdata.com', ip4: ['87.98.237.43', '94.23.65.54'] },
 	{ domain: 'ptzdatares.com', ip4: '51.89.237.47' },
 	{ domain: 'ptzpublications.org', ip4: '148.163.85.134' },
 	{ domain: 'pubintellects.org' },
