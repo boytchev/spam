@@ -6,7 +6,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Cultural and Academic Meeting of Engineering Students', acronym: 'ICAMES', url: 'http://www.icames.boun.edu.tr/' },
 	{ name: 'International Scientific Conference on Information, Communication and Energy Systems and Technologies', acronym: 'ICEST', url: 'https://icestconf.org/' },
 	{ name: 'International Conference on Digital Education and Information Technology', acronym: 'DEIT', url: 'https://www.ic-deit.org/' },
 	{ name: 'MIPRO Conference', acronym: 'MIPRO', url: 'http://www.mipro.hr' },

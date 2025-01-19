@@ -5,6 +5,9 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'International Journal of Innovative Research and Review', acronym: '', url: '' },
+	{ name: 'Psycho-Oncologie', acronym: 'PO', url: '' },
 	{ name: 'Computational Mathematics and its Applications', acronym: '', url: '' },
 	{ name: 'Advances in Computer and Communications', acronym: 'ACC', url: '' },
 	{ name: 'Journal Applied Sciences', acronym: '', url: 'https://www.mdpi.com/journal/applsci/' },

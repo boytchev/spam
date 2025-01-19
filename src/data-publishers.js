@@ -5,8 +5,8 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'IOSR Journals', acronym: '', url: 'https://www.iosrjournals.org/' },
+	{ name: 'Centre for Info Bio Technology', acronym: 'CIBTech', url: 'https://www.cibtech.org/' },
 	{ name: 'Tech Science Press', acronym: 'TSP', url: 'https://www.techscience.com/' },
 	{ name: 'The Association of Professional Researchers and Academicians', acronym: 'APRA', url: 'https://theapra.org/' },
 	{ name: 'IBIS Worldwide Academic and Library File', acronym: '', url: 'https://www.ibisacademic.com/' },
