@@ -5,7 +5,7 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Computers in Education Journal', acronym: 'CoED', url: 'https://coed-journal.org/' },
 	{ name: 'International Journal of Innovative Research and Review', acronym: '', url: '' },
 	{ name: 'Psycho-Oncologie', acronym: 'PO', url: '' },
 	{ name: 'Computational Mathematics and its Applications', acronym: '', url: '' },
