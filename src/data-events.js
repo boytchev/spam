@@ -8,7 +8,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'European Congress on Applied Science and Engineering', acronym: 'Applied Science', url: '' },
 	{ name: 'International Conference on Intelligent Technology for Educational Applications', acronym: 'ITEA', url: 'https://icitea.cc/' },
 	{ name: 'European conference on Human Vaccines & Immunotherapy Innovations', acronym: 'Vaccines', url: '' },
 	{ name: 'International Caparica Conference on Science Education', acronym: 'SCIEDU', url: 'https://sciedu2025.com/' },

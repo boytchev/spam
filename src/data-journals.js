@@ -5,6 +5,11 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Foundations and Trends in Information Systems', acronym: 'FnTIS', url: 'https://fntis-journal.org/' },
+	{ name: 'Current Artificial Intelligence', acronym: 'CAI', url: '' },
 	{ name: 'Computers in Education Journal', acronym: 'CoED', url: 'https://coed-journal.org/' },
 	{ name: 'International Journal of Innovative Research and Review', acronym: '', url: '' },
 	{ name: 'Psycho-Oncologie', acronym: 'PO', url: '' },
