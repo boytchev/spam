@@ -7,6 +7,13 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'juniperpublication.com', ip4: '' },
 	{ domain: 'all-contacts-dashboard.com', ip4: '' },
 	{ domain: 'researcher27.info', ip4: '103.29.183.134' },
 	{ domain: 'notcur.com', ip4: '185.181.210.91' },

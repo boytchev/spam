@@ -5,6 +5,12 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Current Trends in Fashion Technology & Textile Engineering', acronym: '', url: '' },
 	{ name: 'Journal of Biological Regulators and Homeostatic Agents', acronym: 'JBRHA', url: '' },
 	{ name: 'Advances in Differential Equations and Control Processes', acronym: 'ADECP', url: '' },
 	{ name: 'Psycho-Oncology', acronym: 'PO', url: '' },
