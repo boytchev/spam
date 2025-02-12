@@ -9,7 +9,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'ENT Updates', acronym: 'ENTU', url: 'https://ojs.ukscip.com/journals/ENTU' },
 	{ name: 'Current Trends in Fashion Technology & Textile Engineering', acronym: '', url: '' },
 	{ name: 'Journal of Biological Regulators and Homeostatic Agents', acronym: 'JBRHA', url: '' },
 	{ name: 'Advances in Differential Equations and Control Processes', acronym: 'ADECP', url: '' },
