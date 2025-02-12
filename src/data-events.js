@@ -7,7 +7,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Geosynthetics and Environmental Engineering', acronym: 'ICGEE', url: 'https://www.icgee.com/' },
 	{ name: 'European Congress on Applied Science and Engineering', acronym: 'Applied Science', url: '' },
 	{ name: 'International Conference on Intelligent Technology for Educational Applications', acronym: 'ITEA', url: 'https://icitea.cc/' },
 	{ name: 'European conference on Human Vaccines & Immunotherapy Innovations', acronym: 'Vaccines', url: '' },
