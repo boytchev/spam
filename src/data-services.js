@@ -9,7 +9,7 @@ var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'notcur.com', ip4: '185.181.210.91' },
 	{ domain: 'illegaz.com', ip4: '162.254.84.63' },
 	{ domain: 'virtual-mail-022.net', ip4: '122.50.0.139' },
 	{ domain: 'currentartificialinteligence.org', ip4: '' },

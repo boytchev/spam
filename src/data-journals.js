@@ -5,9 +5,9 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Biological Regulators and Homeostatic Agents', acronym: 'JBRHA', url: '' },
+	{ name: 'Advances in Differential Equations and Control Processes', acronym: 'ADECP', url: '' },
+	{ name: 'Psycho-Oncology', acronym: 'PO', url: '' },
 	{ name: 'Foundations and Trends in Information Systems', acronym: 'FnTIS', url: 'https://fntis-journal.org/' },
 	{ name: 'Current Artificial Intelligence', acronym: 'CAI', url: '' },
 	{ name: 'Computers in Education Journal', acronym: 'CoED', url: 'https://coed-journal.org/' },
