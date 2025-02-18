@@ -7,7 +7,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Philip Roth Studies', acronym: 'PRS', url: 'http://www.philiprothstudies.org/' },
 	{ name: 'Technium Social Sciences Journal / TechHub Journal', acronym: '', url: 'https://techhubresearch.com/index.php/journal' },
 	{ name: 'ENT Updates', acronym: 'ENTU', url: 'https://ojs.ukscip.com/journals/ENTU' },
 	{ name: 'Current Trends in Fashion Technology & Textile Engineering', acronym: '', url: '' },
