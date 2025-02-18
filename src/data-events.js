@@ -9,7 +9,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Information and Communication Technology for Intelligent Systems', acronym: 'ICTIS', url: ['https://ictisthailand.com/', 'https://www.ictisusa.com'] },
 	{ name: 'International Conference on Machine Learning and Artificial Intelligence', acronym: 'ICMLAI', url: '' },
 	{ name: 'International Conference on Geosynthetics and Environmental Engineering', acronym: 'ICGEE', url: 'https://www.icgee.com/' },
 	{ name: 'European Congress on Applied Science and Engineering', acronym: 'Applied Science', url: '' },
