@@ -9,7 +9,7 @@ var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'giga-mails.com', ip4: '' },
 	{ domain: 'ip-pool.com', ip4: '85.25.93.174' },
 	{ domain: 'medoapub.com', ip4: '' },
 	{ domain: 'ifpp.top', ip4: '' },
