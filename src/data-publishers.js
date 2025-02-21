@@ -5,6 +5,9 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Japan Bilingual Publishing Company', acronym: '', url: 'https://ojs.bilpub.com/' },
 	{ name: 'IOSR Journals', acronym: '', url: 'https://www.iosrjournals.org/' },
 	{ name: 'Centre for Info Bio Technology', acronym: 'CIBTech', url: 'https://www.cibtech.org/' },
 	{ name: 'Tech Science Press', acronym: 'TSP', url: 'https://www.techscience.com/' },
