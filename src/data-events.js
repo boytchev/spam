@@ -7,7 +7,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Data Analytics and Management in Data Intensive Domains', acronym: 'DAMDID/RCDL', url: '' },
 	{ name: 'International Conference on Image, Video Processing and Artificial Intelligence', acronym: 'IVPAI', url: 'https://www.ivpai.org/' },
 	{ name: 'International Conference on Information and Communication Technology for Intelligent Systems', acronym: 'ICTIS', url: [ 'https://ictisthailand.com/', 'https://www.ictisusa.com' ] },
 	{ name: 'International Conference on Machine Learning and Artificial Intelligence', acronym: 'ICMLAI', url: '' },
