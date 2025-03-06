@@ -7,8 +7,8 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'usajournalshub.com', ip4: '' },
+	{ domain: 'nolegein.com', ip4: '' },
 	{ domain: 'academiedit.com', ip4: '96.126.123.238' },
 	{ domain: 'cdju.com', ip4: '' },
 	{ domain: 'accsciencepublishing.com', ip4: '' },
