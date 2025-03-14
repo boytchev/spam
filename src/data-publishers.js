@@ -6,7 +6,7 @@ var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Open Access Press', acronym: 'OAP', url: 'https://www.openaccesspress.com/' },
 	{ name: 'The USA Journals', acronym: '', url: 'https://theamericanjournals.com/' },
 	{ name: 'Academia Journal Experts', acronym: 'AJE', url: 'https://academiajournalexperts.com/' },
 	{ name: 'Frontline Journals', acronym: '', url: 'https://www.frontlinejournals.org/journals/' },
