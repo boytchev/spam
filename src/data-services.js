@@ -6,6 +6,13 @@
 
 var services = [
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'sp2-brevo.net', ip4: '185.41.28.10' },
 	{ domain: 'nrlocaltransport.com', ip4: '149.18.107.202' },
 	{ domain: 'medcinecase.com', ip4: '' },
 	{ domain: 'elasticemail.co.uk', ip4: '5.135.241.103' },

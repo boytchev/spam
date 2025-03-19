@@ -7,7 +7,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on ENTERprise Information Systems', acronym: 'CENTERIS', url: 'https://centeris.scika.org/' },
 	{ name: 'International Conference on Applied Mathematics, Computational Science and Systems Engineering', acronym: 'AMCSE', url: 'https://www.amcse.org/' },
 	{ name: 'International Conference on Global Issues in Social Sciences, Psychology & Business Management', acronym: 'GISSPBM', url: '' },
 	{ name: 'International Conference on Computer Systems and Applications', acronym: 'AICCSA', url: 'https://conferences.sigappfr.org/aiccsa2025/' },
