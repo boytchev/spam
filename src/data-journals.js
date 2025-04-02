@@ -5,6 +5,9 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Computer and Communications', acronym: 'JCC', url: '' },
 	{ name: 'COJ Robotics & Artificial Intelligence', acronym: 'COJRA', url: '' },
 	{ name: 'The American Journal of Engineering and Technology', acronym: '', url: '' },
 	{ name: 'The American Journal of Horticulture and Floriculture Research', acronym: '', url: '' },
