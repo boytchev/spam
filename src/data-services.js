@@ -27,7 +27,7 @@ var services = [
 	{ domain: 'univ-pau.fr', ip4: '194.167.156.204' },
 	{ domain: 'mktdns.com', ip4: '' },
 	{ domain: 'mheducation.com', ip4: '199.15.214.21' },
-	{ domain: 'blmpb.com', ip4: ['103.149.242.31', '103.149.242.244] },
+	{ domain: 'blmpb.com', ip4: ['103.149.242.31', '103.149.242.244'] },
 	{ domain: 'oralspeakersummit.com', ip4: '149.50.127.176' },
 	{ domain: 'usajournalshub.com', ip4: '' },
 	{ domain: 'nolegein.com', ip4: '' },
