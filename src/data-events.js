@@ -6,7 +6,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Engineering, Economy, Computer Applications for Natural Sciences and Medicine', acronym: 'EEACS', url: 'http://www.eeacs.org/' },
 	{ name: 'International Conference on Cyber Security and Information Engineering', acronym: 'ICCSIE', url: 'http://www.iccsie.com/' },
 	{ name: 'International Conference English Linguistics in the 21st Century', acronym: 'EL21C', url: '' },
 	{ name: 'International Conference on Computer Science, Technology and Engineering', acronym: 'ICCSTE', url: '' },

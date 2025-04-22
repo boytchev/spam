@@ -6,7 +6,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Journal of Engineering Research and Development', acronym: 'IJERD', url: 'www.ijerd.com' },
 	{ name: 'Journal of Computer and Communications', acronym: 'JCC', url: '' },
 	{ name: 'COJ Robotics & Artificial Intelligence', acronym: 'COJRA', url: '' },
 	{ name: 'The American Journal of Engineering and Technology', acronym: '', url: '' },
