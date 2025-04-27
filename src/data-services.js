@@ -7,8 +7,8 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'zgxshy.net', ip4: '' },
+	{ domain: 'escrapo.com', ip4: '104.153.211.221' },
 	{ domain: 'oa50.org', ip4: '51.81.240.72' },
 	{ domain: 'perfectprintservices.co.uk', ip4: '104.223.59.2' },
 	{ domain: 'client-notices.com', ip4: '91.242.163.164' },
