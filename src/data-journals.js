@@ -6,6 +6,8 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Digital Technologies Research and Applications', acronym: 'DTRA', url: 'https://ojs.ukscip.com/journals/dtra' },
 	{ name: 'International Journal of Engineering Research and Development', acronym: 'IJERD', url: 'www.ijerd.com' },
 	{ name: 'Journal of Computer and Communications', acronym: 'JCC', url: '' },
 	{ name: 'COJ Robotics & Artificial Intelligence', acronym: 'COJRA', url: '' },

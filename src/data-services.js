@@ -7,6 +7,12 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'oaspaz.top', ip4: '' },
+	{ domain: 'arcopenaccess.com', ip4: '' },
+	{ domain: 'meghaz-meetings.com', ip4: '104.37.173.129' },
+	{ domain: 'aas.wang', ip4: '' },
+	{ domain: 'netease.com', ip4: '210.79.60.103' },
 	{ domain: 'zgxshy.net', ip4: '' },
 	{ domain: 'escrapo.com', ip4: '104.153.211.221' },
 	{ domain: 'oa50.org', ip4: '51.81.240.72' },
