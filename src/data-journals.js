@@ -177,7 +177,7 @@ var journals = [
 	{ name: 'Journal of Biomedical Research & Environmental Sciences', acronym: 'JBRES/SCIRESJ' },
 	{ name: 'Journal of Business & Economic Management', acronym: 'JBEM' },
 	{ name: 'Journal of Civil Engineering Research Journal', acronym: 'CERJ' },
-	{ name: 'SCIREA Journal of Computer', url: [ 'http://www.jcomputer.org/', 'http://joenergys.org/', 'http://jocomputer.org/', 'http://jfoods.org/', 'http://jomaterials.org/' ] },
+	{ name: 'SCIREA Journal of Computer', url: [ 'http://www.jcomputer.org/', 'http://joenergys.org/', 'http://jocomputer.org/', 'http://jfoods.org/', 'http://jomaterials.org/', 'http://jomanagement.org/' ] },
 	{ name: 'Journal of Computer Science and Information Technology', acronym: 'JCSIT', url: 'http://jcsitnet.com/' },
 	{ name: 'Journal of Edge Computing', acronym: 'JEC', url: 'https://acnsci.org/journal/index.php/jec/index' },
 	{ name: 'Journal of Education and Human Development', acronym: 'JEHD' },
