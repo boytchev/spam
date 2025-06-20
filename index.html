@@ -90,6 +90,8 @@
 		document.getElementById( 'ecount' ).innerHTML = events.length;
 		document.getElementById( 'pcount' ).innerHTML = publishers.length;
 		document.getElementById( 'scount' ).innerHTML = services.length;
+
+		console.log('total',journals.length+events.length+publishers.length+services.length);
 		
 		searchFilter( urlParams.get('search') );
 	</script>
