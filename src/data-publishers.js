@@ -6,7 +6,7 @@ var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'ARC Publications', acronym: '', url: 'https://www.arcjournals.org/' },
 	{ name: 'UK Scientific Publishing', acronym: '', url: 'https://ojs.ukscip.com/' },
 	{ name: 'Alliance Academy of Sciences', acronym: '', url: '' },
 	{ name: 'Database of Multidisciplinary Journals and Research', acronym: 'DMJR', url: 'https://dmjr-journals.com/' },
