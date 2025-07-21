@@ -8,7 +8,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Advances in Behavioral Neuroscience', acronym: '', url: '' },
 	{ name: 'International Journal of Research Studies in Electrical and Electronics Engineering', acronym: 'IJRSEEE', url: 'https://www.arcjournals.org/international-journal-of-research-studies-in-electrical-and-electronics-engineering/index' },
 	{ name: 'Cross-Cultural Education Studies', acronym: 'CCES', url: 'https://journals.zycentre.com/cces' },
 	{ name: 'Research on World Agricultural Economy', acronym: 'RWАE, RAWE', url: 'https://journals.nasspublishing.com/index.php/rwae' },

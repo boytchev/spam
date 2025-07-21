@@ -7,8 +7,8 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'dpmedpub.com', ip4: '' },
+	{ domain: 'medcasereoa.com', ip4: '' },
 	{ domain: 'cloudfilter.net', ip4: '44.202.169.38' },
 	{ domain: 'wwys.net', ip4: '' },
 	{ domain: 'oaspaz.top', ip4: '' },
