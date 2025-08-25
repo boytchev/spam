@@ -4,10 +4,10 @@
 
 var journals = [
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Intelligent Communication', acronym: 'JIC', url: '' },
+	{ name: 'International Journal of Professional Business Review', acronym: 'JBReview', url: 'https://www.openaccessojs.com/JBReview' },
+	{ name: 'Journal of AI for Materials and Design', acronym: 'IJAMD', url: '' },
+	{ name: 'Stochastic Models in Probability and Statistics', acronym: 'SMPS', url: 'https://smps.um.ac.ir/' },
 	{ name: 'Advances in Behavioral Neuroscience', acronym: '', url: '' },
 	{ name: 'International Journal of Research Studies in Electrical and Electronics Engineering', acronym: 'IJRSEEE', url: 'https://www.arcjournals.org/international-journal-of-research-studies-in-electrical-and-electronics-engineering/index' },
 	{ name: 'Cross-Cultural Education Studies', acronym: 'CCES', url: 'https://journals.zycentre.com/cces' },

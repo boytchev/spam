@@ -4,8 +4,10 @@
 
 var publishers = [
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Scientific Publications', acronym: '', url: 'https://spubl.bg/en' },
+	{ name: 'Open Access Publications', acronym: '', url: 'https://openaccesspublications.org/' },
+	{ name: 'Scientary Ally Meetings', acronym: '', url: 'https://scientarymeetings.com/' },
+	{ name: 'Futurity publishing', acronym: '', url: 'https://futurity-publishing.com/' },
 	{ name: 'ARC Publications', acronym: '', url: 'https://www.arcjournals.org/' },
 	{ name: 'UK Scientific Publishing', acronym: '', url: 'https://ojs.ukscip.com/' },
 	{ name: 'Alliance Academy of Sciences', acronym: '', url: '' },
