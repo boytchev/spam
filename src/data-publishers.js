@@ -4,6 +4,9 @@
 
 var publishers = [
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
 	{ name: 'Scientific Publications', acronym: '', url: 'https://spubl.bg/en' },
 	{ name: 'Open Access Publications', acronym: '', url: 'https://openaccesspublications.org/' },
 	{ name: 'Scientary Ally Meetings', acronym: '', url: 'https://scientarymeetings.com/' },

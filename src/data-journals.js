@@ -4,6 +4,10 @@
 
 var journals = [
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'The Annals of Internal Medicine', acronym: '', url: '' },
 	{ name: 'Journal of Intelligent Communication', acronym: 'JIC', url: '' },
 	{ name: 'International Journal of Professional Business Review', acronym: 'JBReview', url: 'https://www.openaccessojs.com/JBReview' },
 	{ name: 'Journal of AI for Materials and Design', acronym: 'IJAMD', url: '' },
