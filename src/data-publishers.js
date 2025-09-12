@@ -39,7 +39,7 @@ var publishers = [
 	{ name: 'stmjournals.com', acronym: '', url: '' },
 	{ name: 'Nano Science and Technology Consortium', acronym: 'NSTC', url: 'https://nstc.in/' },
 	{ name: 'Istanbul University Press', acronym: 'IU Press', url: 'https://iupress.istanbul.edu.tr/' },
-	{ name: 'Bilingual Publishing Group', acronym: '', url: ['https://bilpubgroup.com/','bilpubgroup.top'] },
+	{ name: 'Bilingual Publishing Group', acronym: '', url: [ 'https://bilpubgroup.com/', 'bilpubgroup.top' ] },
 	{ name: 'SkillZip', acronym: '', url: 'https://skillzip.com/' },
 	{ name: 'AccScience Publishing', acronym: 'ASP', url: 'https://accscience.com' },
 	{ name: 'American Institute of Mathematical Sciences Press', acronym: 'AIMS Press', url: 'https://www.aimspress.com/' },
