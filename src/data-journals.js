@@ -5,6 +5,10 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Linguistics and Education Research', acronym: 'JLER', url: '' },
 	{ name: 'Journal of Electronics and Information Technology', acronym: 'JEIT', url: 'https://journaleit.org/' },
 	{ name: 'Human Resources Management and Services', acronym: 'HRMS', url: '' },
 	{ name: 'Psychology of Education and Learning Sciences', acronym: '', url: '' },
