@@ -5,7 +5,7 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Scifiniti Publishing', acronym: '', url: 'scifinitipublishing.com' },
 	{ name: 'John Wiley & Sons', acronym: '', url: 'https://www.wiley.com/' },
 	{ name: 'Scientific Publications', acronym: '', url: 'https://spubl.bg/en' },
 	{ name: 'Open Access Publications', acronym: '', url: 'https://openaccesspublications.org/' },

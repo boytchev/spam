@@ -5,9 +5,9 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Computing&AI Connect', acronym: '', url: '' },
+	{ name: 'Technical Security', acronym: '', url: 'https://technikwissen.eu/' },
+	{ name: 'Open Nano Research Journal', acronym: 'ONJ', url: 'https://opennano.life/' },
 	{ name: 'Journal of Linguistics and Education Research', acronym: 'JLER', url: '' },
 	{ name: 'Journal of Electronics and Information Technology', acronym: 'JEIT', url: 'https://journaleit.org/' },
 	{ name: 'Human Resources Management and Services', acronym: 'HRMS', url: '' },
