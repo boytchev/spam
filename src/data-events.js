@@ -5,7 +5,9 @@
 var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Conference on Business Excellence', acronym: 'ICBE', url: '' },
+	{ name: 'International Conference on Industry Sciences and Computer Sciences Innovation', acronym: 'iSCSi', url: 'https://iscsi-conference.org/' },
+	{ name: 'International Scientific IT&A Conference "Information technologies and automation"', acronym: 'ITIA', url: 'https://www.ontu.edu.ua/itia' },
 	{ name: 'International Conference on Mechanical Engineering and Robots', acronym: 'CMER', url: '' },
 	{ name: 'ACM Workshop on Secure IoT, Edge and Cloud systems', acronym: 'SIoTEc', url: 'https://siotec.netsons.org/' },
 	{ name: 'International Conference on Economic Sciences and Management in the Changing World', acronym: 'ICESMCM', url: '' },

@@ -5,6 +5,10 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: 'Degres Journal', acronym: '', url: 'https://degres.eu/' },
+	{ name: 'ICCK Transactions on Sensing, Communication, and Control', acronym: 'TSCC', url: 'https://www.icck.org/tscc' },
+	{ name: 'American Journal of  Multidisciplinary Research and Development', acronym: 'AJMRD', url: 'https://www.ajmrd.com/' },
+	{ name: 'Liberte Research Journal', acronym: '', url: 'https://liberteresearch.org/' },
 	{ name: 'Computing&AI Connect', acronym: '', url: '' },
 	{ name: 'Technical Security', acronym: '', url: 'https://technikwissen.eu/' },
 	{ name: 'Open Nano Research Journal', acronym: 'ONJ', url: 'https://opennano.life/' },
