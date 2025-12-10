@@ -7,7 +7,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Annals of Musculoskeletal Medicine', acronym: 'AMM', url: '' },
 	{ name: 'Research on European Social Issues', acronym: 'RESI', url: '' },
 	{ name: 'Journal of Artificial Intelligence and Robotics', acronym: 'JOAIAR', url: ['https://joaiar.org/','https://roboticsjournal.info'] },
 	{ name: 'Journal of Vibration Engineering', acronym: 'JOVE Publications', url: 'https://jove.science/' },

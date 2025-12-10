@@ -7,7 +7,7 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'ptzjournals.net', ip4: '51.89.140.252' },
 	{ domain: 'jgynaobs.com', ip4: '' },
 	{ domain: 'worldpubj.com', ip4: '' },
 	{ domain: 'crostru.com', ip4: '119.3.70.37' },
