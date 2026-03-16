@@ -6,7 +6,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'International Symposium on AI-Driven Engineering Systems', acronym: 'ISADES', url: '' },
 	{ name: 'World Congress on Materials & Nanoscience', acronym: 'WCMN', url: 'WCMN' },
 	{ name: 'International Conference on Business Excellence', acronym: 'ICBE', url: '' },
 	{ name: 'International Conference on Industry Sciences and Computer Sciences Innovation', acronym: 'iSCSi', url: 'https://iscsi-conference.org/' },

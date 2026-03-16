@@ -158,7 +158,7 @@ var services = [
 	{ domain: 'nstc.in', ip4: '' },
 	{ domain: 'conwiz.in', ip4: '' },
 	{ domain: 'news-mailer.com', ip4: '' },
-	{ domain: 'xqueue.com', ip4: [ '212.6.174.184', '212.6.174.183' ] },
+	{ domain: 'xqueue.com', ip4: [ '212.6.174.184', '212.6.174.183', '212.6.174.181' ] },
 	{ domain: 'sendnbx.com', ip4: '167.172.183.215' },
 	{ domain: 'hillpublishing.org', ip4: '' },
 	{ domain: 'ngapor.com', ip4: '107.161.164.11' },
