@@ -7,6 +7,13 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'jbres.org', ip4: '' },
+	{ domain: 'biomedenv.com', ip4: ['51.83.126.76', '5.196.184.22'] },
 	{ domain: 'awstrack.me', ip4: '' },
 	{ domain: 'aplap.org', ip4: '' },
 	{ domain: 'sciencejournalsone.live', ip4: '' },

@@ -4,6 +4,9 @@
 
 var publishers = [
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'AccScience Publishing', acronym: '', url: '' },
 	{ name: 'Journal Issues', acronym: '', url: 'journalissues.org' },
 	{ name: 'Scifiniti Publishing', acronym: '', url: 'scifinitipublishing.com' },
 	{ name: 'John Wiley & Sons', acronym: '', url: 'https://www.wiley.com/' },
