@@ -6,6 +6,7 @@ var events = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: 'Global Congress of Knowledge Economy', acronym: 'GCKE', url: 'gcke-meeting2026.com' },
 	{ name: 'International Symposium on AI-Driven Engineering Systems', acronym: 'ISADES', url: '' },
 	{ name: 'World Congress on Materials & Nanoscience', acronym: 'WCMN', url: 'WCMN' },
 	{ name: 'International Conference on Business Excellence', acronym: 'ICBE', url: '' },
