@@ -5,6 +5,9 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'De Gruyter Brill', acronym: '', url: 'https://www.degruyterbrill.com/' },
 	{ name: 'Institute of Advanced Engineering and Science', acronym: 'IAES', url: 'https://iaesprime.com' },
 	{ name: 'Journal Issues', acronym: '', url: 'journalissues.org' },
 	{ name: 'Scifiniti Publishing', acronym: '', url: 'scifinitipublishing.com' },
