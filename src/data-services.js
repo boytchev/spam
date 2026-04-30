@@ -7,8 +7,8 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
-	{ domain: '', ip4: '' },
+	{ domain: 'cloudpremiumx.shop', ip4: '' },
+	{ domain: 'cloudsummit.store', ip4: '57.129.128.55' },
 	{ domain: 'sciexperts.bg', ip4: '' },
 	{ domain: 'sciexperts.ai', ip4: '' },
 	{ domain: 'sciexperts.com', ip4: '' },
