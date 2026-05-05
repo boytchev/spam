@@ -7,6 +7,10 @@
 var services = [
 	{ domain: '', ip4: '' },
 	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: '', ip4: '' },
+	{ domain: 'cloudprecise.shop', ip4: '' },
+	{ domain: 'omniscipublish.net', ip4: '' },
 	{ domain: 'cloudpremiumx.shop', ip4: '' },
 	{ domain: 'cloudsummit.store', ip4: '57.129.128.55' },
 	{ domain: 'sciexperts.bg', ip4: '' },
