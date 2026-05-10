@@ -7,7 +7,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Psychiatry Research', acronym: '', url: '' },
 	{ name: 'Computer Engineering and Applications Journal', acronym: 'JECA', url: 'https://journalcea.com/' },
 	{ name: 'Lejana Journal', acronym: '', url: 'https://lejana.ac/' },
 	{ name: 'Psychology Research and Practice', acronym: 'PRP', url: '' },
