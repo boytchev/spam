@@ -5,7 +5,7 @@
 var publishers = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Genesis Publishers', acronym: '', url: 'https://genesispublishers.us/' },
 	{ name: 'Cloud Lead Technologies Pvt Ltd', acronym: '', url: '' },
 	{ name: 'De Gruyter Brill', acronym: '', url: 'https://www.degruyterbrill.com/' },
 	{ name: 'Institute of Advanced Engineering and Science', acronym: 'IAES', url: 'https://iaesprime.com' },
