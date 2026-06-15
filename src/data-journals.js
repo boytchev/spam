@@ -5,8 +5,8 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Sustainable Social Development', acronym: 'SSD', url: '' },
+	{ name: 'Journal of Intelligent Decision Making and Information Science', acronym: 'JIDMIS', url: 'https://jidmis.org/index.php/jidmis' },
 	{ name: 'Techniques Sciences Methodes Journal', acronym: '', url: 'https://tsmreview.com/' },
 	{ name: 'Journal of Integrated Arts Education', acronym: 'JIAE', url: '' },
 	{ name: 'Advances in Networks', acronym: '', url: 'http://anetj.com/' },
