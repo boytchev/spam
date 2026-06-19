@@ -5,6 +5,11 @@
 var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: '', acronym: '', url: '' },
+	{ name: 'Indonesian Journal of Electrical Engineering and Computer Science', acronym: 'IJEECS', url: 'https://ijeecs.iaescore.com/index.php' },
 	{ name: 'Sustainable Social Development', acronym: 'SSD', url: '' },
 	{ name: 'Journal of Intelligent Decision Making and Information Science', acronym: 'JIDMIS', url: 'https://jidmis.org/index.php/jidmis' },
 	{ name: 'Techniques Sciences Methodes Journal', acronym: '', url: 'https://tsmreview.com/' },
