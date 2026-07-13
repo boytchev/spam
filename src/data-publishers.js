@@ -13,7 +13,6 @@ var publishers = [
 	{ name: 'Genesis Publishers', acronym: '', url: 'https://genesispublishers.us/' },
 	{ name: 'Cloud Lead Technologies Pvt Ltd', acronym: '', url: '' },
 	{ name: 'De Gruyter Brill', acronym: '', url: 'https://www.degruyterbrill.com/' },
-	{ name: 'Institute of Advanced Engineering and Science', acronym: 'IAES', url: 'https://iaesprime.com' },
 	{ name: 'Journal Issues', acronym: '', url: 'journalissues.org' },
 	{ name: 'Scifiniti Publishing', acronym: '', url: 'scifinitipublishing.com' },
 	{ name: 'John Wiley & Sons', acronym: '', url: 'https://www.wiley.com/' },

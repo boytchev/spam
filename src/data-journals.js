@@ -8,7 +8,7 @@ var journals = [
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
 	{ name: '', acronym: '', url: '' },
-	{ name: '', acronym: '', url: '' },
+	{ name: 'Journal of Artificial Intelligence Research and Innovation', acronym: 'JAIRI', url: '' },
 	{ name: 'Indonesian Journal of Electrical Engineering and Computer Science', acronym: 'IJEECS', url: 'https://ijeecs.iaescore.com/index.php' },
 	{ name: 'Sustainable Social Development', acronym: 'SSD', url: '' },
 	{ name: 'Journal of Intelligent Decision Making and Information Science', acronym: 'JIDMIS', url: 'https://jidmis.org/index.php/jidmis' },
